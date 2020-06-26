@@ -44,7 +44,10 @@ def cmap_stitch_analyze(infile, outfile="out.png", nbins=12, cutoff=0.15, gradie
             stitchEnd = binstarts[nextBin]+gradient//2
             lmap[:, stitchStart:stitchEnd] = (cmaps[bin][:, stitchStart:stitchEnd] + cmaps[nextBin][:, stitchStart:stitchEnd]) / 2.0
     lmap = lmap[:, np.argwhere(np.mean(lmap, 0)!=-1).flatten()]
-
+    neb = lmap[nebStart:nebEnd, :]
+    nebAvg = np.mean(neb, 0)
+    #detrend with median filter, bins=separate cmap regions
+    avg_detrended = detrend(nebAvg, type='constant', bp=[int(i) for i in np.linspace(0, len(lmap), len(keepbins))])
     fig, axes = plt.subplots(2,1, figsize=(20,20))
     axes[0].imshow(lmap, cmap='gist_heat')
     axes[1].imshow(neb, cmap='gist_heat')
@@ -58,6 +61,7 @@ def cmap_stitch_analyze(infile, outfile="out.png", nbins=12, cutoff=0.15, gradie
     fftDetrended = (720 / len(nebAvg) * np.flip(np.argsort(fourier_detrended[0:len(nebAvg)//2]))[:10])
 
     #Lomb-Scargle periodogram
+    lon = np.arange(len(nebAvg))
     lon_normed = (lon-np.min(lon))/len(lon)
     frequency, power = LombScargle(lon_normed,nebAvg).autopower()
     lsRaw = (720 / len(lon_normed) * frequency[np.flip(np.argsort(power[0:len(frequency)//20]))][:10])
