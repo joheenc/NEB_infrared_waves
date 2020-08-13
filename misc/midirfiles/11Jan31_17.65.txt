@@ -1,3 +1,1 @@
 /prvt/cirs11/visir/2011jan31/17.65/jupiter/jc4686_2954.gz
-/prvt/cirs11/visir/2011jan31/17.65/jupiter/wJupiter_Q1_2011-01-31T00:25:43.4686.fits.gz
-/prvt/cirs11/visir/2011jan31/17.65/jupiter/wJupiter_Q1_2011-01-31T00:30:59.2954.fits.gz
