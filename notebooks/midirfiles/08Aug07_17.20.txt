@@ -1,0 +1,10 @@
+/prvt/cirs6/mirsi/2008aug7/17.20/jupiter/jc00520151.gz.cmap.gz
+/prvt/cirs6/mirsi/2008aug7/17.20/jupiter/jc54158.cmap.gz
+/prvt/cirs6/mirsi/2008aug7/17.20/jupiter/jcf052058.cmap.gz
+/prvt/cirs6/mirsi/2008aug7/17.20/jupiter/jcf052058un.cmap.gz
+/prvt/cirs6/mirsi/2008aug7/17.20/jupiter/jcf145151.cmap.gz
+/prvt/cirs6/mirsi/2008aug7/17.20/jupiter/jcf145151un.cmap.gz
+/prvt/cirs6/mirsi/2008aug7/17.20/jupiter/jcf145151unbl.cmap.gz
+/prvt/cirs6/mirsi/2008aug8/17.20/jupiter/jcf015021.cmap.gz
+/prvt/cirs6/mirsi/2008aug8/17.20/jupiter/jcf015021un.cmap.gz
+/prvt/cirs6/mirsi/2008aug8/17.20/jupiter/jcf015021unbl.cmap.gz

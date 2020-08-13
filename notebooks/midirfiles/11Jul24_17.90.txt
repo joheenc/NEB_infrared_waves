@@ -1,0 +1,4 @@
+/prvt/cirs11/mirsi/2011jul24b/17.90/jupiter/jcf037042.cmap.gz
+/prvt/cirs11/mirsi/2011jul24b/17.90/jupiter/jcf141146.cmap.gz
+/prvt/cirs11/mirsi/2011jul25/17.90/jupiter/jcf028033.cmap.gz
+/prvt/cirs11/mirsi/2011jul26/17.90/jupiter/jcf072077.cmap.gz
