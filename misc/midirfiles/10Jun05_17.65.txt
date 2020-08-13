@@ -1,0 +1,6 @@
+/prvt/cirs11/visir/2010jun5/17.65/jupiter/jc0128_0961.cmap.gz
+/prvt/cirs11/visir/2010jun5/17.65/jupiter/jc0128_0961.gz
+/prvt/cirs11/visir/2010jun5/17.65/jupiter/wVISIR.2010-06-05T10:35:07.128.fits.gz
+/prvt/cirs11/visir/2010jun5/17.65/jupiter/wVISIR.2010-06-05T10:35:57.058.fits.gz
+/prvt/cirs11/visir/2010jun5/17.65/jupiter/wVISIR.2010-06-05T10:36:45.961.fits.gz
+/prvt/cirs11/visir/2010jun5/17.65/jupiter/wVISIR.2010-06-05T10:37:36.748.fits.gz

@@ -1,0 +1,3 @@
+/prvt/cirs11/visir/dates_september/2009aug15/17.65/jupiter/wJupiter_Q1_2009-08-15T02:59:15.0898.fits.gz
+/prvt/cirs11/visir/dates_september/2009aug15/17.65/jupiter/wJupiter_Q1_2009-08-15T04:28:51.0875.fits.gz
+/prvt/cirs11/visir/dates_september/2009aug16/17.65/jupiter/wJupiter_Q1_2009-08-16T07:53:29.0677.fits.gz

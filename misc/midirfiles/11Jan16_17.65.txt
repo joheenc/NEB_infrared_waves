@@ -1,0 +1,4 @@
+/prvt/cirs11/visir/2011jan16/17.65/jupiter/jc1977_3593.cmap.gz
+/prvt/cirs11/visir/2011jan16/17.65/jupiter/jc1977_3593.gz
+/prvt/cirs11/visir/2011jan16/17.65/jupiter/wJupiter_Q1_2011-01-16T00:39:23.1977.fits.gz
+/prvt/cirs11/visir/2011jan16/17.65/jupiter/wJupiter_Q1_2011-01-16T00:40:59.3593.fits.gz

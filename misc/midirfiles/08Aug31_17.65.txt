@@ -1,0 +1,10 @@
+/prvt/cirs11/visir/2008aug31/17.65/jupiter/jd_wJupiter_0_2008-08-31T01:43:07.3191.fits.gz
+/prvt/cirs11/visir/2008aug31/17.65/jupiter/jd_wJupiter_0_2008-08-31T01:43:07.3191.fits_071715.cmap.gz
+/prvt/cirs11/visir/2008aug31/17.65/jupiter/jd_wJupiter_0_2008-08-31T01:45:29.3182.fits.gz
+/prvt/cirs11/visir/2008aug31/17.65/jupiter/jdf_wJupiter_0_2008-08-31T01:43:07.3191.fits.cmap.gz
+/prvt/cirs11/visir/2008aug31/17.65/jupiter/jdf_wJupiter_0_2008-08-31T01:43:07.3191.fits.gz
+/prvt/cirs11/visir/2008aug31/17.65/jupiter/jdf_wJupiter_0_2008-08-31T01:43:07.3191.fits_071715.cmap.gz
+/prvt/cirs11/visir/2008aug31/17.65/jupiter/jdf_wJupiter_0_2008-08-31T01:45:29.3182.fits.cmap.gz
+/prvt/cirs11/visir/2008aug31/17.65/jupiter/jdf_wJupiter_0_2008-08-31T01:45:29.3182.fits.gz
+/prvt/cirs11/visir/2008aug31/17.65/jupiter/wJupiter_0_2008-08-31T01:43:07.3191.fits.gz
+/prvt/cirs11/visir/2008aug31/17.65/jupiter/wJupiter_0_2008-08-31T01:45:29.3182.fits.gz

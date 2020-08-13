@@ -1,0 +1,8 @@
+/prvt/cirs11/visir/2010dec1/17.65/jupiter/jc02070209.cmap.gz
+/prvt/cirs11/visir/2010dec1/17.65/jupiter/jc02070209.gz
+/prvt/cirs11/visir/2010dec1/17.65/jupiter/px_jc02070209.cmap.gz
+/prvt/cirs11/visir/2010dec1/17.65/jupiter/px_jc02070209.gz
+/prvt/cirs11/visir/2010dec1/17.65/jupiter/wVISIR.2010-12-01T02:07:47.192.fits.gz
+/prvt/cirs11/visir/2010dec1/17.65/jupiter/wVISIR.2010-12-01T02:08:34.477.fits.gz
+/prvt/cirs11/visir/2010dec1/17.65/jupiter/wVISIR.2010-12-01T02:09:21.530.fits.gz
+/prvt/cirs11/visir/2010dec1/17.65/jupiter/wVISIR.2010-12-01T02:10:10.585.fits.gz

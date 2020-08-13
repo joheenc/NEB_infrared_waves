@@ -1,0 +1,4 @@
+/prvt/cirs11/visir/jup_084.C-0206B/09nov10/17.65/jupiter/wJupiter_Q1_2009-11-11T00:02:19.0932.fits.cmap.gz
+/prvt/cirs11/visir/jup_084.C-0206B/09nov10/17.65/jupiter/wJupiter_Q1_2009-11-11T00:02:19.0932.fits.gz
+/prvt/cirs11/visir/jup_084.C-0206A/09nov11/17.65/jupiter/wvisir_img_combine_0003.fits.cmap.gz
+/prvt/cirs11/visir/jup_084.C-0206A/09nov11/17.65/jupiter/wvisir_img_combine_0003.fits.gz
