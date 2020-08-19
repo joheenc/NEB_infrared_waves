@@ -1,0 +1,3297 @@
+Last Update: Aug 10, 2006
+
+Galileo and Cassini Middle-Infrared Support Observations Taken at the NASA IRTF
+
+Basic Summary:
+
+1995 May 25-26 MIRAC2, NSFCAM  
+1995 Jun 7 MIRAC2  Orton {\it et al.} (1998)
+1995 Sep 3-6 MIRLIN, NSFCAM  Orton {\it et al.} (1998)
+1995 Oct 12-13 MIRAC2, NSFCAM  Orton {\it et al.} (1998)
+1995 Nov 5 - 7 MIRAC2, NSFCAM  Orton {\it et al.} (1998)
+1995 Nov 18 - 24 NSFCAM  ({\it Science} cover 4.78-$\mu$m image)
+1995 Dec 1 - 10 MIRAC2, NSFCAM  Galileo probe entry 
+1996 Jan 3 - 4 MIRLIN  Orton {\it et al.} (1998)
+1996 Apr 21 - 24 MIRLIN, NSFCAM   
+1996 Jun 25 - Jul 1 MIRLIN, NSFCAM Galileo orbit 1 encounter 
+1996 Sep 5 - 6 MIRLIN, NSFCAM, Tek2048 Galileo orbit 2 encounter 
+1996 Nov 6 - 10 MIRLIN, NSFCAM, Tek2048 Galileo orbit 3 encounter 
+1996 Dec 17 - 22  NSFCAM Galileo orbit 4 encounter 
+1997 Feb 19 - 22 NSFCAM Galileo orbit 6 encounter 
+1997 Apr 21 - 24 MIRLIN, NSFCAM Galileo orbit 7 encounter 
+1997 May 6 - 10 MIRLIN, NSFCAM, Tek2048 Galileo orbit 8 encounter 
+1997 Jun 21 - 23 C10MU**, NSFCAM, Tek2048, SC10  Galileo orbit 9 encounter 
+1997 Sep 3       OSCIR, NSFCAM Galileo orbit 9 approaching asymptote 
+1997 Sep 5 - 6 MIRLIN, NSFCAM, Tek2048 Galileo orbit 9 approaching asymptote 
+1997 Oct 12 - 13 MIRAC3, NSFCAM, Tek2048 Galileo orbit 10 encounter 
+1997 Nov 5 - 7 MIRLIN, NSFCAM, Tek2048 Galileo orbit 11 encounter 
+1997 Dec 14 - 18 NSFCAM Galileo orbit 12 encounter 
+1998 Mar 26 - 28   NSFCAM    Galileo orbit 14 encounter 
+1998 May 29 - 31 MIRLIN, NSFCAM Galileo orbit 15 encounter 
+1998 Jul 19 - 21 MIRLIN, NSFCAM Galileo orbit 16 encounter 
+1998 Sep 27 - 29 MIRLIN, NSFCAM Galileo orbit 17 encounter 
+1998 Nov 22 - 24  MIRAC3, NSFCAM   Galileo orbit 18 encounter 
+1999 Jan 30 - 31 NSFCAM  Galileo orbit 19 encounter 
+1999 May 2 - 5  TNTCAM, NSFCAM  Galileo orbit 20 encounter 
+1999 Jun 30 - Jul 2 MIRLIN, NSFCAM  Galileo orbit 21 encounter 
+1999 Aug 12 - 13  MIRLIN, NSFCAM  Galileo orbit 22 encounter 
+1999 Sep 12 - 14  MIRAC3, NSFCAM  Galileo orbit 23 encounter 
+1999 Oct 8, 10  MIRLIN, NSFCAM  Galileo orbit 24 encounter 
+1999 Nov 25 - 26  NSFCAM  Galileo orbit 25 encounter 
+2000 Feb 21 - 22  MIRLIN, NSFCAM  Galileo orbit 27 encounter 
+2000 Jun 9 - 10  MIRLIN, NSFCAM  Galileo orbit 28 encounter 
+2000 Oct 4 - 5  MIRLIN, NSFCAM  Cassini inbound leg 
+2000 Dec 29 -30  MIRLIN, NSFCAM  Cassini, Galileo orbit 29 encounter 
+2001 Mar 4 - 5  MIRLIN, NSFCAM  Cassini outbound leg 
+2001 May 1 - 3  MIRLIN, NSFCAM  Galileo orbit 30 encounter 
+2001 Oct 22 - 24 MIRLIN
+2001 Dec 1  OSCIR - data must be pre-processed
+2002 Feb 8 - 13 MIRLIN
+2003 Feb 23 - Mar 1 MIRLIN
+2003 Oct 28 - 29 MIRSI
+2003 Dec 15 - 18 MIRSI
+2004 Feb 8 - 9 MIRSI
+2004 Mar 26 MIRSI
+2004 Oct 27 - 31 MIRSI
+2004 Dec 15 - 18 MIRSI
+2005 Jan 29 - Feb 1 MIRSI
+2005 Feb 24 - Mar 1 MIRSI
+2005 May 2 - 7 MIRSI
+2005 May 23 - 25 MIRSI
+2005 Jun 11 - 14 MIRSI
+2005 Oct 19, 22, 23 MIRSI
+2005 Nov 20, 21 MIRSI
+2005 Dec 16 - 17 MIRSI
+2006 Jan 29 - 30 MIRSI
+2006 Feb 16 MIRSI
+2006 Apr 14 - 16 MIRSI
+2006 May 24 - 26 MIRSI
+2006 Jun 20 - 22 MIRSI
+2006 Jul 5, 8, 10 MIRSI
+2006 Aug 1, 10 MIRSI
+2006 Oct 19 MIRSI
+2007 Jan 10 - 12 MIRSI
+2007 Feb 24 - 26 MIRSI
+2007 Mar 4 MIRSI
+2007 Mar 18 - 19 MIRSI
+2007 Apr 4 - 5 MIRSI
+2007 May 3, 5 MIRSI
+2007 May 29 - 30 MIRSI
+2007 Jun 11 MIRSI
+2007 Sep 7 - 8 MIRSI
+2007 Oct 4 - 5 MIRSI
+2008 Jan 17 - 18 MIRSI
+2008 Jun 17 MIRSI
+2008 Aug 8 MIRSI
+2008 Oct 23 MIRSI
+2009 Jul 20 MIRSI
+2009 Aug 27 MIRSI
+2010 Jul 1 MIRSI
+2010 Nov 4 MIRSI
+2010 Dec 4-5 MIRSI
+2011 (need to update this)
+
+
+Detailed Mid-IR Data Locator:
+
+/prvt/amba/pds2/mirac/rfiles/930604
+/prvt/amba/pds2/mirac/rfiles/930605
+/prvt/amba/pds2/mirac/rfiles/930606
+/prvt/amba/pds2/mirac/rfiles/930607
+
+/prvt/amba/pds2/mirac/rfiles/930811
+/prvt/amba/pds2/mirac/rfiles/930812
+
+1995 May 25-26 MIRAC2
+
+**/prvt/amba/pia/mirac/95dec
+
+/prvt/amba/mirac/95may/25/7.85/jupiter/junk063082.gz coadd
+/prvt/amba/mirac/95may/25/7.85/jupiter/junk175192.gz coadd
+/prvt/amba/mirac/95may/25/8.57/jupiter/jc083096.gz coadd fft
+/prvt/amba/mirac/95may/25/10.74/jupiter/jc097108.gz coadd fft
+/prvt/amba/mirac/95may/25/12.20/jupiter/jc109114.gz coadd fft
+/prvt/amba/mirac/95may/25/13.30/jupiter/ 2 runs
+/prvt/amba/mirac/95may/25/17.40/jupiter/
+/prvt/amba/mirac/95may/25/17.80/jupiter/junk127138.gz coadd
+/prvt/amba/mirac/95may/25/20.60/jupiter/
+/prvt/amba/mirac/95may/25/24.20/jupiter/
+
+/prvt/amba/mirac/95may/26/7.85/jupiter/
+/prvt/amba/mirac/95may/26/7.85/jupiter/junk328345.gz coadd
+/prvt/amba/mirac/95may/26/7.90/jupiter/
+/prvt/amba/mirac/95may/26/8.57/jupiter/ 2 runs
+/prvt/amba/mirac/95may/26/10.20/jupiter/
+/prvt/amba/mirac/95may/26/10.74/jupiter/ 2 runs
+/prvt/amba/mirac/95may/26/12.20/jupiter/ 2 runs
+/prvt/amba/mirac/95may/26/13.30/jupiter/ 2 runs
+/prvt/amba/mirac/95may/26/17.40/jupiter/
+/prvt/amba/mirac/95may/26/17.80/jupiter/junk364381.gz coadd
+/prvt/amba/mirac/95may/26/20.60/jupiter/
+/prvt/amba/mirac/95may/26/24.20/jupiter/
+
+/prvt/poha/mirac/95nov/5/4.80/jupiter/jcoadd.58.65.gz coadd (bad)
+/prvt/poha/mirac/95nov/5/4.80/saturn/
+/prvt/poha/mirac/95nov/5/7.85/jupiter/
+/prvt/poha/mirac/95nov/5/7.90/jupiter/
+/prvt/poha/mirac/95nov/5/7.90/saturn/ 2 runs		(bad)
+/prvt/poha/mirac/95nov/5/8.57/jupiter/jcoadd.43.45.gz coadd (bad)
+/prvt/poha/mirac/95nov/5/10.74/jupiter/caljcoadd.48.52.gz coadd cal(gamma aql)
+/prvt/poha/mirac/95nov/5/12.20/saturn/
+/prvt/poha/mirac/95nov/5/13.30/jupiter/jcoadd.34.56.gz coadd(of 2 runs?) bad
+/prvt/poha/mirac/95nov/5/17.40/jupiter/
+/prvt/poha/mirac/95nov/5/17.40/saturn/
+
+/prvt/poha/mirac/95nov/6/4.80/jupiter/caljcoadd.103.109.gz coadd cal(alphaScoBS6135)
+/prvt/poha/mirac/95nov/6/4.80/jupiter/caljcoadd.112.118.gz coadd cal(alphaScoBS6135)
+/prvt/poha/mirac/95nov/6/4.80/jupiter/caljcoadd.121.125.gz coadd cal(alphaScoBS6135)
+/prvt/poha/mirac/95nov/6/4.80/saturn/
+/prvt/poha/mirac/95nov/6/7.85/jupiter/caljcoadd.23.36.gz coadd cal(alphaScoBS6135)
+/prvt/poha/mirac/95nov/6/7.85/jupiter/caljcoadd.253.260.gz coadd cal(alphaScoBS6135)
+/prvt/poha/mirac/95nov/6/7.85/saturn/		(bad)
+/prvt/poha/mirac/95nov/6/7.90/jupiter/coadd790.60 coadd(91-102) bad
+/prvt/poha/mirac/95nov/6/7.90/jupiter/coadd790.116 coadd(324-335) bad
+/prvt/poha/mirac/95nov/6/7.90/jupiter/coadd790.118 coadd(324-350) bad
+/prvt/poha/mirac/95nov/6/7.90/jupiter/coadd790.120 coadd(348-350) bad
+/prvt/poha/mirac/95nov/6/8.57/jupiter/caljcoadd.37.42.gz coadd cal(alphaScoBS6135)
+/prvt/poha/mirac/95nov/6/8.57/jupiter/caljcoadd.248.252.gz coadd cal(alphaScoBS6135)
+/prvt/poha/mirac/95nov/6/8.57/jupiter/caljcoadd.270.274.gz coadd cal(alphaScoBS6135)
+/prvt/poha/mirac/95nov/6/10.74/jupiter/jc010018.gz coadd fft (bad)
+/prvt/poha/mirac/95nov/6/10.74/jupiter/jc043048.gz coadd fft (bad)
+/prvt/poha/mirac/95nov/6/10.74/jupiter/jc276281.gz coadd fft (bad)
+/prvt/poha/mirac/95nov/6/12.20/saturn/sc369281.gz coadd fft (very bad!)
+/prvt/poha/mirac/95nov/6/13.30/jupiter/oldfiles/caljcoadd.49.54.gz coadd cal(alphaScoBS6135)
+/prvt/poha/mirac/95nov/6/13.30/jupiter/oldfiles/caljcoadd.282.287.gz coadd cal(alphaScoBS6135)
+/prvt/poha/mirac/95nov/6/17.40/jupiter/oldfiles/caljcoadd.55.66.gz coadd cal(alphaScoBS6135)
+/prvt/poha/mirac/95nov/6/17.40/jupiter/caljcoadd.288.298.gz coadd cal(alphaScoBS6135)
+/prvt/poha/mirac/95nov/6/17.40/saturn/
+/prvt/poha/mirac/95nov/6/17.80/jupiter/oldfiles/caljcoadd.67.78.gz coadd cal(alphaScoBS6135)
+/prvt/poha/mirac/95nov/6/17.80/jupiter/oldfiles/caljcoadd.300.310.gz coadd cal(alphaScoBS6135)
+/prvt/poha/mirac/95nov/6/20.60/jupiter/caljcoadd.79.89.gz coadd cal(alphaScoBS6135)
+/prvt/poha/mirac/95nov/6/20.60/jupiter/caljcoadd.312.323.gz coadd cal(alphaScoBS6135)
+
+/prvt/meli/mirac/95dec/4/4.80/jupiter/caljcoadd.164.225.gz; nwcaljcoadd.164.225.gz coadd(2 runs?) cal(alpha_boo)
+/prvt/meli/mirac/95dec/4/7.95/jupiter/
+/prvt/meli/mirac/95dec/4/8.57/jupiter/caljcoadd.181.192.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/4/8.80/io
+/prvt/meli/mirac/95dec/4/10.74/jupiter/
+/prvt/meli/mirac/95dec/4/12.50/io
+/prvt/meli/mirac/95dec/4/13.30/jupiter/caljcoadd.200.204.gz;calrc200.204;nwcaljcoadd.200.204.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/4/17.40/jupiter/caljcoadd.205.210.gz;calrc205.210;nwcaljcoadd.205.210.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/4/17.40/callisto
+/prvt/meli/mirac/95dec/4/17.80/callisto
+/prvt/meli/mirac/95dec/4/17.80/jupiter/caljcoadd.211.215.gz;calrc211.215;nwcaljcoadd.211.215.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/4/20.60/callisto
+/prvt/meli/mirac/95dec/4/20.60/io
+/prvt/meli/mirac/95dec/4/20.60/jupiter/jcoaddnzac.145_154.163_254.gz;caljcoaddnzac.145_154.163_254.gz coadd(multiple runs?) cal(alpha_boo)
+/prvt/meli/mirac/95dec/4/20.60/jupiter/calrc217.222 coadd cal(alpha_boo)
+
+/prvt/meli/mirac/95dec/5/4.80/jupiter/ <--???
+/prvt/meli/mirac/95dec/5/7.95/jupiter/caljcoadd.298.312.gz;nwcaljcoadd.298.312.gz coadd cal(alpha_boo) bad
+/prvt/meli/mirac/95dec/5/8.57/jupiter/caljcoadd.008.013.gz;nwcaljcoadd.008.013.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/5/10.74/jupiter/951205.019-017pdcc.gz coadd
+/prvt/meli/mirac/95dec/5/13.30/jupiter/caljcoadd.270.276.gz;calrc270.276;nwcaljcoadd.270.276.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/5/17.40/jupiter/caljcoadd.277.282.gz;calrc277.282;nwcaljcoadd.277.282.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/5/17.80/jupiter/calrc286.291 coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/5/20.60/jupiter/calrc292.297 coadd cal(alpha_boo)
+
+/prvt/meli/mirac/95dec/6/4.80/io
+/prvt/meli/mirac/95dec/6/7.95/jupiter/nwcaljcoadd.37.50.gz;caljcoadd.37.50.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/6/8.57/jupiter/jcoaddnz.ac.51.62.gz coadd
+/prvt/meli/mirac/95dec/6/8.57/jupiter/calcoaddnz.ac.174.185.gz;nwcalcoaddnz.ac.174.185.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/6/8.80/callisto
+/prvt/meli/mirac/95dec/6/8.80/io
+/prvt/meli/mirac/95dec/6/8.80/jupiter/ only 1 image
+/prvt/meli/mirac/95dec/6/10.60/callisto
+/prvt/meli/mirac/95dec/6/10.74/jupiter/ 2 runs
+/prvt/meli/mirac/95dec/6/12.50/io
+/prvt/meli/mirac/95dec/6/13.30/jupiter/caljcoadd192.197.gz;calrc192.197;nwcaljcoadd192.197.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/6/17.40/jupiter/calrc198.203 coadd(198-203) cal(alpha_boo)
+/prvt/meli/mirac/95dec/6/17.40/jupiter/caljcoadd.198.201.gz;nwcaljcoadd.198.201.gz coadd(198+201) cal(alpha_boo)
+/prvt/meli/mirac/95dec/6/17.80/jupiter/caljcoadd.204.209.gz;nwcaljcoadd.204.209.gz coadd(204-209) cal(alpha_boo)
+/prvt/meli/mirac/95dec/6/17.80/jupiter/calrc205.208 coadd(205+206+208) cal(alpha_boo)
+/prvt/meli/mirac/95dec/6/20.60/jupiter/caljcoaddnzac.117.215.gz coadd(117-215=2 runs?) cal(alpha_boo)
+/prvt/meli/mirac/95dec/6/20.60/jupiter/calrc210.215 coadd(210-215) cal(alpha_boo)
+/prvt/meli/mirac/95dec/6/20.60/io
+
+/prvt/meli/mirac/95dec/7/7.95/jupiter/jcoaddnz.na.71.94.gz coadd
+/prvt/meli/mirac/95dec/7/8.57/jupiter/calcoadd053058.Z coadd(53,54,57,58) cal(alpha_boo)
+/prvt/meli/mirac/95dec/7/8.57/jupiter/caljcoaddnzac.047.058.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/7/8.80/io
+/prvt/meli/mirac/95dec/7/8.80/jupiter/ 
+/prvt/meli/mirac/95dec/7/10.74/jupiter/jcoadd.059.064.gz;jcoaddnz.059.064.Z coadd
+/prvt/meli/mirac/95dec/7/12.50/io
+/prvt/meli/mirac/95dec/7/13.30/jupiter/caljcoaddnzac.065.070.gz;calrc65.70 coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/7/17.40/jupiter/calrc31.32 coadd(31+32) cal(alpha_boo)
+/prvt/meli/mirac/95dec/7/17.80/jupiter/calrc34.39 coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/7/20.60/io
+/prvt/meli/mirac/95dec/7/20.60/jupiter/calrc40.46 coadd cal(alpha_boo)
+
+/prvt/meli/mirac/95dec/8/4.80/jupiter/caljcoaddnz.ac.174.185.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/8/7.95/jupiter/coadd.047.082.gz coadd
+/prvt/meli/mirac/95dec/8/8.80/io
+/prvt/meli/mirac/95dec/8/12.50/io
+/prvt/meli/mirac/95dec/8/13.30/jupiter/caljcoaddnzac.188_191.194_197.gz;nwcaljcoaddnzac.188_191.194_197.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/8/13.30/jupiter/nwcaljcoaddnzac.073_082.085_088.090_094.gz;caljcoaddnzac.073_082.085_088.090_094.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/8/13.30/jupiter/calrc83.94 coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/8/13.30/jupiter/calrc186.197 coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/8/17.40/callisto
+/prvt/meli/mirac/95dec/8/17.40/jupiter/
+/prvt/meli/mirac/95dec/8/17.40/jupiter/calrc95.106 coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/8/17.40/jupiter/calrc138.149 coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/8/17.80/callisto
+/prvt/meli/mirac/95dec/8/17.80/jupiter/caljcoadd.023_028.031_034.gz;nwcaljcoadd.023_028.031_034.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/8/17.80/jupiter/caljcoaddnzac.107_112.114_118.153_154.161.gz;nwcaljcoaddnzac.107_112.114_118.153_154.161.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/8/20.60/io
+/prvt/meli/mirac/95dec/8/20.60/jupiter/calrc35.46;caljcoaddnzac.035_038.040_043.046.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/8/20.60/jupiter/calrc162.173;caljcoaddnzac.162.164_167.170_173.gz coadd cal(alpha_boo)
+
+/prvt/meli/mirac/95dec/9/4.80/jupiter/caljcoaddnz.na.352.364.gz;nwcaljcoaddnz.na.352.364.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/9/7.95/jupiter/
+/prvt/meli/mirac/95dec/9/8.57/jupiter/caljcoaddnz.ac.365.380.gz;nwcaljcoaddnz.ac.365.380.gz coadd(372,373.375,378.380) cal(alpha_boo)
+/prvt/meli/mirac/95dec/9/8.80/io
+/prvt/meli/mirac/95dec/9/12.50/io
+/prvt/meli/mirac/95dec/9/13.30/jupiter/caljcoadd.415.420.gz;calrc415.420;nwcaljcoadd.415.420.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/9/17.40/callisto
+/prvt/meli/mirac/95dec/9/17.40/jupiter/caljcoadd.427_428.431_438.gz;calrc427.438;nwcaljcoadd.427_428.431_438.gz coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/9/17.80/callisto
+/prvt/meli/mirac/95dec/9/17.80/jupiter/calrc439.450 coadd cal(alpha_boo) 	 
+/prvt/meli/mirac/95dec/9/20.60/io
+/prvt/meli/mirac/95dec/9/20.60/jupiter/caljcoaddnzac.452_456.459_462.gz;calrc451.462 coadd cal(alpha_boo)
+
+/prvt/meli/mirac/95dec/10/4.80/jupiter/jcoaddnz.ac.7.18.gz coadd
+/prvt/meli/mirac/95dec/10/7.95/jupiter/caljcoaddnz.043.060.gz coadd cal(alpha_boo) bad
+/prvt/meli/mirac/95dec/10/8.57/jupiter/caljcoaddnzna.019.042.gz coadd cal(alpha_boo) bad
+/prvt/meli/mirac/95dec/10/10.74/jupiter/  (bad)
+/prvt/meli/mirac/95dec/10/13.30/jupiter/caljcoaddnz.na.63.72.gz;calrc61.72 coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/10/17.40/jupiter/calrc85.96 coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/10/17.80/jupiter/calrc97.108 coadd cal(alpha_boo)
+/prvt/meli/mirac/95dec/10/20.60/jupiter/calrc109.120 coadd cal(alpha_boo)
+
+/prvt/amba/pia/mirlin/96jan/2/4.80/jupiter/jcoadd.bnz.0153.0173.flip.Z coadded
+/prvt/amba/pia/mirlin/96jan/2/7.90/jupiter/jcoadd.bnz.0109.0131.Z; jcoadd.bnz.0109.0131.flip.Z coadded
+/prvt/amba/pia/mirlin/96jan/2/7.85/jupiter/jjcoaddnz.0133.0149.Z coadded bad.
+/prvt/amba/pia/mirlin/96jan/2/17.24/jupiter/
+/prvt/amba/pia/mirlin/96jan/2/17.93/jupiter/jcoadd.bnz.0177.0189.flip.Z coadded
+/prvt/amba/pia/mirlin/96jan/2/17.93/jupiter/jcoaddbnz.009.028.gz coadded
+/prvt/amba/pia/mirlin/96jan/2/17.93/jupiter/jcoaddbnz.177.192.Z coadded
+/prvt/amba/pia/mirlin/96jan/2/18.67/jupiter/jcoaddgeo.29.41.gz coadded
+/prvt/amba/pia/mirlin/96jan/2/20.82/jupiter/jcoaddbnz.049.060.gz coadded
+/prvt/amba/pia/mirlin/96jan/2/22.79/jupiter/
+/prvt/amba/pia/mirlin/96jan/2/24.20/jupiter/jcoaddnz.193.200.Z; jcoaddnzdot.193.200.Z coadded
+/prvt/amba/pia/mirlin/96jan/2/24.20/jupiter/jcoaddnz.077.092.Z; jcoaddnzdot.077.092.Z coadded
+
+/prvt/amba/pia/mirlin/96jan/3/4.80/jupiter/jcoadd.bnz.0309.0337.flip.Z coadded
+/prvt/amba/pia/mirlin/96jan/3/7.90/jupiter/coadd.201.241.Z; coaddnz.201.241.Z coadded
+/prvt/amba/pia/mirlin/96jan/3/8.57/jupiter/jcoadd.anz.0181.0193.flip.Z coadded
+/prvt/amba/pia/mirlin/96jan/3/8.57/jupiter/jcoadd.anz.0341.0369.flip.Z coadded
+/prvt/amba/pia/mirlin/96jan/3/17.24/jupiter/jcoaddbnz.105.112.Z coadded
+/prvt/amba/pia/mirlin/96jan/3/17.24/jupiter/caljcoadd.bnz.0261.0273.flip coadded scal
+/prvt/amba/pia/mirlin/96jan/3/17.93/jupiter/caljcoadd.bnz.0261.0273.flip coadded scal
+/prvt/amba/pia/mirlin/96jan/3/18.67/jupiter/jcoaddbnz.105.112.Z; rc105.109.gz coadded
+/prvt/amba/pia/mirlin/96jan/3/18.67/jupiter/caljcoadd.bnz.0261.0273.flip coadded scal
+/prvt/amba/pia/mirlin/96jan/3/20.82/jupiter/jcoadd.129.137.gz coadded; cmcaljcoadd.129.137.cmap.gz coadded scal
+/prvt/amba/pia/mirlin/96jan/3/24.20/jupiter/jcoaddnz.0161.0176.Z; jdot0161.0176.Z coadded
+/prvt/amba/pia/mirlin/96jan/3/24.20/jupiter/jcoaddnz.0245.0260.Z; jcoaddnzdot.245.260.Z coadded
+
+/prvt/amba/pia/mirlin/96jan/4/4.80/jupiter/rc81.97.gz; cal81.97.gz coadded fourierfilter
+/prvt/amba/pia/mirlin/96jan/4/7.90/jupiter/jcoadd.bnz.0157.0181.flip.Z coadded
+/prvt/amba/pia/mirlin/96jan/4/7.90/jupiter/jcoadd.bnz.0313.0337.flip.Z coadded
+/prvt/amba/pia/mirlin/96jan/4/7.90/jupiter/jcoadd.bnz.0469.0479.flip.Z coadded
+/prvt/amba/pia/mirlin/96jan/4/8.57/jupiter/jcoadd.bnz.0113.0141.flip.Z coadded
+/prvt/amba/pia/mirlin/96jan/4/8.57/jupiter/jcoadd.bnz.0201.0213.flip.Z coadded
+/prvt/amba/pia/mirlin/96jan/4/8.57/jupiter/jcoadd.bnz.0449.0461.flip.Z coadded
+/prvt/amba/pia/mirlin/96jan/4/12.50/jupiter/
+/prvt/amba/pia/mirlin/96jan/4/17.24/jupiter/
+/prvt/amba/pia/mirlin/96jan/4/17.93/jupiter/jcoadd.anz.0233.0493.flip.gz coadded; cmcaljcoadd.anz.0233.0493.flip.gz coadded scal
+/prvt/amba/pia/mirlin/96jan/4/18.67/jupiter/caljcoadd.249.261 coadded scal
+/prvt/amba/pia/mirlin/96jan/4/20.82/jupiter/caljcoadd.265.277 coadded scal
+/prvt/amba/pia/mirlin/96jan/4/20.82/jupiter/jcoadd.505.509.gz coadded
+/prvt/amba/pia/mirlin/96jan/4/22.79/jupiter/
+/prvt/amba/pia/mirlin/96jan/4/24.20/jupiter/jcoaddbnz.0297.0309.Z coadded good
+/prvt/amba/pia/mirlin/96jan/4/24.20/jupiter/jcoaddbnz.0521.0525.Z coadded good
+
+/prvt/amba/hua/mirlin/96apr/21/4.80/jupiter/
+/prvt/amba/hua/mirlin/96apr/21/7.90/jupiter/ bad
+/prvt/amba/hua/mirlin/96apr/21/8.57/jupiter/
+/prvt/amba/hua/mirlin/96apr/21/10.74/jupiter/
+/prvt/amba/hua/mirlin/96apr/21/13.20/jupiter/
+/prvt/amba/hua/mirlin/96apr/21/17.93/jupiter/ bad
+
+/prvt/amba/hua/mirlin/96apr/22/4.80/jupiter/
+/prvt/amba/hua/mirlin/96apr/22/4.80/venus
+/prvt/amba/hua/mirlin/96apr/22/7.85/jupiter/ bad
+/prvt/amba/hua/mirlin/96apr/22/7.90/jupiter/ bad
+/prvt/amba/hua/mirlin/96apr/22/7.90/venus
+/prvt/amba/hua/mirlin/96apr/22/8.57/jupiter/
+/prvt/amba/hua/mirlin/96apr/22/8.70/venus
+/prvt/amba/hua/mirlin/96apr/22/9.60/venus
+/prvt/amba/hua/mirlin/96apr/22/10.74/jupiter/
+/prvt/amba/hua/mirlin/96apr/22/12.50/venus
+/prvt/amba/hua/mirlin/96apr/22/13.20/jupiter/
+/prvt/amba/hua/mirlin/96apr/22/17.24/jupiter/
+/prvt/amba/hua/mirlin/96apr/22/17.24/venus
+/prvt/amba/hua/mirlin/96apr/22/17.93/jupiter/ bad
+/prvt/amba/hua/mirlin/96apr/22/17.93/venus
+/prvt/amba/hua/mirlin/96apr/22/24.20/jupiter/
+/prvt/amba/hua/mirlin/96apr/22/24.20/venus
+
+/prvt/amba/hua/mirlin/96apr/23/4.80/jupiter/
+/prvt/amba/hua/mirlin/96apr/23/7.85/jupiter/ bad
+/prvt/amba/hua/mirlin/96apr/23/7.90/jupiter/ bad
+/prvt/amba/hua/mirlin/96apr/23/8.57/jupiter/
+/prvt/amba/hua/mirlin/96apr/23/10.74/jupiter/
+/prvt/amba/hua/mirlin/96apr/23/13.20/jupiter/
+/prvt/amba/hua/mirlin/96apr/23/17.24/jupiter/
+/prvt/amba/hua/mirlin/96apr/23/17.93/jupiter/ bad
+
+/prvt/amba/hua/mirlin/96apr/24/4.80/jupiter/
+/prvt/amba/hua/mirlin/96apr/24/7.85/jupiter/ bad
+/prvt/amba/hua/mirlin/96apr/24/7.90/jupiter/ bad
+/prvt/amba/hua/mirlin/96apr/24/8.57/jupiter/
+/prvt/amba/hua/mirlin/96apr/24/8.70/jupiter/
+/prvt/amba/hua/mirlin/96apr/24/10.74/jupiter/
+/prvt/amba/hua/mirlin/96apr/24/12.50/jupiter/
+/prvt/amba/hua/mirlin/96apr/24/13.20/jupiter/
+/prvt/amba/hua/mirlin/96apr/24/17.24/jupiter/
+/prvt/amba/hua/mirlin/96apr/24/17.93/jupiter/ bad
+
+/prvt/kiran/tntcam/96jun/1/raw <-- to be reduced in any way
+/prvt/kiran/tntcam/96jun/2/raw <-- to be reduced in any way
+
+/prvt/amba/mirlin/96jun/26/12.20/saturn/
+/prvt/amba/mirlin/96jun/26/17.24/saturn/
+
+/prvt/kohola/mirlin/96jun/26/4.80/jupiter/
+/prvt/kohola/mirlin/96jun/26/7.85/jupiter/
+/prvt/kohola/mirlin/96jun/26/8.57/jupiter/rc0471.0481 coadded 
+/prvt/kohola/mirlin/96jun/26/8.57/jupiter/rc0631.0639.Z coadded ff
+/prvt/kohola/mirlin/96jun/26/10.74/jupiter/rc461.469.gz coadded
+/prvt/kohola/mirlin/96jun/26/10.74/jupiter/rc611.619.gz coadded
+/prvt/kohola/mirlin/96jun/26/13.20/jupiter/calbz_wd.jc445460.gz ff Vcal
+/prvt/kohola/mirlin/96jun/26/13.20/jupiter/calbz_wd.jc621632.gz ff Vcal
+/prvt/kohola/mirlin/96jun/26/17.24/jupiter/calbz_wd.jc517530.gz ff Vcal
+/prvt/kohola/mirlin/96jun/26/17.24/jupiter/calbz_wd.jc661672.gz ff Vcal
+/prvt/kohola/mirlin/96jun/26/17.93/jupiter/calbz_wd.jc531546.gz ff Vcal
+/prvt/kohola/mirlin/96jun/26/17.93/jupiter/calbz_wd.jc673684.gz ff Vcal
+/prvt/kohola/mirlin/96jun/26/18.67/jupiter/calbz_wd.jc547558.gz ff Vcal
+/prvt/kohola/mirlin/96jun/26/18.67/jupiter/calbz_wd.jc685696.gz ff Vcal
+/prvt/kohola/mirlin/96jun/26/20.82/jupiter/calbz_wd.jc559572.gz ff Vcal
+/prvt/kohola/mirlin/96jun/26/20.82/jupiter/calbz_wd.jc697708.gz ff Vcal
+/prvt/kohola/mirlin/96jun/26/22.79/jupiter/calbz_wd.jc573590.gz ff Vcal
+/prvt/kohola/mirlin/96jun/26/22.79/jupiter/calbz_wd.jc709720.gz ff Vcal
+/prvt/kohola/mirlin/96jun/26/24.20/jupiter/rc597.609.gz coadded FFT
+/prvt/kohola/mirlin/96jun/26/24.20/jupiter/rc723.731 coadded FFT
+
+/prvt/amba/mirlin/96jun/27/7.85/saturn/		(bad)
+/prvt/amba/mirlin/96jun/27/12.20/saturn/junkcf897909.gz coadded ff
+/prvt/amba/mirlin/96jun/27/17.24/saturn/cs887895.gz coadded 
+/prvt/amba/mirlin/96jun/27/17.93/saturn/wd.junk873884.gz; junk873884.gz coadded FFT
+/prvt/amba/mirlin/96jun/27/18.67/saturn/junk08610872 coadded FFT
+/prvt/amba/mirlin/96jun/27/20.82/saturn/junkcfr851859.gz coadded ff FFT
+/prvt/amba/mirlin/96jun/27/22.79/saturn/
+/prvt/amba/mirlin/96jun/27/24.20/saturn/junkcfr827835.gz coadded ff FFT
+/prvt/amba/mirlin/96jun/27/24.20/saturn/junk825836.gz coadded
+
+
+/prvt/kohola/mirlin/96jun/27/4.80/jupiter/rcoadd.0487+0491.gz; rcoadd.0487.0491.gz coadded
+/prvt/kohola/mirlin/96jun/27/7.85/jupiter/rcoadd.0473.0481.gz coadded
+/prvt/kohola/mirlin/96jun/27/7.85/jupiter/rcoadd.0611.0619.gz coadded
+/prvt/kohola/mirlin/96jun/27/7.85/jupiter/rcoadd.0733.0741.gz coadded
+/prvt/kohola/mirlin/96jun/27/8.57/jupiter/rc331.337.gz coadded
+/prvt/kohola/mirlin/96jun/27/8.57/jupiter/rc463.471.gz coadded
+/prvt/kohola/mirlin/96jun/27/8.57/jupiter/rc601.609.gz coadded
+/prvt/kohola/mirlin/96jun/27/8.57/jupiter/rc723.731.gz coadded
+/prvt/kohola/mirlin/96jun/27/10.74/jupiter/rc319.327.gz coadded
+/prvt/kohola/mirlin/96jun/27/10.74/jupiter/rc453.461.gz coadded
+/prvt/kohola/mirlin/96jun/27/10.74/jupiter/rc591.599.gz coadded
+/prvt/kohola/mirlin/96jun/27/10.74/jupiter/rc713.721.gz coadded
+/prvt/kohola/mirlin/96jun/27/13.20/jupiter/calbz_wd.jc309318.gz ff Vcal bad
+/prvt/kohola/mirlin/96jun/27/17.24/jupiter/calbz_wd.jc359370.gz ff Vcal bad
+/prvt/kohola/mirlin/96jun/27/17.93/jupiter/calbz_wd.jc371382.gz ff Vcal bad
+/prvt/kohola/mirlin/96jun/27/18.67/jupiter/calbz_wd.jc383394.gz ff Vcal bad
+/prvt/kohola/mirlin/96jun/27/20.82/jupiter/calbz_wd.jc395406.gz ff Vcal bad
+/prvt/kohola/mirlin/96jun/27/22.79/jupiter/calbz_wd.jc407418.gz ff Vcal awful
+
+/prvt/kohola/mirlin/96jun/27/13.20/jupiter/calbz_wd.jc443452.gz ff Vcal x/sat, bad
+/prvt/kohola/mirlin/96jun/27/17.24/jupiter/calbz_wd.jc492503.gz ff Vcal x/sat, bad
+/prvt/kohola/mirlin/96jun/27/17.93/jupiter/calbz_wd.jc505517.gz ff Vcal x/sat, bad
+/prvt/kohola/mirlin/96jun/27/18.67/jupiter/calbz_wd.jc517528.gz ff Vcal x/sat, bad
+/prvt/kohola/mirlin/96jun/27/20.82/jupiter/calbz_wd.jc529540.gz ff Vcal x/sat, bad
+/prvt/kohola/mirlin/96jun/27/22.79/jupiter/calbz_wd.jc541552.gz ff Vcal x/sat, bad
+
+/prvt/kohola/mirlin/96jun/27/13.20/jupiter/calbz_wd.jc703712.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/27/17.24/jupiter/calbz_wd.jc753764.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/27/17.93/jupiter/calbz_wd.jc765776.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/27/18.67/jupiter/calbz_wd.jc777788.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/27/20.82/jupiter/calbz_wd.jc789800.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/27/22.79/jupiter/calbz_wd.jc801812.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/27/24.20/jupiter/rc421.425.gz coadded
+/prvt/kohola/mirlin/96jun/27/24.20/jupiter/rc433.441.gz coadded
+/prvt/kohola/mirlin/96jun/27/24.20/jupiter/rc571.579.gz coadded
+/prvt/kohola/mirlin/96jun/27/24.20/jupiter/rc693.701.gz coadded
+/prvt/kohola/mirlin/96jun/27/24.20/jupiter/rc813.823.gz coadded
+/prvt/kohola/mirlin/96jun/27/24.20/saturn/
+
+/prvt/kohola/mirlin/96jun/28/4.80/jupiter/rcoadd.0211.0217.gz coadded
+/prvt/kohola/mirlin/96jun/28/4.80/jupiter/rcoadd.0335.0339.gz coadded
+/prvt/kohola/mirlin/96jun/28/7.85/jupiter/rcoadd.0199.0207.gz coadded
+/prvt/kohola/mirlin/96jun/28/7.85/jupiter/rc321.329.gz coadded
+/prvt/kohola/mirlin/96jun/28/7.85/jupiter/rc470.480.gz coadded
+/prvt/kohola/mirlin/96jun/28/8.57/jupiter/decgofit.rcoadd.0189.0197.gz coadded
+/prvt/kohola/mirlin/96jun/28/8.57/jupiter/decgofit.rcoadd.0311.0319.gz coadded
+/prvt/kohola/mirlin/96jun/28/8.57/jupiter/decgofit.rcoadd.0462.0470.gz coadded
+
+/prvt/kohola/mirlin/96jun/28/13.20/jupiter/calbz_wd.jc169178.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/28/17.24/jupiter/calbz_wd.jc219230.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/28/17.93/jupiter/calbz_wd.jc231242.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/28/18.67/jupiter/calbz_wd.jc243254.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/28/20.82/jupiter/calbz_wd.jc255266.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/28/22.79/jupiter/calbz_wd.jc267278.gz ff Vcal ok
+
+/prvt/kohola/mirlin/96jun/28/13.20/jupiter/calbz_wd.jc291300.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/28/17.24/jupiter/calbz_wd.jc341352.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/28/17.93/jupiter/calbz_wd.jc353364.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/28/18.67/jupiter/calbz_wd.jc365376.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/28/20.82/jupiter/calbz_wd.jc377388.gz ff Vcal ok ff
+/prvt/kohola/mirlin/96jun/28/22.79/jupiter/calbz_wd.jc389400.gz ff Vcal ok
+
+/prvt/kohola/mirlin/96jun/28/13.20/jupiter/calbz_wd.jc413451.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/28/17.24/jupiter/calbz_wd.jc492503.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/28/17.93/jupiter/calbz_wd.jc504515.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/28/18.67/jupiter/calbz_wd.jc516527.gz ff Vcal ok
+/prvt/kohola/mirlin/96jun/28/20.82/jupiter/calbz_wd.jc528539.gz ff Vcal good
+/prvt/kohola/mirlin/96jun/28/22.79/jupiter/calbz_wd.jc540551.gz ff Vcal good
+
+/prvt/kohola/mirlin/96jun/29/4.80/jupiter/rc.53.59.gz coadded
+/prvt/kohola/mirlin/96jun/29/4.80/jupiter/rcoadd.0177.0181.Z coadded
+/prvt/kohola/mirlin/96jun/29/7.85/jupiter/fft.wrcoadd.0041.0049 coadded
+/prvt/kohola/mirlin/96jun/29/7.85/jupiter/fftwrcoadd.0163.0171 coadded FFT?
+/prvt/kohola/mirlin/96jun/29/8.57/jupiter/wdec620rc31.39.gz coadded
+/prvt/kohola/mirlin/96jun/29/8.57/jupiter/rc153.161.gz coadded
+
+/prvt/kohola/mirlin/96jun/29/13.20/jupiter/calbz_wd.jc011020.gz ff Vcal good
+/prvt/kohola/mirlin/96jun/29/17.24/jupiter/calbz_wd.jc061072.gz ff Vcal good
+/prvt/kohola/mirlin/96jun/29/17.93/jupiter/calbz_wd.jc073084.gz ff Vcal good
+/prvt/kohola/mirlin/96jun/29/18.67/jupiter/calbz_wd.jc085096.gz ff Vcal good
+/prvt/kohola/mirlin/96jun/29/20.82/jupiter/calbz_wd.jc097108.gz ff Vcal good
+/prvt/kohola/mirlin/96jun/29/22.79/jupiter/calbz_wd.jc109120.gz ff Vcal good
+
+/prvt/kohola/mirlin/96jun/29/13.20/jupiter/calbz_wd.jc133142.gz ff Vcal good
+/prvt/kohola/mirlin/96jun/29/17.24/jupiter/calbz_wd.jc183194.gz ff Vcal good
+/prvt/kohola/mirlin/96jun/29/17.93/jupiter/calbz_wd.jc195206.gz ff Vcal good
+/prvt/kohola/mirlin/96jun/29/18.67/jupiter/calbz_wd.jc207218.gz ff Vcal good
+/prvt/kohola/mirlin/96jun/29/20.82/jupiter/calbz_wd.jc219230.gz ff Vcal good
+/prvt/kohola/mirlin/96jun/29/22.79/jupiter/calbz_wd.jc231242.gz ff Vcal good
+
+/prvt/kohola/mirlin/96jul/1/4.80/jupiter/rcoadd.0055.0059.Z coadded
+/prvt/kohola/mirlin/96jul/1/4.80/jupiter/rcoadd.0177.0181.Z coadded
+/prvt/kohola/mirlin/96jul/1/7.85/jupiter/fft.wrcoadd.0041.0049 coadded
+/prvt/kohola/mirlin/96jul/1/7.85/jupiter/fft.wrcoadd.0163.0171 coadded FFT?
+/prvt/kohola/mirlin/96jul/1/8.57/jupiter/wdec620rc31.39.gz coadded
+/prvt/kohola/mirlin/96jul/1/8.57/jupiter/rc153.161.gz coadded
+/prvt/kohola/mirlin/96jul/1/10.74/jupiter/wdec828Arc21.29.gz coadded
+/prvt/kohola/mirlin/96jul/1/10.74/jupiter/rc143.151.gz coadded
+
+/prvt/kohola/mirlin/96jul/1/13.20/jupiter/calbz_wd.jc001010.gz ff Vcal bad
+/prvt/kohola/mirlin/96jul/1/17.24/jupiter/calbz_wd.jc051062.gz ff Vcal bad
+/prvt/kohola/mirlin/96jul/1/17.93/jupiter/calbz_wd.jc063074.gz ff Vcal bad
+/prvt/kohola/mirlin/96jul/1/18.67/jupiter/calbz_wd.jc075086.gz ff Vcal bad
+/prvt/kohola/mirlin/96jul/1/20.82/jupiter/calbz_wd.jc087098.gz ff Vcal bad
+/prvt/kohola/mirlin/96jul/1/22.79/jupiter/calbz_wd.jc099110.gz ff Vcal bad
+
+/prvt/kohola/mirlin/96jul/1/13.20/jupiter/calbz_wd.jc123132.gz ff Vcal bad
+/prvt/kohola/mirlin/96jul/1/17.24/jupiter/calbz_wd.jc173184.gz ff Vcal bad
+/prvt/kohola/mirlin/96jul/1/17.93/jupiter/calbz_wd.jc185196.gz ff Vcal bad
+/prvt/kohola/mirlin/96jul/1/18.67/jupiter/calbz_wd.jc197208.gz ff Vcal bad
+/prvt/kohola/mirlin/96jul/1/20.82/jupiter/calbz_wd.jc209220.gz ff Vcal bad
+/prvt/kohola/mirlin/96jul/1/22.79/jupiter/calbz_wd.jc221232.gz ff Vcal bad
+
+
+/prvt/lio/tntcam/96jul/8/raw  <-- to be reduced in any way
+
+/prvt/lio/tntcam/96jul/9/raw  <-- to be reduced in any way
+
+/prvt/lio/tntcam/96sep/8/raw  <-- to be reduced in any way
+
+/prvt/lio/tntcam/96sep/9/raw  <-- to be reduced in any way
+
+/prvt/lio/mirlin/96aug/8/4.80/jupiter/calsjup700.gz; calsjup600.gz scal <---????mosaic?
+/prvt/lio/mirlin/96aug/8/7.85/jupiter/ bad
+/prvt/lio/mirlin/96aug/8/7.85/saturn/ bad
+/prvt/lio/mirlin/96aug/8/7.90/saturn/ bad
+/prvt/lio/mirlin/96aug/8/8.57/jupiter/calsjup200.gz; calzjup600.gz <---???mosaic?
+/prvt/lio/mirlin/96aug/8/8.70/jupiter/
+/prvt/lio/mirlin/96aug/8/12.20/saturn/scf933044.gz coadded
+/prvt/lio/mirlin/96aug/8/12.20/titan
+/prvt/lio/mirlin/96aug/8/12.50/jupiter/
+/prvt/lio/mirlin/96aug/8/13.20/jupiter/
+/prvt/lio/mirlin/96aug/8/17.93/jupiter/ bad
+/prvt/lio/mirlin/96aug/8/17.93/saturn/sc977996.gz coadded FFT bad
+/prvt/lio/mirlin/96aug/8/17.93/titan
+
+/prvt/lio/mirlin/96aug/9/4.80/jupiter/calsjup200.gz; calsjup500.gz <---?
+/prvt/lio/mirlin/96aug/9/7.85/jupiter/ bad
+/prvt/lio/mirlin/96aug/9/8.57/jupiter/calsjup300.gz; calsjup500.gz <---?
+/prvt/lio/mirlin/96aug/9/12.20/saturn/
+/prvt/lio/mirlin/96aug/9/12.50/saturn/
+/prvt/lio/mirlin/96aug/9/13.20/jupiter/rc197.199.gz; rc515.517.gz; rc647.649.gz <---?mosaicked?
+
+/prvt/lio/mirlin/96aug/10/4.80/jupiter/calsjup300.gz; calsjup500.gz ;calsjup600.gz <---?
+/prvt/lio/mirlin/96aug/10/8.57/jupiter/calsjup100.gz; calsjup300.gz; calsjup600.gz <---?
+/prvt/lio/mirlin/96aug/10/12.50/callisto
+/prvt/lio/mirlin/96aug/10/13.20/jupiter/
+
+/prvt/lio/mirlin/96aug/11/4.80/jupiter/calsjup245279.gz scal <---?
+/prvt/lio/mirlin/96aug/11/8.57/jupiter/calsjup157191.gz scal <---?
+/prvt/lio/mirlin/96aug/11/10.74/jupiter/
+/prvt/lio/mirlin/96aug/11/13.20/jupiter/
+
+/prvt/ilo/io/mirlin/96sep/5/7.90/jupiter/wd.jcf025045.gz coadd ff fft
+/prvt/ilo/io/mirlin/96sep/5/13.20/jupiter/calbz_wd.jc189204.gz ff Vcal good
+/prvt/ilo/io/mirlin/96sep/5/17.24/jupiter/calbz_wd.jc095118.gz ff Vcal good
+/prvt/ilo/io/mirlin/96sep/5/17.93/jupiter/calbz_wd.jc049070.gz ff Vcal good
+/prvt/ilo/io/mirlin/96sep/5/18.67/jupiter/calbz_wd.jc119142.gz ff Vcal good
+/prvt/ilo/io/mirlin/96sep/5/20.82/jupiter/calbz_wd.jc143166.gz ff Vcal good
+/prvt/ilo/io/mirlin/96sep/5/22.79/jupiter/calbz_wd.jc167190.gz ff Vcal good
+
+Use these only to fill in spaces for the good sequences before and after.
+/prvt/ilo/io/mirlin/96sep/5/13.20/jupiter/calbz_wd.jc281302.gz ff Vcal ok
+/prvt/ilo/io/mirlin/96sep/5/17.24/jupiter/calbz_wd.jc303326.gz ff Vcal ok
+/prvt/ilo/io/mirlin/96sep/5/17.93/jupiter/calbz_wd.jc403414.gz ff Vcal ok
+/prvt/ilo/io/mirlin/96sep/5/18.67/jupiter/calbz_wd.jc327338.gz ff Vcal ok
+/prvt/ilo/io/mirlin/96sep/5/20.82/jupiter/calbz_wd.jc355402.gz ff Vcal ok
+/prvt/ilo/io/mirlin/96sep/5/22.79/jupiter/calbz_wd.jc375398.gz ff Vcal ok
+
+/prvt/ilo/io/mirlin/96sep/6/7.90/jupiter/wd.jcf001024.gz coadd ff fft
+/prvt/ilo/io/mirlin/96sep/6/13.20/jupiter/calbz_wd.jc197220.gz ff Vcal good
+/prvt/ilo/io/mirlin/96sep/6/17.24/jupiter/calbz_wd.jc049074.gz ff Vcal good
+/prvt/ilo/io/mirlin/96sep/6/17.93/jupiter/calbz_wd.jc025048.gz ff Vcal good
+/prvt/ilo/io/mirlin/96sep/6/18.67/jupiter/calbz_wd.jc075098.gz ff Vcal good
+/prvt/ilo/io/mirlin/96sep/6/20.82/jupiter/calbz_wd.jc099122.gz ff Vcal good
+/prvt/ilo/io/mirlin/96sep/6/22.79/jupiter/calbz_wd.jc123146.gz ff Vcal good
+
+/prvt/kevin3b/tntcam/96nov/6/raw  <-- to be reduced in any way
+
+/prvt/kevin3b/mirlin/96nov/6/7.85/jupiter/ bad
+/prvt/kevin3b/mirlin/96nov/6/8.57/jupiter/
+/prvt/kevin3b/mirlin/96nov/6/13.20/jupiter/
+/prvt/kevin3b/mirlin/96nov/6/17.93/jupiter/ bad
+
+/prvt/kevin3b/mirlin/96nov/7/7.85/jupiter/ bad
+/prvt/kevin3b/mirlin/96nov/7/8.57/jupiter/
+/prvt/kevin3b/mirlin/96nov/7/13.20/jupiter/
+/prvt/kevin3b/mirlin/96nov/7/17.24/jupiter/
+/prvt/kevin3b/mirlin/96nov/7/17.93/jupiter/cal_wd.jcf2144.gz coadd ff fft
+
+/prvt/kevin3b/mirlin/96nov/8/4.80/jup/
+/prvt/kevin3b/mirlin/96nov/8/4.80/jupiter/
+/prvt/kevin3b/mirlin/96nov/8/7.85/jup/ bad
+/prvt/kevin3b/mirlin/96nov/8/8.57/jup/
+/prvt/kevin3b/mirlin/96nov/8/10.74/jup/
+/prvt/kevin3b/mirlin/96nov/8/12.20/jup/
+/prvt/kevin3b/mirlin/96nov/8/13.20/jup/
+/prvt/kevin3b/mirlin/96nov/8/13.20/jupiter/
+/prvt/kevin3b/mirlin/96nov/8/17.24/jup/
+/prvt/kevin3b/mirlin/96nov/8/17.93/jup/wd.jcf91113.gz coadd ff fft *no phot. or cmap-couldnt get fit limb to work**no target name, cannot fit limb*
+/prvt/kevin3b/mirlin/96nov/8/18.67/jup/
+/prvt/kevin3b/mirlin/96nov/8/20.82/jup/
+/prvt/kevin3b/mirlin/96nov/8/22.79/jup/
+/prvt/kevin3b/mirlin/96nov/8/24.20/jup/
+
+/prvt/kevin3b/mirlin/96nov/9/4.80/jupiter/
+/prvt/kevin3b/mirlin/96nov/9/8.57/jupiter/
+/prvt/kevin3b/mirlin/96nov/9/13.20/jupiter/
+/prvt/kevin3b/mirlin/96nov/9/17.24/jupiter/jc111134.gz coadd fft
+/prvt/kevin3b/mirlin/96nov/9/17.93/jupiter/cal_wd.jcf041061.gz coadd ff fft
+/prvt/kevin3b/mirlin/96nov/9/17.93/jupiter/cal_wd.jcf137157.gz coadd ff fft
+/prvt/kevin3b/mirlin/96nov/9/18.67/jupiter/
+/prvt/kevin3b/mirlin/96nov/9/20.82/jupiter/
+
+/prvt/kevin3b/mirlin/96nov/10/7.85/jupiter/ bad
+/prvt/kevin3b/mirlin/96nov/10/7.90/jupiter/
+/prvt/kevin3b/mirlin/96nov/10/8.57/jupiter/
+/prvt/kevin3b/mirlin/96nov/10/10.74/jupiter/
+/prvt/kevin3b/mirlin/96nov/10/17.24/jupiter/
+/prvt/kevin3b/mirlin/96nov/10/18.67/jupiter/
+/prvt/kevin3b/mirlin/96nov/10/20.82/jupiter/
+/prvt/kevin3b/mirlin/96nov/10/24.20/jupiter/
+
+/prvt/iole/tntcam/96dec/8/0.00/jupiter/wdec7-20M.j08m2.003.gz; wjup08m2.003.a.Z <---?
+/prvt/iole/tntcam/96dec/8/5.00/jupiter/wdec7-20M.j08m1.045.gz; wjup08m1.045.a.Z <---?
+
+Files starting with f* have been Fourier filtered to minimize an 8-line "rippling"
+effect; instead of jc* the files start with fjc*
+        jc -> fjc
+
+/prvt/luhia/mirlin/97apr/2/8.57/jupiter/rc115.135.gz coadded 
+/prvt/luhia/mirlin/97apr/2/13.20/jupiter/rc1.13.gz coadded
+/prvt/luhia/mirlin/97apr/2/13.20/jupiter/rc29.37.gz coadded
+/prvt/luhia/mirlin/97apr/2/17.93/jupiter/rc39.57.gz coadded bad with grating bands
+/prvt/luhia/mirlin/97apr/2/17.93/jupiter/rc79.111.gz coadded bad with grating bands
+/prvt/luhia/mirlin/97apr/2/20.82/jupiter/rc137.173.gz coadded
+
+/prvt/luhia/mirlin/97apr/3/7.85/jupiter/rc115.127.gz coadded
+/prvt/luhia/mirlin/97apr/3/8.57/jupiter/rc139.147.gz coadded
+/prvt/luhia/mirlin/97apr/3/8.57/jupiter/rc149.159.gz coadded
+/prvt/luhia/mirlin/97apr/3/8.57/jupiter/rc413.429.gz coadded
+
+/prvt/luhia/mirlin/97apr/3/10.74/jupiter/
+/prvt/luhia/mirlin/97apr/3/13.20/jupiter/calbz_wd.fjc183203.gz ff Vcal good
+/prvt/luhia/mirlin/97apr/3/17.24/jupiter/calbz_wd.jc205229.gz  ff Vcal good
+/prvt/luhia/mirlin/97apr/3/17.93/jupiter/calbz_wd.fjc213235.gz ff Vcal good
+/prvt/luhia/mirlin/97apr/3/20.82/jupiter/calbz_wd.fjc257281.gz ff Vcal good
+/prvt/luhia/mirlin/97apr/5/22.79/jupiter/calbz_wd.fjc283307.gz ff Vcal good
+/prvt/luhia/mirlin/97apr/3/24.20/jupiter/rc309.333.gz coadded
+
+/prvt/luhia/mirlin/97apr/3/13.20/jupiter/calbz_wd.fjc335359.gz ff Vcal good
+/prvt/luhia/mirlin/97apr/3/17.93/jupiter/calbz_wd.fjc363383.gz ff Vcal good
+/prvt/luhia/mirlin/97apr/3/20.82/jupiter/calbz_wd.fjc389409.gz ff Vcal good
+
+/prvt/luhia/mirlin/97apr/3c/   <--- hale-bopp data?
+
+/prvt/luhia/mirlin/97apr/4c/4.80/mars
+/prvt/luhia/mirlin/97apr/4c/7.85/mars
+/prvt/luhia/mirlin/97apr/4c/9.80/mars
+/prvt/luhia/mirlin/97apr/4c/10.74/mars
+/prvt/luhia/mirlin/97apr/4c/11.30/mars
+/prvt/luhia/mirlin/97apr/4c/13.20/mars
+/prvt/luhia/mirlin/97apr/4c/17.93/mars
+
+/prvt/luhia/mirlin/97apr/5/7.85/jupiter/rc241.261.gz coadded
+/prvt/luhia/mirlin/97apr/5/7.85/jupiter/rc483.503.gz coadded
+/prvt/luhia/mirlin/97apr/5/7.85/mars
+/prvt/luhia/mirlin/97apr/5/8.57/jupiter/rc263.287.gz coadded
+/prvt/luhia/mirlin/97apr/5/8.57/jupiter/rc463.481.gz coadded
+/prvt/luhia/mirlin/97apr/5/8.57/jupiter/rc505.523.gz coadded
+
+/prvt/luhia/mirlin/97apr/5/8.57/mars
+/prvt/luhia/mirlin/97apr/5/9.80/mars
+/prvt/luhia/mirlin/97apr/5/10.74/jupiter/rc291.311.gz coadded
+/prvt/luhia/mirlin/97apr/5/10.74/jupiter/rc665.675.gz coadded
+/prvt/luhia/mirlin/97apr/5/11.30/mars
+/prvt/luhia/mirlin/97apr/5/13.20/jupiter/calbz_wd.fjc315335.gz ff Vcal good
+/prvt/luhia/mirlin/97apr/5/13.20/mars
+/prvt/luhia/mirlin/97apr/5/17.24/jupiter/calbz_wd.fjc341361.gz ff Vcal good
+/prvt/luhia/mirlin/97apr/5/17.93/jupiter/calbz_wd.fjc365385.gz ff Vcal good
+/prvt/luhia/mirlin/97apr/5/17.93/mars
+/prvt/luhia/mirlin/97apr/5/20.82/jupiter/calbz_wd.fjc393409.gz ff Vcal good
+/prvt/luhia/mirlin/97apr/5/22.79/jupiter/calbz_wd.fjc415435.gz ff Vcal good
+/prvt/luhia/mirlin/97apr/5/24.20/jupiter/rc439.459.gz coadded
+/prvt/luhia/mirlin/97apr/5/24.20/jupiter/rc643.663.gz coadded
+
+/prvt/luhia/mirlin/97apr/5/13.20/jupiter/calbz_wd.fjc527543.gz ff Vcal good
+/prvt/luhia/mirlin/97apr/5/17.24/jupiter/calbz_wd.fjc547576.gz ff Vcal good
+/prvt/luhia/mirlin/97apr/5/17.93/jupiter/calbz_wd.fjc571591.gz ff Vcal ok (stipes)
+/prvt/luhia/mirlin/97apr/5/20.82/jupiter/calbz_wd.fjc595615.gz ff Vcal good
+/prvt/luhia/mirlin/97apr/5/22.79/jupiter/calbz_wd.fjc619639.gz ff Vcal good
+
+/prvt/aloalo/mirlin/97may/7/7.85/mars
+/prvt/aloalo/mirlin/97may/7/8.57/jupiter/
+/prvt/aloalo/mirlin/97may/7/8.57/mars
+/prvt/aloalo/mirlin/97may/7/10.74/mars
+/prvt/aloalo/mirlin/97may/7/13.20/jupiter/
+/prvt/aloalo/mirlin/97may/7/13.20/mars
+/prvt/aloalo/mirlin/97may/7/17.24/jupiter/ bad
+/prvt/aloalo/mirlin/97may/7/17.24/mars
+/prvt/aloalo/mirlin/97may/7/17.93/jupiter/
+/prvt/aloalo/mirlin/97may/7/17.93/mars
+/prvt/aloalo/mirlin/97may/7/18.67/mars
+/prvt/aloalo/mirlin/97may/7/20.82/mars
+/prvt/aloalo/mirlin/97may/7/22.79/mars
+/prvt/aloalo/mirlin/97may/7/24.20/mars
+
+/prvt/aloalo/mirlin/97may/9/7.85/jupiter/
+/prvt/aloalo/mirlin/97may/9/8.57/jupiter/
+/prvt/aloalo/mirlin/97may/9/13.20/jupiter/
+/prvt/aloalo/mirlin/97may/9/17.93/jupiter/
+/prvt/aloalo/mirlin/97may/9/24.20/jupiter/
+
+/prvt/aloalo/mirlin/97may/10/7.85/jupiter/
+/prvt/aloalo/mirlin/97may/10/8.57/jupiter/
+/prvt/aloalo/mirlin/97may/10/13.20/jupiter/
+/prvt/aloalo/mirlin/97may/10/17.93/jupiter/
+/prvt/aloalo/mirlin/97may/10/24.20/jupiter/
+
+/prvt/okika/c10mu/97jun/27/rawest
+
+/prvt/okika/c10mu/97jun/29/raw
+
+/prvt/gecko/c10mu/97jun/29/raw
+(reduced files given by U. Lyon team)
+
+/prvt/gecko/oscir/97sep/3/7.90/jupiter/jup07.gz coadd of a and c files 
+/prvt/gecko/oscir/97sep/3/7.90/jupiter/jup0711.gz coadded all black field
+/prvt/gecko/oscir/97sep/3/7.90/jupiter/jup08.gz coadd of a and c files
+/prvt/gecko/oscir/97sep/3/7.90/jupiter/jup09.gz coadd of a and c files FFTtool
+/prvt/gecko/oscir/97sep/3/7.90/jupiter/jup10.gz coadd of a and c files FFTtool
+/prvt/gecko/oscir/97sep/3/7.90/jupiter/jup11.gz coadd if a and c files FFTtool
+/prvt/gecko/oscir/97sep/3/8.57/jupiter/
+/prvt/gecko/oscir/97sep/3/12.50/saturn/
+/prvt/gecko/oscir/97sep/3/17.93/jupiter/rc3.6.gz mosaiced
+/prvt/gecko/oscir/97sep/3/17.93/saturn/
+/prvt/gecko/oscir/97sep/3/18.67/jupiter/
+/prvt/gecko/oscir/97sep/3/18.67/saturn/
+
+Some images still had residual horizontal stripes and were "treated" in Fourier
+space (denoted by the fjc prefix), making fft(0,2:ny-3)=0 and retransforming.
+
+
+/prvt/amba/mirac/97sep/17/7.85/jupiter/cal_wd.jcf805824.gz coadd ff fft
+/prvt/amba/mirac/97sep/17/7.90/jupiter/
+/prvt/amba/mirac/97sep/17/7.90/saturn/		(bad)
+/prvt/amba/mirac/97sep/17/8.57/jupiter/cal_wd.jcf763782.gz coadd ff fft
+/prvt/amba/mirac/97sep/17/8.57/jupiter/cal_wd.jcf825844.gz coadd ff fft
+/prvt/amba/mirac/97sep/17/10.30/jupiter/
+/prvt/amba/mirac/97sep/17/10.74/jupiter/
+/prvt/amba/mirac/97sep/17/12.50/saturn/
+/prvt/amba/mirac/97sep/17/13.20/jupiter/calbz_wd.fjc713728.gz ff Vcal
+/prvt/amba/mirac/97sep/17/17.40/jupiter/calbz_wd.jc699708.gz ff Vcal
+/prvt/amba/mirac/97sep/17/17.40/saturn/
+/prvt/amba/mirac/97sep/17/17.80/jupiter/calbz_wd.jcf689689.gz ff Vcal
+/prvt/amba/mirac/97sep/17/17.80/saturn/
+/prvt/amba/mirac/97sep/17/20.60/jupiter/calbz_wd.fjc676688.gz ff Vcal
+/prvt/amba/mirac/97sep/17/20.60/saturn/scf955960.gz
+
+/prvt/amba/mirac/97sep/18/7.85/jupiter/cal_wd.jcf101130.gz coadd ff fft
+/prvt/amba/mirac/97sep/18/7.85/jupiter/cal_wd.jcf814843.gz coadd ff fft
+/prvt/amba/mirac/97sep/18/7.85/saturn/		(bad)
+/prvt/amba/mirac/97sep/18/7.90/jupiter/
+/prvt/amba/mirac/97sep/18/7.90/saturn/		(bad)
+/prvt/amba/mirac/97sep/18/8.57/jupiter/cal_wd.jcf151170.gz coadd ff fft
+/prvt/amba/mirac/97sep/18/8.57/jupiter/cal_wd.jcf844873.gz coadd ff fft
+/prvt/amba/mirac/97sep/18/10.48/jupiter/
+/prvt/amba/mirac/97sep/18/10.74/jupiter/
+/prvt/amba/mirac/97sep/18/10.74/saturn/
+/prvt/amba/mirac/97sep/18/12.20/jupiter/
+/prvt/amba/mirac/97sep/18/12.20/saturn/
+/prvt/amba/mirac/97sep/18/13.70/jupiter/cal_wd.jcf248267.gz coadd ff fft
+/prvt/amba/mirac/97sep/18/17.40/saturn/
+/prvt/amba/mirac/97sep/18/17.80/saturn/
+/prvt/amba/mirac/97sep/18/20.60/saturn/wd.scf480499.gz
+
+/prvt/amba/mirac/97sep/18/13.20/jupiter/calbz_wd.jc228247.gz ff Vcal
+/prvt/amba/mirac/97sep/18/17.40/jupiter/calbz_wd.fjc268287.gz ff Vcal
+/prvt/amba/mirac/97sep/18/17.80/jupiter/calbz_wd.jc288307.gz ff Vcal
+/prvt/amba/mirac/97sep/18/20.60/jupiter/calbz_wd.fjc308337.gz ff Vcal
+
+/prvt/amba/mirac/97sep/18/13.20/jupiter/calbz_wd.fjc904923.gz ff Vcal
+/prvt/amba/mirac/97sep/18/17.40/jupiter/calbz_wd.fjc924943.gz ff Vcal
+/prvt/amba/mirac/97sep/18/17.80/jupiter/calbz_wd.fjc945963.gz ff Vcal
+/prvt/amba/mirac/97sep/18/20.60/jupiter/calbz_wd.fjc964993.gz ff Vcal
+
+/prvt/amba/mirac/97sep/19/7.85/jupiter/jcoadd465420nogain.gz coadded, fourier filter
+/prvt/amba/mirac/97sep/19/7.85/jupiter/rc465.492 coadded, fourier filter
+/prvt/amba/mirac/97sep/19/7.85/jupiter/rc514.520 coadded, fourier filter
+/prvt/amba/mirac/97sep/19/7.85/jupiter/rc836.855 coadded, fourier filter
+/prvt/amba/mirac/97sep/19/7.85/saturn/scoadd339340.gz coadded
+/prvt/amba/mirac/97sep/19/7.90/jupiter/
+/prvt/amba/mirac/97sep/19/7.90/saturn/scoadd319338.gz coadded
+/prvt/amba/mirac/97sep/19/7.90/saturn/scoadd548557.gz coadded
+/prvt/amba/mirac/97sep/19/8.57/jupiter/cal_wd.jcf192209.gz coadded ff fft
+/prvt/amba/mirac/97sep/19/8.57/jupiter/cal_wd.jcf522543.gz coadded ff fft
+/prvt/amba/mirac/97sep/19/8.57/jupiter/cal_wd.jcf858875.gz coadded ff fft
+/prvt/amba/mirac/97sep/19/10.48/jupiter/
+/prvt/amba/mirac/97sep/19/10.74/jupiter/
+/prvt/amba/mirac/97sep/19/10.74/saturn/scoadd341346.gz coadded
+/prvt/amba/mirac/97sep/19/10.74/saturn/scoadd544547.gz coadded
+/prvt/amba/mirac/97sep/19/12.20/jupiter/
+/prvt/amba/mirac/97sep/19/12.20/saturn/scoadd290302.gz coadded
+/prvt/amba/mirac/97sep/19/12.20/saturn/scoadd534543.gz coadded
+/prvt/amba/mirac/97sep/19/12.20/titan/
+
+/prvt/amba/mirac/97sep/19/13.20/jupiter/calbz_wd.fjc154171.gz ff Vcal (good)
+/prvt/amba/mirac/97sep/19/13.70/jupiter/cal_wd.jcf621640.gz coadd ff fft
+/prvt/amba/mirac/97sep/19/13.70/jupiter/cal_wd.jcf947974.gz coadd ff fft
+/prvt/amba/mirac/97sep/19/17.40/jupiter/calb_wd.fjc132151.gz  ff Vcal (good)
+/prvt/amba/mirac/97sep/19/17.80/jupiter/calbz_wd.fjc210259.gz ff Vcal (good)
+/prvt/amba/mirac/97sep/19/20.60/jupiter/calbz_wd.fjc015034.gz ff Vcal (ok-striping)
+
+/prvt/amba/mirac/97sep/19/13.20/jupiter/calbz_wd.fjc601620.gz ff Vcal (good)
+/prvt/amba/mirac/97sep/19/17.40/jupiter/calb_wd.fjc641660.gz  ff Vcal (good)
+/prvt/amba/mirac/97sep/19/17.80/jupiter/calbz_wd.fjc661680.gz ff Vcal (good)
+/prvt/amba/mirac/97sep/19/20.60/jupiter/calbz_wd.fjc035054.gz ff Vcal (good)
+
+/prvt/amba/mirac/97sep/19/13.20/jupiter/calbz_wd.jc927946.gz   ff Vcal (ok-striping)
+/prvt/amba/mirac/97sep/19/17.40/jupiter/calbz_wd.fjc975994.gz  ff Vcal (good)
+/prvt/amba/mirac/97sep/19/17.80/jupiter/calbz_wd.fjc9951014.gz ff Vcal (good)
+/prvt/amba/mirac/97sep/19/20.60/jupiter/calbz_wd.fjc681710.gz  ff Vcal (good)
+
+/prvt/amba/mirac/97sep/19/17.40/saturn/s524533nogain.gz coadd, ff
+/prvt/amba/mirac/97sep/19/17.40/saturn/s524533fl.gz coadd, ff
+/prvt/amba/mirac/97sep/19/17.40/saturn/scoadd250269n.gz coadd
+/prvt/amba/mirac/97sep/19/17.40/saturn/scoadd250269nogain.gz coadd, ff
+/prvt/amba/mirac/97sep/19/17.40/saturn/scoadd250269p.gz coadd
+/prvt/amba/mirac/97sep/19/17.40/titan/
+/prvt/amba/mirac/97sep/19/17.80/saturn/scoadd514523.gz coadd, ff
+/prvt/amba/mirac/97sep/19/17.80/titan/
+/prvt/amba/mirac/97sep/19/20.60/saturn/cal_wd.scf504513.gz coadd
+/prvt/amba/mirac/97sep/19/20.60/titan/
+
+/prvt/amba/mirac/97sep/20/7.85/jupiter/rc130.158.gz coadd, ff
+/prvt/amba/mirac/97sep/20/7.85/jupiter/rc772.801.gz coadd, ff
+/prvt/amba/mirac/97sep/20/7.90/jupiter/
+/prvt/amba/mirac/97sep/20/7.90/saturn/cal_scf449468.gz
+/prvt/amba/mirac/97sep/20/7.90/saturn/cal_scf605624.gz
+/prvt/amba/mirac/97sep/20/8.57/jupiter/cal_wd.jcf159178.gz coadd ff fft
+/prvt/amba/mirac/97sep/20/8.57/jupiter/cal_wd.jcf803827.gz coadd ff fft
+/prvt/amba/mirac/97sep/20/10.48/jupiter/
+/prvt/amba/mirac/97sep/20/10.74/jupiter/
+/prvt/amba/mirac/97sep/20/10.74/saturn/
+/prvt/amba/mirac/97sep/20/12.20/jupiter/
+/prvt/amba/mirac/97sep/20/12.20/saturn/
+
+/prvt/amba/mirac/97sep/20/13.20/jupiter/calbz_wd.fjc236255.gz ff Vcal (good)
+/prvt/amba/mirac/97sep/20/17.40/jupiter/calbz_wd.fjc975994.gz ff Vcal (good)
+/prvt/amba/mirac/97sep/20/17.80/jupiter/calbz_wd.fjc947966.gz ff Vcal (good)
+/prvt/amba/mirac/97sep/20/20.60/jupiter/calbz_wd.fjc330347.gz ff Vcal (good)
+
+/prvt/amba/mirac/97sep/20/13.20/jupiter/calbz_wd.fjc888907.gz ff Vcal (good)
+/prvt/amba/mirac/97sep/20/17.80/jupiter/calbz_wd.fjc310359.gz ff Vcal (good)
+/prvt/amba/mirac/97sep/20/20.60/jupiter/calbz_wd.jc967993.gz  ff Vcal (good)
+
+/prvt/amba/mirac/97sep/20/17.40/saturn/
+/prvt/amba/mirac/97sep/20/17.80/saturn/
+/prvt/amba/mirac/97sep/20/20.60/saturn/wd.scf352377.gz
+/prvt/amba/mirac/97sep/20/20.60/saturn/wd.scf533552.gz
+
+/prvt/amba/mirlin/97nov/7/7.85/jupiter/quickjc031042 coadd, ff
+/prvt/amba/mirlin/97nov/7/7.85/jupiter/quickjc301312 coadd, ff
+/prvt/amba/mirlin/97nov/7/8.57/jupiter/rc21.29.gz coadd
+/prvt/amba/mirlin/97nov/7/8.57/jupiter/rc315.323.gz coadd
+/prvt/amba/mirlin/97nov/7/8.57/jupiter/rc45.53.gz coadd
+/prvt/amba/mirlin/97nov/7/10.74/jupiter/rc327.335.gz coadd
+/prvt/amba/mirlin/97nov/7/10.74/jupiter/rc57.65.gz coadd
+/prvt/amba/mirlin/97nov/7/12.16/jupiter/rc425.433.gz coadded
+/prvt/amba/mirlin/97nov/7/12.50/saturn/rc449.457.gz coadded
+/prvt/amba/mirlin/97nov/7/12.50/saturn/junkcf449457.gz coadded
+/prvt/amba/mirlin/97nov/7/12.50/saturn/flat447458.gz flat not applied, no jupiter at 12.50
+
+/prvt/amba/mirlin/97nov/7/13.20/jupiter/calbz_wd.jc067078.gz ff Vcal good
+/prvt/amba/mirlin/97nov/7/17.24/jupiter/calbz_wd.jc079090.gz ff Vcal good
+/prvt/amba/mirlin/97nov/7/17.93/jupiter/calbz_wd.jc091109.gz ff Vcal good
+/prvt/amba/mirlin/97nov/7/18.67/jupiter/calbz_wd.jc103114.gz ff Vcal good
+/prvt/amba/mirlin/97nov/7/20.82/jupiter/calbz_wd.jc115126.gz ff Vcal good
+/prvt/amba/mirlin/97nov/7/22.79/jupiter/calbz_wd.jc129137.gz ff Vcal good
+
+/prvt/amba/mirlin/97nov/7/13.20/jupiter/calbz_wd.jc337348.gz ff Vcal good
+/prvt/amba/mirlin/97nov/7/17.24/jupiter/calbz_wd.jc349360.gz ff Vcal good
+/prvt/amba/mirlin/97nov/7/17.93/jupiter/calbz_wd.jc361372.gz ff Vcal good
+/prvt/amba/mirlin/97nov/7/18.67/jupiter/calbz_wd.jc373384.gz ff Vcal good
+/prvt/amba/mirlin/97nov/7/20.82/jupiter/calbz_wd.jc385396.gz ff Vcal good
+/prvt/amba/mirlin/97nov/7/22.79/jupiter/calbz_wd.jc397410.gz ff Vcal good
+
+/prvt/amba/mirlin/97nov/7/17.24/saturn/calrc461.469.gz coadded, BetaPeg cal
+/prvt/amba/mirlin/97nov/7/17.24/saturn/rc461.469.gz coadded
+/prvt/amba/mirlin/97nov/7/17.93/saturn/cal_wd.scf473481.gz coadd ff fft
+/prvt/amba/mirlin/97nov/7/18.67/saturn/calrc485.493.gz coadded, BetaPeg cal
+/prvt/amba/mirlin/97nov/7/18.67/saturn/rc485.493.gz coadded
+/prvt/amba/mirlin/97nov/7/20.82/saturn/calrc497.505.gz coadded, BetaPeg cal
+/prvt/amba/mirlin/97nov/7/20.82/saturn/rc497.505.gz coadded
+/prvt/amba/mirlin/97nov/7/22.79/saturn/calrc509.517.gz coadded, BetaPeg cal
+/prvt/amba/mirlin/97nov/7/22.79/saturn/rc509.517.gz coadded
+/prvt/amba/mirlin/97nov/7/24.20/jupiter/rc141.149.gz coadded
+/prvt/amba/mirlin/97nov/7/24.20/jupiter/rc413.421.gz coadded
+/prvt/amba/mirlin/97nov/7/24.20/saturn/calrc521.529.gz coadded, BetaPeg cal
+/prvt/amba/mirlin/97nov/7/24.20/saturn/rc521.529.gz coadded
+
+/prvt/amba/mirlin/97nov/8/7.85/jupiter/jcquick.201212.gz coadded
+/prvt/amba/mirlin/97nov/8/7.85/jupiter/jcquick359370.gz coadded, note modified file name convention
+/prvt/amba/mirlin/97nov/8/8.57/jupiter/jcquick189200.gz coadded
+/prvt/amba/mirlin/97nov/8/8.57/jupiter/jcquick347358.gz coadded
+/prvt/amba/mirlin/97nov/8/10.74/jupiter/rc179.187.gz coadded
+/prvt/amba/mirlin/97nov/8/10.74/jupiter/rc337.345.gz coadded
+/prvt/amba/mirlin/97nov/8/12.16/jupiter/rc215.223.gz coadded
+/prvt/amba/mirlin/97nov/8/12.16/jupiter/rc325.333.gz coadded
+/prvt/amba/mirlin/97nov/8/12.20/titan
+
+/prvt/amba/mirlin/97nov/8/13.20/jupiter/calbz_wd.jc165176.gz ff Vcal good
+/prvt/amba/mirlin/97nov/8/17.24/jupiter/calbz_wd.jc153164.gz ff Vcal good
+/prvt/amba/mirlin/97nov/8/17.93/jupiter/calbz_wd.jc214152.gz ff Vcal good
+/prvt/amba/mirlin/97nov/8/18.67/jupiter/calbz_wd.jc129140.gz ff Vcal good
+/prvt/amba/mirlin/97nov/8/20.82/jupiter/calbz_wd.jc117128.gz ff Vcal good
+/prvt/amba/mirlin/97nov/8/22.79/jupiter/calbz_wd.jc105116.gz ff Vcal good
+
+/prvt/amba/mirlin/97nov/8/13.20/jupiter/calbz_wd.jc311322.gz
+/prvt/amba/mirlin/97nov/8/17.24/jupiter/calbz_wd.jc299310.gz
+/prvt/amba/mirlin/97nov/8/17.93/jupiter/calbz_wd.jc287298.gz
+/prvt/amba/mirlin/97nov/8/18.67/jupiter/calbz_wd.jc275286.gz
+/prvt/amba/mirlin/97nov/8/20.82/jupiter/calbz_wd.jc261274.gz
+/prvt/amba/mirlin/97nov/8/22.79/jupiter/                     ff Vcal bad
+
+/prvt/amba/mirlin/97nov/8/17.24/titan
+/prvt/amba/mirlin/97nov/8/17.93/titan
+/prvt/amba/mirlin/97nov/8/18.67/titan
+/prvt/amba/mirlin/97nov/8/20.82/titan
+/prvt/amba/mirlin/97nov/8/22.79/titan
+/prvt/amba/mirlin/97nov/8/24.20/titan
+
+/prvt/amba/mirlin/98jan/20/4.80/jupiter/jc073084.gz coadded FFT
+/prvt/amba/mirlin/98jan/20/7.85/jupiter/***bad***
+/prvt/amba/mirlin/98jan/20/8.57/jupiter/cal_wd.jcf037048.gz coadded ff FFT (not very good)
+/prvt/amba/mirlin/98jan/20/10.74/jupiter/cal_wd.jcf061072.gz coadded ff FFT
+/prvt/amba/mirlin/98jan/20/13.20/jupiter/cal_wd.jcf059060.gz coadded ff FFT
+/prvt/amba/mirlin/98jan/20/17.93/jupiter/cal_wd.jcf003011.gz coadded ff FFT
+/prvt/amba/mirlin/98jan/20/17.93/jupiter/cal_wd.jcf015023.gz coadded ff FFT
+
+/prvt/amba/mirlin/98may/29/4.80/jupiter/
+/prvt/amba/mirlin/98may/29/7.85/jupiter/wd.jc261280; jc261280 coadded FFT BAD!
+/prvt/amba/mirlin/98may/29/8.57/jupiter/
+/prvt/amba/mirlin/98may/29/10.74/jupiter/
+/prvt/amba/mirlin/98may/29/13.20/jupiter/
+/prvt/amba/mirlin/98may/29/17.24/jupiter/
+/prvt/amba/mirlin/98may/29/17.24/saturn/
+/prvt/amba/mirlin/98may/29/17.93/jupiter/jc001046; wd.jc001046; junk001046 coadded FFT BAD!
+/prvt/amba/mirlin/98may/29/17.93/saturn/
+/prvt/amba/mirlin/98may/29/18.67/jupiter/
+/prvt/amba/mirlin/98may/29/20.82/jupiter/
+/prvt/amba/mirlin/98may/29/22.79/jupiter/
+/prvt/amba/mirlin/98may/29/24.20/jupiter/
+/prvt/amba/mirlin/98may/29/24.20/titan/
+
+/prvt/amba/mirlin/98may/30/4.80/jupiter/
+/prvt/amba/mirlin/98may/30/7.85/jupiter/jc219238; wd.jc219238 coadded FFT BAD!
+/prvt/amba/mirlin/98may/30/8.57/jupiter/rc195.215.gz coadded
+/prvt/amba/mirlin/98may/30/8.57/jupiter/rc495.513.gz coadded
+/prvt/amba/mirlin/98may/30/10.30/saturn/
+/prvt/amba/mirlin/98may/30/10.74/jupiter/
+/prvt/amba/mirlin/98may/30/12.50/saturn/
+/prvt/amba/mirlin/98may/30/13.20/jupiter/
+/prvt/amba/mirlin/98may/30/17.24/jupiter/newjunk027947.gz; wd7-30M.newjunk027047.gz coadded
+/prvt/amba/mirlin/98may/30/17.24/saturn/
+/prvt/amba/mirlin/98may/30/17.24/titan/
+/prvt/amba/mirlin/98may/30/17.93/jupiter/jc013023;wd.jc013023 coadded FFT GOOD?
+/prvt/amba/mirlin/98may/30/17.93/saturn/
+/prvt/amba/mirlin/98may/30/17.93/titan/
+/prvt/amba/mirlin/98may/30/18.67/jupiter/
+/prvt/amba/mirlin/98may/30/18.67/saturn/
+/prvt/amba/mirlin/98may/30/18.67/titan/
+/prvt/amba/mirlin/98may/30/20.82/jupiter/rc75.95.gz coadded
+/prvt/amba/mirlin/98may/30/20.82/jupiter/rc385.405.gz coadded
+/prvt/amba/mirlin/98may/30/20.82/saturn/
+/prvt/amba/mirlin/98may/30/20.82/titan/
+/prvt/amba/mirlin/98may/30/22.79/jupiter/
+/prvt/amba/mirlin/98may/30/22.79/saturn/
+/prvt/amba/mirlin/98may/30/22.79/titan/
+/prvt/amba/mirlin/98may/30/24.20/jupiter/
+
+/prvt/amba/mirlin/98may/31/4.80/jupiter/
+/prvt/amba/mirlin/98may/31/7.85/jupiter/jc067086 coadded FFT BAD!
+/prvt/amba/mirlin/98may/31/7.85/jupiter/jc281300; wd.jc281300 coadded FFT BAD!
+/prvt/amba/mirlin/98may/31/7.85/jupiter/wd.j561580 coadded FFT BAD!
+/prvt/amba/mirlin/98may/31/7.85/saturn/
+/prvt/amba/mirlin/98may/31/8.57/jupiter/
+/prvt/amba/mirlin/98may/31/10.74/jupiter/
+/prvt/amba/mirlin/98may/31/10.74/moon
+/prvt/amba/mirlin/98may/31/12.20/saturn/
+/prvt/amba/mirlin/98may/31/13.20/jupiter/
+/prvt/amba/mirlin/98may/31/17.24/jupiter/
+/prvt/amba/mirlin/98may/31/17.24/moon
+/prvt/amba/mirlin/98may/31/17.24/saturn/
+/prvt/amba/mirlin/98may/31/17.24/titan/
+/prvt/amba/mirlin/98may/31/17.93/jupiter/jc131152; wd.jc131152 coadded FFT BAD!
+/prvt/amba/mirlin/98may/31/17.93/jupiter/jc463484; wd.jc463484 coadded FFT BAD!
+/prvt/amba/mirlin/98may/31/17.93/saturn/
+/prvt/amba/mirlin/98may/31/18.67/jupiter/
+/prvt/amba/mirlin/98may/31/18.67/saturn/
+/prvt/amba/mirlin/98may/31/20.82/jupiter/
+/prvt/amba/mirlin/98may/31/20.82/saturn/
+/prvt/amba/mirlin/98may/31/22.79/jupiter/
+/prvt/amba/mirlin/98may/31/22.79/saturn/
+/prvt/amba/mirlin/98may/31/24.20/jupiter/
+/prvt/amba/mirlin/98may/31/24.20/saturn/
+
+/prvt/amba/mirlin/98jun/4/4.80/jupiter/
+/prvt/amba/mirlin/98jun/4/7.85/jupiter/
+/prvt/amba/mirlin/98jun/4/8.57/jupiter/mosaic119.153 very bad
+/prvt/amba/mirlin/98jun/4/8.70/jupiter/
+/prvt/amba/mirlin/98jun/4/17.93/jupiter/
+
+/prvt/amba/mirlin/98jun/5/7.85/saturn/		(bad)
+/prvt/amba/mirlin/98jun/5/8.57/saturn/
+/prvt/amba/mirlin/98jun/5/12.50/saturn/
+/prvt/amba/mirlin/98jun/5/17.93/saturn/cal_sc003024.gz coadded FFT good
+/prvt/amba/mirlin/98jun/5/24.20/saturn/
+
+
+/prvt/amba/mirlin/98jul/19/7.85/jupiter/cal_wd.jcf313334.gz coadded ff FFT **BAD! - vertical striping***
+/prvt/amba/mirlin/98jul/19/7.85/jupiter/cal_wd.jcf649669.gz coadded ff FFT **BAD! - vertical striping***
+/prvt/amba/mirlin/98jul/19/7.85/saturn/cal_scf513521.gz coadd ff fft *wd bad*
+/prvt/amba/mirlin/98jul/19/8.57/jupiter/cal_wdjcf291312.gz coadded ff fft
+/prvt/amba/mirlin/98jul/19/8.57/jupiter/cal_wdjcf627648.gz coadded ff fft
+/prvt/amba/mirlin/98jul/19/10.74/jupiter/cal_wd.jcf269289.gz coadd ff fft (good)
+/prvt/amba/mirlin/98jul/19/10.74/jupiter/cal_wd.jcf605625.gz coadd ff fft (good)
+/prvt/amba/mirlin/98jul/19/12.20/saturn/wd.junk495510.gz coadded;coadded FFT
+/prvt/amba/mirlin/98jul/19/13.20/jupiter/cal_wd.jcf247268; coadded ff fft 
+/prvt/amba/mirlin/98jul/19/13.20/jupiter/cal_wd.jcf583604; coadded ff fft 
+/prvt/amba/mirlin/98jul/19/13.20/titan/
+/prvt/amba/mirlin/98jul/19/17.24/jupiter/cal_wd.jcf225246.gz; coadded ff fft 
+/prvt/amba/mirlin/98jul/19/17.24/jupiter/cal_wd.jcf561582.gz; coadded ff fft 
+/prvt/amba/mirlin/98jul/19/17.24/saturn/cs683691.gz coadded
+/prvt/amba/mirlin/98jul/19/17.24/titan/
+/prvt/amba/mirlin/98jul/19/17.93/jupiter/cal_wd.jcf203233.gz coadded ff fft  
+/prvt/amba/mirlin/98jul/19/17.93/jupiter/cal_wd.jcf539559.gz coadded ff fft 
+/prvt/amba/mirlin/98jul/19/17.93/saturn/cal_wd.scf695703.gz coadded ff fft
+/prvt/amba/mirlin/98jul/19/17.93/titan/
+/prvt/amba/mirlin/98jul/19/18.67/jupiter/cal_wd.jcf181202.gz coadded ff fft
+/prvt/amba/mirlin/98jul/19/18.67/jupiter/cal_wd.jcf517538.gz coadded ff fft
+/prvt/amba/mirlin/98jul/19/18.67/saturn/junk705716.gz coadded fft
+/prvt/amba/mirlin/98jul/19/18.67/titan/
+/prvt/amba/mirlin/98jul/19/20.82/jupiter/cal_wd.jcf159180.gz coadded ff fft
+/prvt/amba/mirlin/98jul/19/20.82/jupiter/cal_wd.jcf495516.gz coadded ff fft
+/prvt/amba/mirlin/98jul/19/20.82/saturn/cs719727.gz coadded
+/prvt/amba/mirlin/98jul/19/20.82/titan/
+/prvt/amba/mirlin/98jul/19/22.79/jupiter/cal_wd.jcf137158 coadded ff fft (bad)
+/prvt/amba/mirlin/98jul/19/22.79/jupiter/cal_wd.jcf473494 coadded ff fft
+/prvt/amba/mirlin/98jul/19/22.79/saturn/
+/prvt/amba/mirlin/98jul/19/22.79/titan/
+/prvt/amba/mirlin/98jul/19/24.20/jupiter/cal_wdjcf115137.gz coadded ff fft
+/prvt/amba/mirlin/98jul/19/24.20/jupiter/cal_wdjcf451472.gz coadded ff fft
+/prvt/amba/mirlin/98jul/19/24.20/saturn/cs489487_pos.gz; cd489487_neg.gz coadded
+
+/prvt/amba/mirlin/98jul/20/4.80/jupiter/
+/prvt/amba/mirlin/98jul/20/7.85/jupiter/cal_wd.jcf275295.gz coadded ff FFT **BAD! - vertical striping***
+/prvt/amba/mirlin/98jul/20/7.85/jupiter/cal_wd.jcf509529.gz coadded ff FFT **BAD! - vertical striping***
+/prvt/amba/mirlin/98jul/20/7.85/jupiter/cal_wd.jcf807827.gz coadded ff FFT **BAD! - vertical striping***
+/prvt/amba/mirlin/98jul/20/7.85/jupiter/jnjunk10011012.gz coadded bad
+/prvt/amba/mirlin/98jul/20/8.57/jupiter/cal_wdjcf253274.gz coadded ff fft
+/prvt/amba/mirlin/98jul/20/8.57/jupiter/cal_wdjcf487508.gz coadded ff fft
+/prvt/amba/mirlin/98jul/20/8.57/jupiter/cal_wdjcf785806.gz coadded ff fft
+/prvt/amba/mirlin/98jul/20/8.57/jupiter/cal_wdjcf9891000.gz coadded ff fft
+/prvt/amba/mirlin/98jul/20/10.74/jupiter/cal_wd.jcf231251.gz coadd ff fft (good)
+/prvt/amba/mirlin/98jul/20/10.74/jupiter/cal_wd.jcf465486.gz coadd ff fft (good)
+/prvt/amba/mirlin/98jul/20/10.74/jupiter/cal_wd.jcf763784.gz coadd ff fft (good)
+/prvt/amba/mirlin/98jul/20/10.74/jupiter/cal_wd.jcf977988.gz coadd ff fft (good)
+/prvt/amba/mirlin/98jul/20/12.20/saturn/sc073084.gz coadded FFT
+/prvt/amba/mirlin/98jul/20/13.20/jupiter/cal_wd.jcf209230.gz coadded ff fft 
+/prvt/amba/mirlin/98jul/20/13.20/jupiter/cal_wd.jcf443464.gz coadded ff fft 
+/prvt/amba/mirlin/98jul/20/13.20/jupiter/cal_wd.jcf741762.gz coadded ff fft 
+/prvt/amba/mirlin/98jul/20/13.20/jupiter/cal_wd.jcf967976.gz coadded ff fft 
+/prvt/amba/mirlin/98jul/20/17.24/jupiter/cal_wd.jcf187208.gz coadded ff fft 
+/prvt/amba/mirlin/98jul/20/17.24/jupiter/cal_wd.jcf421442.gz coadded ff fft 
+/prvt/amba/mirlin/98jul/20/17.24/jupiter/cal_wd.jcf719740.gz coadded ff fft 
+/prvt/amba/mirlin/98jul/20/17.24/jupiter/cal_wd.jcf943964.gz coadded ff fft 
+/prvt/amba/mirlin/98jul/20/17.24/saturn/
+/prvt/amba/mirlin/98jul/20/17.24/saturn_titan/
+/prvt/amba/mirlin/98jul/20/17.93/jupiter/cal_wd.jcf165185.gz coadded ff FFT BAD!
+/prvt/amba/mirlin/98jul/20/17.93/jupiter/cal_wd.jcf399419.gz coadded ff FFT BAD!
+/prvt/amba/mirlin/98jul/20/17.93/jupiter/cal_wd.jcf695715.gz coadded ff FFT BAD!
+/prvt/amba/mirlin/98jul/20/17.93/jupiter/cal_wd.jcf921941.gz coadded ff FFT BAD!
+/prvt/amba/mirlin/98jul/20/17.93/moon
+/prvt/amba/mirlin/98jul/20/17.93/saturn/cal_wd.scf10271035.gz coadd ff fft
+/prvt/amba/mirlin/98jul/20/17.93/saturn_titan/
+/prvt/amba/mirlin/98jul/20/18.67/jupiter/cal_wd.jcf143164.gz coadded ff fft
+/prvt/amba/mirlin/98jul/20/18.67/jupiter/cal_wd.jcf377398.gz coadded ff fft
+/prvt/amba/mirlin/98jul/20/18.67/jupiter/cal_wd.jcf673694.gz coadded ff fft
+/prvt/amba/mirlin/98jul/20/18.67/jupiter/cal_wd.jcf899920.gz coadded ff fft
+/prvt/amba/mirlin/98jul/20/18.67/saturn/
+/prvt/amba/mirlin/98jul/20/18.67/saturn_titan/
+/prvt/amba/mirlin/98jul/20/20.82/jupiter/cal_wd.jcf121142.gz coadded ff fft
+/prvt/amba/mirlin/98jul/20/20.82/jupiter/cal_wd.jcf355376.gz coadded ff fft
+/prvt/amba/mirlin/98jul/20/20.82/jupiter/cal_wd.jcf651672.gz coadded ff fft
+/prvt/amba/mirlin/98jul/20/20.82/jupiter/cal_wd.jcf877898.gz coadded ff fft
+/prvt/amba/mirlin/98jul/20/20.82/saturn/
+/prvt/amba/mirlin/98jul/20/20.82/saturn_titan/
+/prvt/amba/mirlin/98jul/20/22.79/jupiter/cal_wd.jcf099120.gz coadd ff fft (bad)
+/prvt/amba/mirlin/98jul/20/22.79/jupiter/cal_wd.jcf329350.gz coadd ff fft
+/prvt/amba/mirlin/98jul/20/22.79/jupiter/cal_wd.jcf629650.gz coadd ff fft
+/prvt/amba/mirlin/98jul/20/22.79/jupiter/cal_wd.jcf855875.gz coadd ff fft (bad)
+/prvt/amba/mirlin/98jul/20/22.79/saturn/
+/prvt/amba/mirlin/98jul/20/22.79/saturn_titan/
+/prvt/amba/mirlin/98jul/20/24.20/jupiter/cal_wdjcf077098.gz coadded ff fft
+/prvt/amba/mirlin/98jul/20/24.20/jupiter/cal_wdjcf307328.gz coadded ff fft
+/prvt/amba/mirlin/98jul/20/24.20/jupiter/cal_wdjcf607628.gz coadded ff fft
+/prvt/amba/mirlin/98jul/20/24.20/jupiter/cal_wdjcf829850.gz coadded ff fft
+
+/prvt/amba/mirlin/98jul/21/10.30/jupiter/jc001006.gz (bad, but not too bad)
+
+/prvt/amba/mirlin/98sep/27/7.85/jupiter/cal_wd.jcf184205.gz coadded ff FFT (not very good)
+/prvt/amba/mirlin/98sep/27/7.85/jupiter/cal_wd.jcf446481.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/7.85/jupiter/wd.jcf734755.gz coadded ff FFT (BAD!)
+/prvt/amba/mirlin/98sep/27/8.57/jupiter/cal_wd.jcf162182.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/8.57/jupiter/cal_wd.jcf438458.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/8.57/jupiter/cal_wd.jcf712732.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/10.74/jupiter/cal_wd.jcf140160.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/10.74/jupiter/cal_wd.jcf416436.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/10.74/jupiter/cal_wd.jcf690710.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/12.20/saturn/
+/prvt/amba/mirlin/98sep/27/13.20/jupiter/cal_wd.jcf118138.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/13.20/jupiter/cal_wd.jcf394414.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/13.20/jupiter/cal_wd.jcf668688.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/17.24/jupiter/cal_wd.jcf008028.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/17.24/jupiter/cal_wd.jcf284304.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/17.24/jupiter/cal_wd.jcf558578.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/17.24/saturn/
+/prvt/amba/mirlin/98sep/27/17.24/saturn_titan/
+/prvt/amba/mirlin/98sep/27/17.93/jupiter/cal_wd.jcf030050.gz coadded ff FFT (good)
+/prvt/amba/mirlin/98sep/27/17.93/jupiter/cal_wd.jcf306326.gz coadded ff FFT (good)
+/prvt/amba/mirlin/98sep/27/17.93/jupiter/cal_wd.jcf580600.gz coadded ff FFT (good, satelite)
+/prvt/amba/mirlin/98sep/27/17.93/saturn/cal_wd.scf496508.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/17.93/saturn/cal_wd.scf782790.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/17.93/saturn_titan/
+/prvt/amba/mirlin/98sep/27/18.67/jupiter/cal_wd.jcf052062.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/18.67/jupiter/cal_wd.jcf328348.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/18.67/jupiter/cal_wd.jcf602622.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/18.67/saturn/
+/prvt/amba/mirlin/98sep/27/18.67/saturn_titan/
+/prvt/amba/mirlin/98sep/27/20.82/jupiter/cal_wd.jcf074094.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/20.82/jupiter/cal_wd.jcf350370.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/20.82/jupiter/cal_wd.jcf624644.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/20.82/saturn/
+/prvt/amba/mirlin/98sep/27/20.82/saturn_titan/
+/prvt/amba/mirlin/98sep/27/24.20/jupiter/cal_wd.jcf096116.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/24.20/jupiter/cal_wd.jcf372392.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/24.20/jupiter/cal_wd.jcf646666.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/27/24.20/saturn/
+
+/prvt/amba/mirlin/98sep/28/7.85/jupiter/cal_jcf313334.gz coadded ff FFT  (not very good)
+/prvt/amba/mirlin/98sep/28/7.85/jupiter/cal_jcf535556.gz coadded ff FFT  (not very good)
+/prvt/amba/mirlin/98sep/28/8.57/jupiter/cal_wd.jcf291311.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/28/8.57/jupiter/cal_wd.jcf513533.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/28/10.74/jupiter/cal_wd.jcf269289.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/28/10.74/jupiter/cal_wd.jcf491511.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/28/12.20/saturn/
+/prvt/amba/mirlin/98sep/28/12.20/titan/
+/prvt/amba/mirlin/98sep/28/13.20/jupiter/cal_wd.jcf247267.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/28/13.20/jupiter/cal_wd.jcf469489.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/28/17.24/jupiter/cal_wd.jcf137157.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/28/17.24/jupiter/cal_wd.jcf359379.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/28/17.24/saturn/
+/prvt/amba/mirlin/98sep/28/17.24/titan/
+/prvt/amba/mirlin/98sep/28/17.93/jupiter/cal_wd.jcf159179.gz coadded ff FFT (good)
+/prvt/amba/mirlin/98sep/28/17.93/jupiter/cal_wd.jcf381401.gz coadded ff FFT (good)
+/prvt/amba/mirlin/98sep/28/17.93/saturn/cal_wd.scf583591.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/28/17.93/titan/
+/prvt/amba/mirlin/98sep/28/18.67/jupiter/cal_wd.jcf181201.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/28/18.67/jupiter/cal_wd.jcf403423.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/28/18.67/saturn/
+/prvt/amba/mirlin/98sep/28/18.67/titan/
+/prvt/amba/mirlin/98sep/28/20.82/jupiter/cal_wd.jcf203223.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/28/20.82/jupiter/cal_wd.jcf425445.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/28/20.82/saturn/
+/prvt/amba/mirlin/98sep/28/20.82/titan/
+/prvt/amba/mirlin/98sep/28/24.20/jupiter/cal_wd.jcf225245.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/28/24.20/jupiter/cal_wd.jcf447467.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/28/24.20/saturn/
+/prvt/amba/mirlin/98sep/28/24.20/titan/
+
+/prvt/amba/mirlin/98sep/29/7.85/jupiter/cal_wd.jcf179198.gz coadded ff FFT (not very good)
+/prvt/amba/mirlin/98sep/29/7.85/jupiter/cal_wd.jcf199220.gz coadded ff FFT (not very good)
+/prvt/amba/mirlin/98sep/29/7.85/jupiter/cal_wd.jcf473494.gz coadded ff FFT (BAD!)
+/prvt/amba/mirlin/98sep/29/8.57/jupiter/cal_wd.jcf155175.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/29/8.57/jupiter/cal_wd.jcf385405.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/29/10.74/jupiter/cal_wd.jcf133153.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/29/10.74/jupiter/cal_wd.jcf363383.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/29/13.20/jupiter/cal_wd.jcf111131.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/29/13.20/jupiter/cal_wd.jcf331351.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/29/17.24/jupiter/cal_wd.jcf001021.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/29/17.24/jupiter/cal_wd.jcf221241.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/29/17.24/saturn/scf04970508.gz coadded FFT (bad)
+/prvt/amba/mirlin/98sep/29/17.24/titan/
+/prvt/amba/mirlin/98sep/29/17.93/jupiter/cal_wd.jcf023043.gz coadded ff FFT (good, satelite)
+/prvt/amba/mirlin/98sep/29/17.93/jupiter/cal_wd.jcf243263.gz coadded ff FFT (good)
+/prvt/amba/mirlin/98sep/29/17.93/saturn/cal_wd.scf523531.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/29/17.93/titan/
+/prvt/amba/mirlin/98sep/29/18.67/jupiter/cal_wd.jcf045065.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/29/18.67/jupiter/cal_wd.jcf265285.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/29/18.67/saturn/
+/prvt/amba/mirlin/98sep/29/18.67/titan/
+/prvt/amba/mirlin/98sep/29/20.82/jupiter/cal_wd.jcf067087.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/29/20.82/jupiter/cal_wd.jcf287307.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/29/20.82/saturn/
+/prvt/amba/mirlin/98sep/29/20.82/titan/
+/prvt/amba/mirlin/98sep/29/24.20/jupiter/cal_wd.jcf089109.gz coadded ff FFT
+/prvt/amba/mirlin/98sep/29/24.20/jupiter/cal_wd.jcf309329.gz coadded ff FFT
+
+/prvt/amba/mirlin/98oct/4/7.90/saturn/		(bad)
+/prvt/amba/mirlin/98oct/4/10.30/jupiter/
+/prvt/amba/mirlin/98oct/4/12.20/saturn/
+/prvt/amba/mirlin/98oct/4/13.20/jupiter/ bad
+/prvt/amba/mirlin/98oct/4/17.24/jupiter/ bad
+/prvt/amba/mirlin/98oct/4/17.93/saturn/
+/prvt/amba/mirlin/98oct/4/20.82/jupiter/
+/prvt/amba/mirlin/98oct/4/24.20/saturn/
+
+/prvt/amba/mirlin/98oct/21/7.85/jupiter/
+/prvt/amba/mirlin/98oct/21/20.82/jupiter/junk067107.gz coadded
+
+
+/prvt/honua/mirac/99jun/13/7.85/jupiter/jc422426.gz coadd fft
+/prvt/honua/mirac/99jun/13/8.58/jupiter/jc037041.gz coadd fft
+/prvt/honua/mirac/99jun/13/8.58/jupiter/jc427431.gz coadd fft
+/prvt/honua/mirac/99jun/13/10.75/jupiter/wd.jc417421.gz coadd wd fft
+/prvt/honua/mirac/99jun/13/13.20/jupiter/wd.jc432436.gz coadd wd fft
+/prvt/honua/mirac/99jun/13/17.80/jupiter/jc437446.gz coadd fft
+
+/prvt/honua/mirlin/99jun/29/7.85/jupiter/cal_wd.betterjcf619627.gz coadded ff FFT  (not very good, satelite)
+/prvt/honua/mirlin/99jun/29/8.57/jupiter/cal_wd.jcf607615.gz coadd ff? wd fft
+/prvt/honua/mirlin/99jun/29/10.74/jupiter/cal_wd.jcf595603.gz coadd ff? wd fft
+/prvt/honua/mirlin/99jun/29/13.20/jupiter/cal_wd.jcf583591.gz coadd ff? fft
+/prvt/honua/mirlin/99jun/29/17.24/jupiter/cal_wd.jcf523531.gz coadd wd fft
+/prvt/honua/mirlin/99jun/29/17.93/jupiter/cal_wd.betterjcf535543.gz coadded ff FFT (good, satelite)
+/prvt/honua/mirlin/99jun/29/18.67/jupiter/cal_wd.jcf547555.gz coadd ff? wd fft
+/prvt/honua/mirlin/99jun/29/20.82/jupiter/cal_wd.jcf559567.gz coadd ff wd fft
+/prvt/honua/mirlin/99jun/29/24.20/jupiter/cal_wd.jcf571579.gz coadd ff? wd fft
+
+/prvt/honua/mirlin/99jun/30/7.85/jupiter/cal_wd.jcf11451165.gz coadded ff FFT (not very good)
+/prvt/honua/mirlin/99jun/30/8.57/jupiter/cal_wd.jcf101121.gz coadd ff? wd fft
+/prvt/honua/mirlin/99jun/30/10.74/jupiter/cal_wd.jcf123143.gz coadd ff? wd fft
+/prvt/honua/mirlin/99jun/30/13.20/jupiter/cal_wd.jcf079099.gz coadd ff? wd fft
+/prvt/honua/mirlin/99jun/30/17.24/jupiter/cal_wd.jcf969977.gz coadd ff? wd
+/prvt/honua/mirlin/99jun/30/17.24/jupiter/cal_wd.jcf981989.gz coadd ff? wd
+/prvt/honua/mirlin/99jun/30/17.24/saturn/wd.junk11671190.gz coadd wd fft
+/prvt/honua/mirlin/99jun/30/17.24/titan/
+/prvt/honua/mirlin/99jun/30/17.93/jupiter/cal_wd.betterjcf09911011.gz coadded ff FFT (good)
+/prvt/honua/mirlin/99jun/30/17.93/saturn/cal_wd.scf12031211.gz coadded ff FFT
+/prvt/honua/mirlin/99jun/30/17.93/titan/
+/prvt/honua/mirlin/99jun/30/18.67/jupiter/cal_wd.jcf013033.gz coadd ff?; wd.1013_1033.gz
+/prvt/honua/mirlin/99jun/30/18.67/saturn/wd.junk12131224.gz coadd wd fft
+/prvt/honua/mirlin/99jun/30/18.67/titan/
+/prvt/honua/mirlin/99jun/30/20.82/jupiter/cal_wd.jcf035055.gz coadd ff wd fft
+/prvt/honua/mirlin/99jun/30/20.82/saturn/wd.junk12251236.gz coadd wd fft
+/prvt/honua/mirlin/99jun/30/20.82/titan/
+/prvt/honua/mirlin/99jun/30/24.20/jupiter/cal_wd.jcf057075.gz coadd ff wd fft; wd.1057_1075.gz
+
+/prvt/honua/mirlin/99jul/1/7.85/jupiter/cal_wd.betterjcf12631271.gz coadded ff FFT (not very good)
+/prvt/honua/mirlin/99jul/1/8.57/jupiter/cal_wd.jcf251259.gz coadd ff? fft; wd.jcf1251_1259.gz
+/prvt/honua/mirlin/99jul/1/10.30/jupiter/wd.jcf13531363.gz coadd ff fft (ok) (no calibration for this wavelength)
+/prvt/honua/mirlin/99jul/1/10.74/jupiter/cal_wd.jcf227235.gz coadd ff? fft; wd.jcf1227_1235.gz 
+/prvt/honua/mirlin/99jul/1/12.50/jupiter/wd.junk11151118.gz coadd wd fft
+/prvt/honua/mirlin/99jul/1/12.50/saturn/wd.junk13331346.gz coadd wd fft
+/prvt/honua/mirlin/99jul/1/13.20/jupiter/cal_wd.jcf215223.gz coadd ff? fft; wd.jcf1215_1223.gz
+/prvt/honua/mirlin/99jul/1/17.24/jupiter/cal_wd.jcf155163.gz coadd ff fft
+/prvt/honua/mirlin/99jul/1/17.24/saturn/wd.junk12751284.gz coadd wd fft
+/prvt/honua/mirlin/99jul/1/17.93/jupiter/cal_wd.betterjcf11671175.gz coadded ff FFT (good)
+/prvt/honua/mirlin/99jul/1/17.93/saturn/cal_wd.scf12871295.gz coadded ff FFT
+/prvt/honua/mirlin/99jul/1/18.67/jupiter/cal_wd.jcf179185.gz coadd ff? fft; wd.jcf1179_1185.gz
+/prvt/honua/mirlin/99jul/1/18.67/saturn/wd.junk12971308.gz coadd wd fft
+/prvt/honua/mirlin/99jul/1/20.82/jupiter/cal_wd.jcf191199.gz coadd ff wd fft
+/prvt/honua/mirlin/99jul/1/20.82/saturn/wd.junk13091320.gz coadd wd fft
+/prvt/honua/mirlin/99jul/1/24.20/jupiter/cal_wd.jcf203211.gz coadd ff? fft; wd.jcf1203_1211.gz
+/prvt/honua/mirlin/99jul/1/24.20/saturn/wd.junk13211332.gz coadd wd fft
+
+/prvt/honua/mirlin/99jul/2/7.85/jupiter/cal_wd.betterjcf107115.gz coadded ff FFT (not very good)
+/prvt/honua/mirlin/99jul/2/7.85/jupiter/cal_wd.betterjcf299307.gz coadded ff FFT (not very good)
+/prvt/honua/mirlin/99jul/2/8.57/jupiter/cal_wd.jcf083091.gz coadd ff wd fft
+/prvt/honua/mirlin/99jul/2/8.57/jupiter/cal_wd.jcf275283.gz coadd ff wd fft
+/prvt/honua/mirlin/99jul/2/8.57/saturn/ bad
+/prvt/honua/mirlin/99jul/2/10.74/jupiter/cal_wd.jcf095103.gz coadd ff wd fft good
+/prvt/honua/mirlin/99jul/2/10.74/jupiter/cal_wd.jcf287295.gz coadd ff wd fft good
+/prvt/honua/mirlin/99jul/2/12.50/saturn/wd.junk177188.gz coadd wd fft
+/prvt/honua/mirlin/99jul/2/13.20/jupiter/cal_wd.jcf069077.gz coadd ff wd fft
+/prvt/honua/mirlin/99jul/2/13.20/jupiter/cal_wd.jcf263271.gz coadd ff wd fft good
+/prvt/honua/mirlin/99jul/2/17.24/jupiter/cal_wd.jcf009017.gz coadd ff? wd
+/prvt/honua/mirlin/99jul/2/17.24/jupiter/cal_wd.jcf203211.gz coadd ff? wd
+/prvt/honua/mirlin/99jul/2/17.24/saturn/wd.junk117128.gz coadd wd fft
+/prvt/honua/mirlin/99jul/2/17.93/jupiter/cal_wd.betterjcf021029.gz coadded ff FFT (good)
+/prvt/honua/mirlin/99jul/2/17.93/jupiter/cal_wd.betterjcf215223.gz coadded ff FFT (good)
+/prvt/honua/mirlin/99jul/2/17.93/saturn/cal_wd.scf131139.gz coadded ff FFT
+/prvt/honua/mirlin/99jul/2/18.67/jupiter/cal_wd.jcf033041.gz coadd ff wd fft
+/prvt/honua/mirlin/99jul/2/18.67/jupiter/cal_wd.jcf227235.gz coadd ff wd fft
+/prvt/honua/mirlin/99jul/2/18.67/saturn/junkcfri141152.gz coadd ff? fft
+/prvt/honua/mirlin/99jul/2/20.82/jupiter/cal_wd.jcf045053.gz coadd ff wd fft
+/prvt/honua/mirlin/99jul/2/20.82/jupiter/cal_wd.jcf239247.gz coadd ff wd fft
+/prvt/honua/mirlin/99jul/2/20.82/saturn/sc1553164.gz coadd ff? fft
+/prvt/honua/mirlin/99jul/2/24.20/jupiter/cal_wd.jcf057065.gz coadd ff wd fft
+/prvt/honua/mirlin/99jul/2/24.20/jupiter/cal_wd.jcf251259.gz coadd ff wd fft
+/prvt/honua/mirlin/99jul/2/24.20/saturn/wd.junk165176.gz coadd wd fft
+
+/prvt/honua/mirlin/99aug/12/7.85/jupiter/cal_wd.betterjcf106114.gz coadded ff FFT (not very good)
+/prvt/honua/mirlin/99aug/12/7.85/jupiter/cal_wd.betterjcf216224.gz coadded ff FFT (not very good)
+/prvt/honua/mirlin/99aug/12/7.85/jupiter/cal_wd.betterjcf552560.gz coadded ff FFT (not very good)
+/prvt/honua/mirlin/99aug/12/7.85/saturn/ BAD
+/prvt/honua/mirlin/99aug/12/8.57/jupiter/cal_wd.jcf092103.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/8.57/jupiter/cal_wd.jcf204213.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/8.57/jupiter/cal_wd.jcf538549.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/8.70/jupiter/ bad (watau)
+/prvt/honua/mirlin/99aug/12/10.74/jupiter/cal_wd.jcf080091.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/10.74/jupiter/cal_wd.jcf190201.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/10.74/jupiter/cal_wd.jcf526537.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/12.20/saturn/cal_wd.scf346357.gz
+/prvt/honua/mirlin/99aug/12/13.20/jupiter/cal_wd.jcf066078.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/13.20/jupiter/cal_wd.jcf180188.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/13.20/jupiter/cal_wd.jcf516524.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/17.24/jupiter/cal_wd.jcf006017.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/17.24/jupiter/cal_wd.jcf118129.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/17.24/jupiter/cal_wd.jcf454465.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/17.24/saturn/cal_wd.scf334345.gz
+/prvt/honua/mirlin/99aug/12/17.24/titan/
+/prvt/honua/mirlin/99aug/12/17.93/jupiter/cal_wd.betterjcf020028.gz coadded ff FFT (good)
+/prvt/honua/mirlin/99aug/12/17.93/jupiter/cal_wd.betterjcf132140.gz coadded ff FFT (good)
+/prvt/honua/mirlin/99aug/12/17.93/jupiter/cal_wd.betterjcf468476.gz coadded ff FFT (good)
+/prvt/honua/mirlin/99aug/12/17.93/saturn/cal_wd.scf324332.gz coadded ff FFT
+/prvt/honua/mirlin/99aug/12/17.93/titan/
+/prvt/honua/mirlin/99aug/12/18.67/jupiter/cal_wd.jcf031039.gz; wd.jcf_0032_0038.gz coadd ff? wd fft
+/prvt/honua/mirlin/99aug/12/18.67/jupiter/cal_wd.jcf144152.gz; wd.jcf_0144_0152.gz coadd ff? wd fft
+/prvt/honua/mirlin/99aug/12/18.67/jupiter/cal_wd.jcf480488.gz; wd.jcf_0480_0488.gz coadd ff? wd fft
+/prvt/honua/mirlin/99aug/12/18.67/saturn/cal_wd.scf310321.gz 
+/prvt/honua/mirlin/99aug/12/20.82/jupiter/cal_wd.jcf042053.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/20.82/jupiter/cal_wd.jcf154163.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/20.82/jupiter/cal_wd.jcf490501.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/20.82/saturn/wd.sc298309.gz coadd fft
+/prvt/honua/mirlin/99aug/12/20.82/titan/
+/prvt/honua/mirlin/99aug/12/24.20/jupiter/cal_wd.jcf054065.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/24.20/jupiter/cal_wd.jcf166177.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/24.20/jupiter/cal_wd.jcf502513.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/12/24.20/saturn/cal_wd.scf286297.gz
+
+/prvt/honua/mirlin/99aug/13/7.85/jupiter/cal_wd.betterjcf103111.gz coadded ff FFT (not very good)
+/prvt/honua/mirlin/99aug/13/7.85/jupiter/cal_wd.betterjcf289297.gz coadded ff FFT (not very good)
+/prvt/honua/mirlin/99aug/13/7.85/jupiter/cal_wd.betterjcf533541.gz coadded ff FFT (not very good)
+/prvt/honua/mirlin/99aug/13/7.85/saturn/sc527530.gz coadd fft BAD
+/prvt/honua/mirlin/99aug/13/8.57/jupiter/cal_wd.jcf089100.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/8.57/jupiter/cal_wd.jcf275286.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/8.57/jupiter/cal_wd.jcf543554.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/10.74/jupiter/cal_wd.jcf077088.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/10.74/jupiter/cal_wd.jcf263274.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/10.74/jupiter/cal_wd.jcf555566.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/12.20/saturn/cal_wd.scf419430.gz
+/prvt/honua/mirlin/99aug/13/12.20/titan/
+/prvt/honua/mirlin/99aug/13/13.20/jupiter/cal_wd.jcf067075.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/13.20/jupiter/cal_wd.jcf253262.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/13.20/jupiter/cal_wd.jcf569577.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/17.24/jupiter/cal_wd.jcf005016.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/17.24/jupiter/cal_wd.jcf239250.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/17.24/jupiter/cal_wd.jcf579590.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/17.24/saturn/cal_wd.sc431442.gz coadd wd fft
+/prvt/honua/mirlin/99aug/13/17.24/titan/
+/prvt/honua/mirlin/99aug/13/17.93/jupiter/cal_wd.betterjcf019027.gz coadded ff FFT (good)
+/prvt/honua/mirlin/99aug/13/17.93/jupiter/cal_wd.betterjcf229237.gz coadded ff FFT (good)
+/prvt/honua/mirlin/99aug/13/17.93/jupiter/cal_wd.betterjcf593601.gz coadded ff FFT (good)
+/prvt/honua/mirlin/99aug/13/17.93/saturn/cal_wd.scf445453.gz coadded ff FFT
+/prvt/honua/mirlin/99aug/13/17.93/titan/
+/prvt/honua/mirlin/99aug/13/18.67/jupiter/cal_wd.jcf031039.gz coadd ff wd
+/prvt/honua/mirlin/99aug/13/18.67/jupiter/cal_wd.jcf217225.gz coadd ff wd
+/prvt/honua/mirlin/99aug/13/18.67/jupiter/cal_wd.jcf605613.gz coadd ff? wd
+/prvt/honua/mirlin/99aug/13/18.67/saturn/wd.scf455466.gz
+/prvt/honua/mirlin/99aug/13/18.67/titan/
+/prvt/honua/mirlin/99aug/13/20.82/jupiter/cal_wd.jcf041052.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/20.82/jupiter/cal_wd.jcf204213.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/20.82/jupiter/cal_wd.jcf615626.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/20.82/saturn/cal_wd.scf467478.gz
+/prvt/honua/mirlin/99aug/13/20.82/titan/
+/prvt/honua/mirlin/99aug/13/24.20/jupiter/cal_wd.jcf053064.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/24.20/jupiter/cal_wd.jcf179190.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/24.20/jupiter/cal_wd.jcf627638.gz coadd ff wd fft
+/prvt/honua/mirlin/99aug/13/24.20/saturn/cal_wd.scf479490.gz
+/prvt/honua/mirlin/99aug/13/24.20/titan/
+
+/prvt/honua/mirac/99sep/12/7.85/jupiter/cal_wd.jcff838842.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/12/8.58/jupiter/
+/prvt/honua/mirac/99sep/12/10.75/jupiter/
+/prvt/honua/mirac/99sep/12/13.20/jupiter/cal_wd.jcff843849.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/12/17.40/jupiter/cal_wd.jcff850856.gz coadd ff(2) wd 
+/prvt/honua/mirac/99sep/12/17.80/jupiter/cal_wd.jcff858862.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/12/20.60/jupiter/cal_wd.jcff864868.gz coadd ff(2) wd fft
+
+/prvt/honua/mirac/99sep/13/0.00/jupiter/         <---?
+/prvt/honua/mirac/99sep/13/0.00/saturn/          <---?
+/prvt/honua/mirac/99sep/13/7.85/jupiter/cal_wd.jcff220239.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/13/7.85/jupiter/cal_wd.jcff270278.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/13/7.85/jupiter/cal_wd.jcff505514.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/13/7.85/jupiter/cal_wd.jcff613622.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/13/8.58/jupiter/
+/prvt/honua/mirac/99sep/13/10.75/jupiter/
+/prvt/honua/mirac/99sep/13/12.20/saturn/  bad: "blocky" appearance
+/prvt/honua/mirac/99sep/13/13.20/jupiter/cal_wd.jcff260269.gz coadd ff(2) wd 
+/prvt/honua/mirac/99sep/13/13.20/jupiter/cal_wd.jcff475484.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/13/13.20/jupiter/cal_wd.jcff643652.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/13/17.40/jupiter/cal_wd.jcff283294.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/13/17.40/jupiter/cal_wd.jcff465474.gz coadd ff(2)? wd fft
+/prvt/honua/mirac/99sep/13/17.40/jupiter/cal_wd.jcff653659.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/13/17.40/saturn/ bad: "blocky" appearance
+/prvt/honua/mirac/99sep/13/17.40/titan/
+/prvt/honua/mirac/99sep/13/17.80/jupiter/cal_wd.jcff295304.gz coadd ff(2) wd
+/prvt/honua/mirac/99sep/13/17.80/jupiter/cal_wd.jcff455474.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/13/17.80/jupiter/cal_wd.jcff664672.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/13/17.80/saturn/
+/prvt/honua/mirac/99sep/13/17.80/titan/
+/prvt/honua/mirac/99sep/13/20.60/jupiter/cal_wd.jcff305314.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/13/20.60/jupiter/cal_wd.jcff445454.gz coadd ff(2) wd 
+/prvt/honua/mirac/99sep/13/20.60/jupiter/cal_wd.jcff673682.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/13/20.60/saturn/
+/prvt/honua/mirac/99sep/13/20.60/titan/
+
+/prvt/honua/mirac/99sep/14/0.00/jupiter/
+/prvt/honua/mirac/99sep/14/7.85/jupiter/cal_wd.jcff156164.gz coadd ff(2) wd 
+/prvt/honua/mirac/99sep/14/7.85/jupiter/cal_wd.jcff275284.gz coadd ff(2) wd 
+/prvt/honua/mirac/99sep/14/7.85/jupiter/cal_wd.jcff295304.gz coadd ff(2) wd 
+/prvt/honua/mirac/99sep/14/7.85/jupiter/cal_wd.jcff470479.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/7.85/jupiter/cal_wd.jcff598607.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/7.85/jupiter/cal_wd.jcff668677.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/8.58/jupiter/
+/prvt/honua/mirac/99sep/14/10.75/jupiter/
+/prvt/honua/mirac/99sep/14/12.20/saturn/
+/prvt/honua/mirac/99sep/14/13.20/jupiter/cal_wd.jcff185194.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/13.20/jupiter/cal_wd.jcff325334.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/13.20/jupiter/cal_wd.jcff500509.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/13.20/jupiter/cal_wd.jcff628637.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/17.40/jupiter/cal_wd.jcff205214.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/17.40/jupiter/cal_wd.jcff335344.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/17.40/jupiter/cal_wd.jcff510518.gz coadd ff(2) wd 
+/prvt/honua/mirac/99sep/14/17.40/jupiter/cal_wd.jcff638647.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/17.40/jupiter/cal_wd.jcff688697.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/17.40/saturn/
+/prvt/honua/mirac/99sep/14/17.40/titan/
+/prvt/honua/mirac/99sep/14/17.80/jupiter/cal_wd.jcff215224.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/17.80/jupiter/cal_wd.jcff345354.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/17.80/jupiter/cal_wd.jcff519528.gz coadd ff(2) wd 
+/prvt/honua/mirac/99sep/14/17.80/jupiter/cal_wd.jcff648657.gz coadd ff(2) wd 
+/prvt/honua/mirac/99sep/14/17.80/saturn/
+/prvt/honua/mirac/99sep/14/17.80/titan/
+/prvt/honua/mirac/99sep/14/20.60/jupiter/cal_wd.jcff225235.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/20.60/jupiter/cal_wd.jcff355364.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/20.60/jupiter/cal_wd.jcff529538.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/20.60/jupiter/cal_wd.jcff658667.gz coadd ff(2) wd fft
+/prvt/honua/mirac/99sep/14/20.60/saturn/
+/prvt/honua/mirac/99sep/14/20.60/titan/
+
+/prvt/honua/mirlin/99oct/8/7.85/jupiter/cal_wd.betterjcf117125.gz coadded ff FFT (not very good/bad)
+/prvt/honua/mirlin/99oct/8/7.85/jupiter/cal_wd.betterjcf289297.gz coadded ff FFT (not very good)
+/prvt/honua/mirlin/99oct/8/7.85/jupiter/cal_wd.betterjcf627635.gz coadded ff FFT (not very good)
+/prvt/honua/mirlin/99oct/8/7.85/jupiter/cal_wd.betterjcf789797.gz coadded ff FFT (not very good/bad)
+/prvt/honua/mirlin/99oct/8/8.57/jupiter/cal_wd.jcf105113.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/8.57/jupiter/cal_wd.jcf277285.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/8.57/jupiter/cal_wd.jcf615623.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/8.57/jupiter/cal_wd.jcf779785.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/10.30/jupiter/jc637641.gz coadd fft
+/prvt/honua/mirlin/99oct/8/10.74/jupiter/cal_wd.jcf093101.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/10.74/jupiter/cal_wd.jcf265273.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/10.74/jupiter/cal_wd.jcf603611.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/10.74/jupiter/cal_wd.jcf765773.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/12.20/saturn/cal_wd.scf361378.gz 
+/prvt/honua/mirlin/99oct/8/13.20/jupiter/cal_wd.jcf081089.gz coadd ff wd fft 
+/prvt/honua/mirlin/99oct/8/13.20/jupiter/cal_wd.jcf253261.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/13.20/jupiter/cal_wd.jcf591599.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/13.20/jupiter/cal_wd.jcf753761.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/17.24/jupiter/cal_wd.jcf011017.gz coadd ff? wd
+/prvt/honua/mirlin/99oct/8/17.24/jupiter/cal_wd.jcf189197.gz coadd ff? wd
+/prvt/honua/mirlin/99oct/8/17.24/jupiter/cal_wd.jcf581587.gz coadd ff? wd
+/prvt/honua/mirlin/99oct/8/17.24/jupiter/cal_wd.jcf695701.gz coadd ff? wd
+/prvt/honua/mirlin/99oct/8/17.24/saturn/cal_wd.scf299312.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/17.93/jupiter/cal_wd.betterjcf021029.gz coadded ff FFT (good)
+/prvt/honua/mirlin/99oct/8/17.93/jupiter/cal_wd.betterjcf201209.gz coadded ff FFT (good)
+/prvt/honua/mirlin/99oct/8/17.93/jupiter/cal_wd.betterjcf567575.gz coadded ff FFT (good)
+/prvt/honua/mirlin/99oct/8/17.93/jupiter/cal_wd.betterjcf705713.gz coadded ff FFT (good)
+/prvt/honua/mirlin/99oct/8/17.93/saturn/cal_wd.scf315323.gz coadded ff FFT
+/prvt/honua/mirlin/99oct/8/18.67/jupiter/cal_wd.jcf035041.gz coadd ff? wd fft
+/prvt/honua/mirlin/99oct/8/18.67/jupiter/cal_wd.jcf213225.gz coadd ff? wd fft
+/prvt/honua/mirlin/99oct/8/18.67/jupiter/cal_wd.jcf557561.gz coadd ff? wd fft
+/prvt/honua/mirlin/99oct/8/18.67/jupiter/cal_wd.jcf719725.gz coadd ff? wd fft
+/prvt/honua/mirlin/99oct/8/18.67/saturn/junk327335.gz coadd
+/prvt/honua/mirlin/99oct/8/20.82/jupiter/cal_wd.jcf043054.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/20.82/jupiter/cal_wd.jcf057065.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/20.82/jupiter/cal_wd.jcf229237.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/20.82/jupiter/cal_wd.jcf543551.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/20.82/jupiter/cal_wd.jcf729737.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/20.82/saturn/
+/prvt/honua/mirlin/99oct/8/24.20/jupiter/cal_wd.jcf069077.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/24.20/jupiter/cal_wd.jcf241249.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/24.20/jupiter/cal_wd.jcf531539.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/24.20/jupiter/cal_wd.jcf741749.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/8/24.20/saturn/
+
+/prvt/honua/mirlin/99oct/10/7.85/jupiter/cal_wd.betterjcf071079.gz coadded ff FFT (almost good)
+/prvt/honua/mirlin/99oct/10/7.85/jupiter/cal_wd.betterjcf293301.gz coadded ff FFT (almost good)
+/prvt/honua/mirlin/99oct/10/7.85/venus 
+/prvt/honua/mirlin/99oct/10/8.57/jupiter/cal_wd.jcf083091.gz; coadded ff FFT
+/prvt/honua/mirlin/99oct/10/8.57/jupiter/cal_wd.jcf305313.gz; coadded ff FFT
+/prvt/honua/mirlin/99oct/10/8.57/venus
+/prvt/honua/mirlin/99oct/10/10.60/venus
+/prvt/honua/mirlin/99oct/10/10.74/jupiter/cal_wd.jcf095103.gz; coadded ff FFT
+/prvt/honua/mirlin/99oct/10/10.74/jupiter/cal_wd.jcf317325.gz; coadded ff FFT
+/prvt/honua/mirlin/99oct/10/11.50/venus
+/prvt/honua/mirlin/99oct/10/13.20/venus
+/prvt/honua/mirlin/99oct/10/13.20/jupiter/cal_wd.jcf107115.gz; wd.jcf107115.gz coadded ff FFT
+/prvt/honua/mirlin/99oct/10/13.20/jupiter/cal_wd.jcf329337.gz; wd.jcf329337.gz coadded ff FFT
+/prvt/honua/mirlin/99oct/10/17.24/jupiter/cal_wd.jcf119127.gz; wd.jcf119127.gz coadded ff FFT
+/prvt/honua/mirlin/99oct/10/17.24/jupiter/cal_wd.jcf341349.gz; wd.jcf341349.gz coadded ff FFT
+/prvt/honua/mirlin/99oct/10/17.24/saturn/wd.scf411422.gz
+/prvt/honua/mirlin/99oct/10/17.24/titan/
+/prvt/honua/mirlin/99oct/10/17.93/jupiter/cal_wd.betterjcf131139.gz coadded ff FFT (good)
+/prvt/honua/mirlin/99oct/10/17.93/jupiter/cal_wd.betterjcf353361.gz coadded ff FFT (good)
+/prvt/honua/mirlin/99oct/10/18.67/jupiter/cal_wd.jcf143151.gz coadd ff? wd
+/prvt/honua/mirlin/99oct/10/18.67/jupiter/cal_wd.jcf365373.gz coadd ff? wd
+/prvt/honua/mirlin/99oct/10/20.82/jupiter/cal_wd.jcf155163.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/10/20.82/jupiter/cal_wd.jcf377385.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/10/20.82/saturn/cal_wd.scf399410.gz
+/prvt/honua/mirlin/99oct/10/20.82/titan/
+/prvt/honua/mirlin/99oct/10/24.20/jupiter/cal_wd.jcf167175.gz coadd ff wd fft
+/prvt/honua/mirlin/99oct/10/24.20/jupiter/cal_wd.jcf389397.gz coadd ff wd fft
+
+/prvt/honua/mirlin/00feb/21/7.85/jupiter/cal_wd.jcf283303.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/7.85/jupiter/cal_wd.jcf489512.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/7.85/jupiter/cal_wd.jcf829852.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/7.85/jupiter/cal_wd.jcf11431166.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/8.57/jupiter/cal_wdjcf11191142.gz coadded ff fft
+/prvt/honua/mirlin/00feb/21/8.57/jupiter/cal_wdjcf243258.gz coadded ff fft
+/prvt/honua/mirlin/00feb/21/8.57/jupiter/cal_wdjcf475488.gz coadded ff fft
+/prvt/honua/mirlin/00feb/21/8.57/jupiter/cal_wdjcf807828.gz coadded ff fft
+/prvt/honua/mirlin/00feb/21/8.70/jupiter/jc003011.gz coadded, grating
+/prvt/honua/mirlin/00feb/21/8.70/jupiter/jc015023.gz coadded, grating
+/prvt/honua/mirlin/00feb/21/10.74/jupiter/cal_wd.jcf10971105.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/10.74/jupiter/cal_wd.jcf11091117.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/10.74/jupiter/cal_wd.jcf219227.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/10.74/jupiter/cal_wd.jcf231239.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/10.74/jupiter/cal_wd.jcf453461.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/10.74/jupiter/cal_wd.jcf465473.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/10.74/jupiter/cal_wd.jcf783791.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/10.74/jupiter/cal_wd.jcf795803.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/13.20/jupiter/cal_wd.jcf199216.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/13.20/jupiter/cal_wd.jcf427449.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/13.20/jupiter/cal_wd.jcf743766.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/13.20/jupiter/cal_wd.jcf10711094.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/17.24/jupiter/jcf063071.gz coadded ff fft (bad)
+/prvt/honua/mirlin/00feb/21/17.24/jupiter/cal_wdjcf219227.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/17.24/jupiter/jcf321329.gz coadded ff fft (bad)
+/prvt/honua/mirlin/00feb/21/17.24/jupiter/cal_wdjcf625633.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/17.24/jupiter/cal_wdjcf637645.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/17.24/jupiter/cal_wdjcf953961.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/17.24/jupiter/cal_wdjcf965973.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/17.24/saturn/cs869877.gz coadded, vflipped
+/prvt/honua/mirlin/00feb/21/17.24/titan
+/prvt/honua/mirlin/00feb/21/17.93/jupiter/cal_wd.jcf025048.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/17.93/jupiter/cal_wd.jcf331354.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/17.93/jupiter/cal_wd.jcf647670.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/17.93/jupiter/cal_wd.jcf975998.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/17.93/saturn/cs905913.gz coadded, vflipped
+/prvt/honua/mirlin/00feb/21/17.93/titan
+/prvt/honua/mirlin/00feb/21/18.67/jupiter/jcf075083.gz coadd ff fft (bad)
+/prvt/honua/mirlin/00feb/21/18.67/jupiter/cal_wdjcf10011009.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/18.67/jupiter/cal_wdjcf10131021.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/18.67/jupiter/cal_wdjcf357365.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/18.67/jupiter/cal_wdjcf369377.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/18.67/jupiter/cal_wdjcf673681.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/18.67/jupiter/cal_wdjcf685693.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/18.67/saturn/cs917925.gz coadded, vflipped
+/prvt/honua/mirlin/00feb/21/18.67/titan
+/prvt/honua/mirlin/00feb/21/20.82/jupiter/jcf111119.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/20.82/jupiter/cal_wdjcf10251033.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/20.82/jupiter/cal_wdjcf10371045.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/20.82/jupiter/cal_wdjcf381389.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/20.82/jupiter/cal_wdjcf393410.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/20.82/jupiter/cal_wdjcf709717.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/20.82/saturn/cs941949.gz coadded, vflipped (BAD)
+/prvt/honua/mirlin/00feb/21/20.82/titan
+/prvt/honua/mirlin/00feb/21/24.20/jupiter/cal_wdjcf049057.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/24.20/jupiter/cal_wdjcf061069.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/24.20/jupiter/cal_wdjcf405413.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/24.20/jupiter/cal_wdjcf417425.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/24.20/jupiter/cal_wdjcf721729.gz coadd ff fft
+/prvt/honua/mirlin/00feb/21/24.20/jupiter/cal_wdjcf733741.gz coadd ff fft
+
+/prvt/honua/mirlin/00feb/22/7.85/jupiter/cal_wd.jcf181202.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/7.85/jupiter/cal_wd.jcf385406.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/8.57/jupiter/cal_wd.jcf159180.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/8.57/jupiter/cal_wd.jcf363384.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/8.57/jupiter/wd.jc159180.gz coadded, vflipped, theoreticalstar
+/prvt/honua/mirlin/00feb/22/8.57/jupiter/wd.jc363384.gz coadded, vflipped, theoreticalstar
+/prvt/honua/mirlin/00feb/22/10.74/jupiter/cal_wd.jcf133153.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/10.74/jupiter/cal_wd.jcf353361.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/13.20/jupiter/cal_wd.jcf111132.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/13.20/jupiter/cal_wd.jcf313340.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/17.24/jupiter/cal_wd.jcf001021.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/17.24/jupiter/cal_wd.jcf203223.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/17.24/saturn/ bad
+/prvt/honua/mirlin/00feb/22/17.93/jupiter/cal_wd.jcf023044.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/17.93/jupiter/cal_wd.jcf225246.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/17.93/jupiter/cal_wd.jcf465473.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/18.67/jupiter/cal_wd.jcf045066.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/18.67/jupiter/cal_wd.jcf247267.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/20.82/jupiter/cal_wd.jcf067087.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/20.82/saturn/ bad
+/prvt/honua/mirlin/00feb/22/24.20/jupiter/cal_wd.jcf089109.gz coadd ff fft
+/prvt/honua/mirlin/00feb/22/24.20/jupiter/cal_wd.jcf291311.gz coadd ff fft
+
+/prvt/honua/mirlin/00jun/9/7.85/jupiter/cal_wd.jcf127135.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/7.85/jupiter/cal_wd.jcf279287.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/7.85/jupiter/cal_wd.jcf395403.gz coadd ff fft (bad)
+/prvt/honua/mirlin/00jun/9/8.00/jupiter/
+/prvt/honua/mirlin/00jun/9/8.57/jupiter/cal_wd.jcf115123.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/8.57/jupiter/cal_wd.jcf293301.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/8.57/jupiter/cal_wd.jcf407415.gz coadd ff fft (bad)
+/prvt/honua/mirlin/00jun/9/10.30/moon
+/prvt/honua/mirlin/00jun/9/10.74/jupiter/cal_wd.jcf103111.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/10.74/jupiter/cal_wd.jcf241249.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/10.74/jupiter/cal_wd.jcf305313.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/10.74/jupiter/cal_wd.jcf419427.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/13.20/jupiter/cal_wd.jcf091099.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/13.20/jupiter/cal_wd.jcf223237.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/13.20/jupiter/cal_wd.jcf317325.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/13.20/jupiter/cal_wd.jcf431439.gz coadd ff fft bad
+/prvt/honua/mirlin/00jun/9/17.24/jupiter/cal_wd.jcf003028.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/17.24/jupiter/cal_wd.jcf137148.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/17.24/jupiter/cal_wd.jcf327338.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/17.24/jupiter/cal_wd.jcf443452.gz coadd ff fft bad
+/prvt/honua/mirlin/00jun/9/17.93/jupiter/cal_wd.jcf029050.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/17.93/jupiter/cal_wd.jcf173184.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/17.93/jupiter/cal_wd.jcf339350.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/17.93/jupiter/cal_wd.jcf455463.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/18.67/jupiter/cal_wd.jcf051064.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/18.67/jupiter/cal_wd.jcf185196.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/18.67/jupiter/cal_wd.jcf351362.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/18.67/jupiter/cal_wd.jcf465476.gz coadd ff fft bad
+/prvt/honua/mirlin/00jun/9/20.82/jupiter/cal_wd.jcf067076.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/20.82/jupiter/cal_wd.jcf199207.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/20.82/jupiter/cal_wd.jcf365373.gz coadd ff fft
+/prvt/honua/mirlin/00jun/9/20.82/jupiter/cal_wd.jcf479487.gz coadd ff fft bad
+/prvt/honua/mirlin/00jun/9/24.20/jupiter/cal_wd.jcf079087.gz coadd ff fft 
+/prvt/honua/mirlin/00jun/9/24.20/jupiter/cal_wd.jcf211219.gz coadd ff fft 
+/prvt/honua/mirlin/00jun/9/24.20/jupiter/cal_wd.jcf377385.gz coadd ff fft
+/prvt/honua/mirlin/00jun/10/7.85/jupiter/jc097108.gz coadded, vflipped BAD
+/prvt/honua/mirlin/00jun/10/8.57/jupiter/cal_wd.jcf085096.gz coadd ff fft
+/prvt/honua/mirlin/00jun/10/10.74/jupiter/cal_wd.jcf073084.gz coadd ff fft
+/prvt/honua/mirlin/00jun/10/13.20/jupiter/cal_wd.jcf061072.gz coadd ff fft
+/prvt/honua/mirlin/00jun/10/17.24/jupiter/cal_wd.jcf049060.gz coadd ff fft
+/prvt/honua/mirlin/00jun/10/17.93/jupiter/cal_wd.jcf037048.gz coadd ff fft
+/prvt/honua/mirlin/00jun/10/18.67/jupiter/cal_wd.jcf025036.gz coadd ff fft
+/prvt/honua/mirlin/00jun/10/18.67/jupiter/cal_wd.jcf193198.gz coadd ff fft
+/prvt/honua/mirlin/00jun/10/20.82/jupiter/cal_wd.jcf015023.gz coadd ff fft
+/prvt/honua/mirlin/00jun/10/24.20/jupiter/cal_wd.jcf001012.gz coadd ff fft
+
+/prvt/honua/mirlin/00oct/4/7.85/jupiter/cal_wd.jcf187208.gz coadd ff fft
+/prvt/honua/mirlin/00oct/4/7.85/jupiter/cal_wd.jcf387408.gz coadd ff fft
+/prvt/honua/mirlin/00oct/4/8.57/jupiter/cal_wd.jcf165185.gz coadd ff fft (bad)
+/prvt/honua/mirlin/00oct/4/8.57/jupiter/jc369385.gz coadded, vflipped (very bad)
+/prvt/honua/mirlin/00oct/4/10.74/jupiter/cal_wd.jcf143151.gz coadd ff fft (ok)
+/prvt/honua/mirlin/00oct/4/10.74/jupiter/cal_wd.jcf343363.gz coadd ff fft (ok)
+/prvt/honua/mirlin/00oct/4/13.20/jupiter/cal_wd.jcf121142.gz coadd ff fft
+/prvt/honua/mirlin/00oct/4/13.20/jupiter/cal_wd.jcf321342.gz coadd ff fft
+/prvt/honua/mirlin/00oct/4/17.24/jupiter/cal_wd.jcf003032.gz coadd ff fft
+/prvt/honua/mirlin/00oct/4/17.24/jupiter/cal_wd.jcf211232.gz coadd ff fft
+/prvt/honua/mirlin/00oct/4/17.93/jupiter/cal_wd.jcf033053.gz coadd ff fft
+/prvt/honua/mirlin/00oct/4/17.93/jupiter/cal_wd.jcf233253.gz coadd ff fft
+/prvt/honua/mirlin/00oct/4/18.67/jupiter/cal_wd.jcf055075.gz coadd ff fft
+/prvt/honua/mirlin/00oct/4/18.67/jupiter/cal_wd.jcf255275.gz coadd ff fft
+/prvt/honua/mirlin/00oct/4/20.82/jupiter/cal_wd.jcf077098.gz coadd ff fft (good)
+/prvt/honua/mirlin/00oct/4/20.82/jupiter/cal_wd.jcf277298.gz coadd ff fft (good)
+/prvt/honua/mirlin/00oct/4/24.20/jupiter/cal_wd.jcf099119.gz coadd ff fft
+/prvt/honua/mirlin/00oct/4/24.20/jupiter/cal_wd.jcf301319.gz coadd ff fft
+
+/prvt/honua/mirlin/00oct/5/7.85/jupiter/cal_wd.jcf187208 coadded, vflipped
+/prvt/honua/mirlin/00oct/5/7.85/jupiter/cal_wd.jcf295302 coadded, vflipped
+/prvt/honua/mirlin/00oct/5/8.57/jupiter/jc165186.gz coadd (very bad)
+/prvt/honua/mirlin/00oct/5/10.74/jupiter/cal_wd.jcf143163.gz coadd ff fft (ok)
+/prvt/honua/mirlin/00oct/5/10.74/jupiter/cal_wd.jcf281292.gz coadd ff fft (bad)
+/prvt/honua/mirlin/00oct/5/13.20/jupiter/cal_wd.jcf121142.gz coadd ff fft
+/prvt/honua/mirlin/00oct/5/13.20/jupiter/cal_wd.jcf271275.gz coadd ff fft (BAD)
+/prvt/honua/mirlin/00oct/5/17.24/jupiter/cal_wd.jcf011032 coadded coadd ff fft
+/prvt/honua/mirlin/00oct/5/17.24/jupiter/cal_wd.jcf209220 coadded coadd ff fft
+/prvt/honua/mirlin/00oct/5/17.93/jupiter/cal_wd.jcf033053.gz coadd ff fft
+/prvt/honua/mirlin/00oct/5/17.93/jupiter/jc223233 coadded, flats exist bad
+/prvt/honua/mirlin/00oct/5/18.67/jupiter/cal_wd.jcf055075.gz coadd ff fft
+/prvt/honua/mirlin/00oct/5/18.67/jupiter/cal_wd.jcf235243.gz coadd ff fft
+/prvt/honua/mirlin/00oct/5/20.82/jupiter/cal_wd.jcf077098.gz coadd ff fft (bad)
+/prvt/honua/mirlin/00oct/5/24.20/jupiter/cal_wd.jcf099119.gz coadd ff fft
+/prvt/honua/mirlin/00oct/5/24.20/jupiter/cal_wd.jcf257268.gz coadd ff fft
+
+/prvt/honua/mirlin/00dec/13/0.00/jupiter/
+/prvt/honua/mirlin/00dec/13/7.85/jupiter/cal_wd.jcf235253.gz coadd ff fft BAD
+/prvt/honua/mirlin/00dec/13/7.85/jupiter/cal_wd.jcf213231.gz coadd ff fft BAD
+/prvt/honua/mirlin/00dec/13/7.85/jupiter/cal_wd.jcf235253.gz coadd ff fft BAD
+/prvt/honua/mirlin/00dec/13/7.85/jupiter/jc319347.gz coadded BAD
+/prvt/honua/mirlin/00dec/13/9.60/jupiter/
+/prvt/honua/mirlin/00dec/13/18.67/jupiter/cal_wd.jcf255280.gz coadd ff fft (ok) (untrustworthy)
+/prvt/honua/mirlin/00dec/13/18.67/jupiter/cal_wd.jcf349374.gz coadd ff fft (ok) (untrustworthy)
+/prvt/honua/mirlin/00dec/13/18.67/jupiter/cal_wd.jcf537546.gz coadd ff fft (ok) (untrustworthy)
+/prvt/honua/mirlin/00dec/13/20.82/jupiter/cal_wd.jcf281292.gz coadd ff fft (ok)
+/prvt/honua/mirlin/00dec/13/20.82/jupiter/cal_wd.jcf293304.gz coadd ff fft (ok)
+/prvt/honua/mirlin/00dec/13/20.82/jupiter/cal_wd.jcf305316.gz coadd ff fft (ok)
+/prvt/honua/mirlin/00dec/13/20.82/jupiter/cal_wd.jcf381392.gz coadd ff fft (ok)
+/prvt/honua/mirlin/00dec/13/20.82/jupiter/cal_wd.jcf393404.gz coadd ff fft (ok)
+
+/prvt/honua/mirlin/00dec/14/7.85/jupiter/   ***bad***
+/prvt/honua/mirlin/00dec/14/18.67/jupiter/   ***bad***
+
+/prvt/honua/mirlin/00dec/20/7.85/jupiter/cal_wd.jcf071079.gz coadd ff fft
+/prvt/honua/mirlin/00dec/20/7.85/jupiter/jc12111232 coadded, vflipped bad
+/prvt/honua/mirlin/00dec/20/7.85/jupiter/jc12371258 coadded, vflipped bad
+/prvt/honua/mirlin/00dec/20/7.85/jupiter/jc12631284 coadded, vflipped bad
+/prvt/honua/mirlin/00dec/20/18.67/jupiter/cal_wd.jcf085096.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/18.67/jupiter/cal_wd.jcf097108.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/18.67/jupiter/cal_wd.jcf12911312.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/18.67/jupiter/cal_wd.jcf13151326.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/18.67/jupiter/cal_wd.jcf13291338.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf115126.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf13411350.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf13571368.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf13711388.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf411422.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf425436.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf439450.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf451462.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf653664.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf665676.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf679690.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf691702.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf901912.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf913924.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf927938.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf939950.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf953964.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/20/20.82/jupiter/cal_wd.jcf965976.gz coadded FFT (ok)
+
+/prvt/honua/mirlin/00dec/21/7.85/jupiter/cal_wd.jcf485501.gz coadd ff fft
+/prvt/honua/mirlin/00dec/21/7.85/jupiter/cal_wd.jcf533553.gz coadd ff fft
+/prvt/honua/mirlin/00dec/21/7.85/jupiter/cal_wd.jcf781797.gz coadd ff fft
+/prvt/honua/mirlin/00dec/21/7.85/jupiter/cal_wd.jcf811827.gz coadd ff fft
+/prvt/honua/mirlin/00dec/21/7.85/jupiter/cal_wd.jcf833853.gz coadd ff fft
+/prvt/honua/mirlin/00dec/21/7.85/jupiter/cal_wd.jcf11031123.gz coadd ff fft
+/prvt/honua/mirlin/00dec/21/7.85/jupiter/cal_wd.jcf11291149.gz coadd ff fft
+/prvt/honua/mirlin/00dec/21/7.85/jupiter/cal_wd.jcf11551175.gz coadd ff fft
+/prvt/honua/mirlin/00dec/21/7.85/jupiter/cal_wd.jcf11811201.gz coadd ff fft
+/prvt/honua/mirlin/00dec/21/7.85/jupiter/cal_wd.jcf15651585.gz coadd ff fft
+/prvt/honua/mirlin/00dec/21/7.85/jupiter/cal_wd.jcf15911611.gz coadd ff fft
+/prvt/honua/mirlin/00dec/21/7.85/jupiter/cal_wd.jcf16431663.gz coadd ff fft
+
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf12131234.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf12391260.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf12651286.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf12911312.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf16811702.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf17071728.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf18951916.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf233254.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf261282.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf557572.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf575598.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf599610.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf615636.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf641662.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf883910.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf915936.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf941962.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/18.67/jupiter/cal_wd.jcf967988.gz coadded FFT (ok)
+
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf10091020.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf10231034.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf10351046.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf10491060.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf10611072.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf10751086.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf10871098.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf13751384.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf13851396.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf13991410.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf14111422.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf10091020.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf17531764.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf17651776.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf17811792.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf17931804.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf19231934.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf19351946.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf291302.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf303314.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf317328.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf329340.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf669680.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf681692.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf695706.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf707718.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf721732.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf733744.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf747758.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf759770.gz coadded FFT (ok)
+/prvt/honua/mirlin/00dec/21/20.82/jupiter/cal_wd.jcf9971008.gz coadded FFT (ok)
+
+/prvt/honua/mirlin/00dec/29/7.85/jupiter/cal_wd.jcf187207.gz coadd ff fft
+/prvt/honua/mirlin/00dec/29/7.85/jupiter/cal_wd.jcf295303.gz coadd ff fft
+/prvt/honua/mirlin/00dec/29/8.57/jupiter/cal_wd.jcf165186.gz coadd ff fft 
+/prvt/honua/mirlin/00dec/29/10.74/jupiter/cal_wd.jcf143165.gz coadd ff fft
+/prvt/honua/mirlin/00dec/29/13.20/jupiter/cal_wd.jcf121142.gz coadd ff fft
+/prvt/honua/mirlin/00dec/29/17.24/jupiter/cal_wd.jcf011032.gz coadd ff fft
+/prvt/honua/mirlin/00dec/29/17.24/jupiter/cal_wd.jcf269280.gz coadd ff fft
+/prvt/honua/mirlin/00dec/29/17.93/jupiter/cal_wd.jcf187207.gz coadd ff fft
+/prvt/honua/mirlin/00dec/29/17.93/jupiter/jc281292 coadded, vflipped, smooth flat unapplied bad
+/prvt/honua/mirlin/00dec/29/18.67/jupiter/cal_wd.jcf055076 coadd ff fft
+/prvt/honua/mirlin/00dec/29/20.82/jupiter/cal_wd.jcf077098 coadd ff fft
+/prvt/honua/mirlin/00dec/29/24.20/jupiter/cal_wd.jcf099118 coadd ff fft
+
+/prvt/honua/mirlin/00dec/30/7.85/jupiter/cal_wd.jcf147161.gz coadd ff fft 
+/prvt/honua/mirlin/00dec/30/7.85/jupiter/cal_wd.jcf335347.gz coadd ff fft 
+/prvt/honua/mirlin/00dec/30/7.85/jupiter/cal_wd.jcf515527.gz coadd ff fft 
+/prvt/honua/mirlin/00dec/30/7.85/jupiter/cal_wd.jcf695707.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/7.85/jupiter/cal_wd.jcf821833.gz coadd ff fft 
+/prvt/honua/mirlin/00dec/30/7.85/saturn/cal_wd.scf389395.gz coadd ff fft 
+/prvt/honua/mirlin/00dec/30/8.57/jupiter/cal_wd.jcf133146.gz coadd ff fft 
+/prvt/honua/mirlin/00dec/30/8.57/jupiter/cal_wd.jcf321334.gz coadd ff fft 
+/prvt/honua/mirlin/00dec/30/8.57/jupiter/cal_wd.jcf501514.gz coadd ff fft 
+/prvt/honua/mirlin/00dec/30/8.57/jupiter/cal_wd.jcf681694.gz coadd ff fft 
+/prvt/honua/mirlin/00dec/30/8.57/jupiter/cal_wd.jcf807820.gz coadd ff fft 
+/prvt/honua/mirlin/00dec/30/10.74/jupiter/cal_wd.jcf117130.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/10.74/jupiter/cal_wd.jcf307320.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/10.74/jupiter/cal_wd.jcf487500.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/10.74/jupiter/cal_wd.jcf667680.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/10.74/jupiter/cal_wd.jcf793806.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/13.20/jupiter/cal_wd.jcf099114.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/13.20/jupiter/cal_wd.jcf293306.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/13.20/jupiter/cal_wd.jcf473480.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/13.20/jupiter/cal_wd.jcf653666.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/13.20/jupiter/cal_wd.jcf779792.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/17.24/jupiter/cal_wd.jcf019034.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/17.24/jupiter/cal_wd.jcf223236.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/17.24/jupiter/cal_wd.jcf403416.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/17.24/jupiter/cal_wd.jcf583596.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/17.24/jupiter/cal_wd.jcf709722.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/17.24/saturn/cal_wd.scf349362.gz coadded
+/prvt/honua/mirlin/00dec/30/17.24/titan
+/prvt/honua/mirlin/00dec/30/17.93/jupiter/cal_wd.jcf035049.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/17.93/jupiter/cal_wd.jcf237249.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/17.93/jupiter/cal_wd.jcf417429.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/17.93/jupiter/cal_wd.jcf597609.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/17.93/jupiter/cal_wd.jcf723735.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/18.67/jupiter/cal_wd.jcf051066.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/18.67/jupiter/cal_wd.jcf251264.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/18.67/jupiter/cal_wd.jcf431444.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/18.67/jupiter/cal_wd.jcf611624.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/18.67/jupiter/cal_wd.jcf737750.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/20.82/jupiter/cal_wd.jcf067083.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/20.82/jupiter/cal_wd.jcf265278.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/20.82/jupiter/cal_wd.jcf445458.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/20.82/jupiter/cal_wd.jcf625638.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/20.82/jupiter/cal_wd.jcf751764.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/20.82/saturn/cal_wd.scf363376.gz coadded
+/prvt/honua/mirlin/00dec/30/20.82/titan
+/prvt/honua/mirlin/00dec/30/24.20/jupiter/cal_wd.jcf083098.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/24.20/jupiter/cal_wd.jcf279292.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/24.20/jupiter/cal_wd.jcf459472.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/24.20/jupiter/cal_wd.jcf639652.gz coadd ff fft
+/prvt/honua/mirlin/00dec/30/24.20/jupiter/cal_wd.jcf765778.gz coadd ff fft
+
+
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf129150.gz coadd ff fft BAD!
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf281302.gz coadd ff fft (not very good)
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf461480.gz coadd ff fft (not very good)
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf485506.gz coadd ff fft (not very good)
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf513534.gz coadd ff fft (not very good)
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf543560.gz coadd ff fft (not very good)
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf627648.gz coadd ff fft BAD!
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf653674.gz coadd ff fft (not very good)
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf737758.gz coadd ff fft (not very good)
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf763784.gz coadd ff fft (not very good)
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf845866.gz coadd ff fft (not very good)
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf871892.gz coadd ff fft (not very good)
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf10991120.gz coadd ff fft (not very good)
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf11911211.gz coadd ff fft (BAD!)
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf12171238.gz coadd ff fft (BAD!)
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf13071328.gz coadd ff fft (BAD!)
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf13331354.gz coadd ff fft (BAD!)
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf13591379.gz coadd ff fft BAD!!
+/prvt/honua/mirlin/01jan/4/7.85/jupiter/cal_wd.jcf13851405.gz coadd ff fft BAD!!
+/prvt/honua/mirlin/01jan/4/18.67/jupiter/cal_wd.jcf159180.gz coadd ff fft (very good)
+/prvt/honua/mirlin/01jan/4/18.67/jupiter/cal_wd.jcf309330.gz coadd ff fft (very good)
+/prvt/honua/mirlin/01jan/4/18.67/jupiter/cal_wd.jcf569590.gz coadd ff fft (very good)
+/prvt/honua/mirlin/01jan/4/18.67/jupiter/cal_wd.jcf681702.gz coadd ff fft (very good)
+/prvt/honua/mirlin/01jan/4/18.67/jupiter/cal_wd.jcf789810.gz coadd ff fft (very good)
+/prvt/honua/mirlin/01jan/4/18.67/jupiter/cal_wd.jcf899916.gz coadd ff fft (very good)
+/prvt/honua/mirlin/01jan/4/18.67/jupiter/cal_wd.jcf10431064.gz coadd ff fft (good)
+/prvt/honua/mirlin/01jan/4/18.67/jupiter/cal_wd.jcf12491270.gz coadd ff fft (good)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf10711082.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf10831094.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf11611172.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf11731184.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf12771288.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf12891300.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf249260.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf261272.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf337342.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf349360.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf597608.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf609620.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf709720.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf723732.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf817828.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf829840.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf927938.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/4/20.82/jupiter/cal_wd.jcf939950.gz coadd ff fft (ok)
+
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf081101.gz coadd ff FFT (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf107127.gz coadd ff FFT (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf199219.gz coadd ff FFT (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf225245.gz coadd ff FFT (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf439459.gz coadd ff FFT BAD!
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf465485.gz coadd ff FFT (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf553573.gz coadd ff FFT (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf579599.gz coadd ff FFT BAD!
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf665685.gz coadd ff FFT BAD!
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf691711.gz coadd ff FFT (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf781793.gz coadd ff FFT (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf797817.gz coadd ff FFT (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf887907.gz coadd ff FFT (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf913933.gz coadd ff FFT (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf10011021.gz coadd ff FFT (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf10271047.gz coadd ff FFT (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf11111131.gz coadd ff FFT (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf11371157.gz coadd ff FFT (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf12711291.gz coadd ff FFT (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/jcf12971315.gz coadd ff FFT BAD!!!
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/jcf13851405.gz coadd ff FFT BAD!!!
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/jcf14111431.gz coadd ff FFT BAD!!!
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf15371557.gz coadd ff fft (BAD!)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf15631583.gz coadd ff fft (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf16531673.gz coadd ff fft (not very good)
+/prvt/honua/mirlin/01jan/5/7.85/jupiter/cal_wd.jcf16791699.gz coadd ff fft (not very good)
+/prvt/honua/mirlin/01jan/5/18.67/jupiter/cal_wd.jcf131158.gz coadd ff FFT
+/prvt/honua/mirlin/01jan/5/18.67/jupiter/cal_wd.jcf253274.gz coadd ff FFT
+/prvt/honua/mirlin/01jan/5/18.67/jupiter/cal_wd.jcf371398.gz coadd ff FFT
+/prvt/honua/mirlin/01jan/5/18.67/jupiter/cal_wd.jcf489518.gz coadd ff FFT
+/prvt/honua/mirlin/01jan/5/18.67/jupiter/cal_wd.jcf607628.gz coadd ff FFT
+/prvt/honua/mirlin/01jan/5/18.67/jupiter/cal_wd.jcf823848.gz coadd ff FFT
+/prvt/honua/mirlin/01jan/5/18.67/jupiter/cal_wd.jcf937964.gz coadd ff FFT
+/prvt/honua/mirlin/01jan/5/18.67/jupiter/cal_wd.jcf10511076.gz coadd ff fft
+/prvt/honua/mirlin/01jan/5/18.67/jupiter/cal_wd.jcf11611190.gz coadd ff fft
+/prvt/honua/mirlin/01jan/5/18.67/jupiter/cal_wd.jcf13211346.gz coadd ff FFT
+/prvt/honua/mirlin/01jan/5/18.67/jupiter/cal_wd.jcf14351462.gz coadd ff FFT
+/prvt/honua/mirlin/01jan/5/18.67/jupiter/cal_wd.jcf15871614.gz coadd ff FFT
+/prvt/honua/mirlin/01jan/5/18.67/jupiter/cal_wd.jcf17311742.gz coadd ff FFT
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf10831094.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf10951106.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf11971208.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf12091220.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf14731484.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf14851496.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf161170.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf16231634.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf16351646.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf17071718.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf171182.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf17191730.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf183194.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf281292.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf293304.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf407418.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf419430.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf525536.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf537548.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf635646.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf647658.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf857868.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf869880.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf973984.gz coadd ff fft (ok)
+/prvt/honua/mirlin/01jan/5/20.82/jupiter/cal_wd.jcf985996.gz coadd ff fft (ok)
+
+/prvt/manu/mirlin/01mar/6/7.85/jupiter/cal_wd.jcf187208.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/01mar/6/7.85/jupiter/cal_wd.jcf441464.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/01mar/6/8.57/jupiter/cal_wdjcf165185.gz coadd ff fft
+/prvt/manu/mirlin/01mar/6/8.57/jupiter/cal_wdjcf419439.gz coadd ff fft
+/prvt/manu/mirlin/01mar/6/10.74/jupiter/cal_wd.jcf143164.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/6/10.74/jupiter/cal_wd.jcf397418.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/6/13.20/jupiter/cal_wd.jcf121142.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/6/13.20/jupiter/cal_wd.jcf375396.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/6/17.24/jupiter/cal_wd.jcf009030 coadded FFT (good)
+/prvt/manu/mirlin/01mar/6/17.24/jupiter/cal_wd.jcf265286 coadded FFT (good)
+/prvt/manu/mirlin/01mar/6/17.93/jupiter/cal_wd.jcf031052.gz coadd ff fft (good)
+/prvt/manu/mirlin/01mar/6/17.93/jupiter/cal_wd.jcf287308.gz coadd ff fft  (good, satelite)
+/prvt/manu/mirlin/01mar/6/18.67/jupiter/cal_wd.jcf053074.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/6/18.67/jupiter/cal_wd.jcf309330.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/6/20.82/jupiter/cal_wd.jcf075098.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/6/20.82/jupiter/cal_wd.jcf331352.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/6/24.20/jupiter/cal_wd.jcf099120.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/6/24.20/jupiter/cal_wd.jcf353374.gz coadd ff wd fft
+
+/prvt/manu/mirlin/01mar/7/7.85/jupiter/cal_wd.jcf231252.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/01mar/7/7.85/jupiter/cal_wd.jcf429450.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/01mar/7/8.57/jupiter/cal_wdjcf209229.gz coadd ff fft
+/prvt/manu/mirlin/01mar/7/8.57/jupiter/cal_wdjcf407427.gz coadd ff fft
+/prvt/manu/mirlin/01mar/7/10.74/jupiter/cal_wd.jcf187208.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/7/10.74/jupiter/cal_wd.jcf385406.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/7/13.20/jupiter/cal_wd.jcf165186.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/7/13.20/jupiter/cal_wd.jcf363384.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/7/17.24/jupiter/cal_wd.jcf055076 coadded FFT (good)
+/prvt/manu/mirlin/01mar/7/17.24/jupiter/cal_wd.jcf253274 coadded FFT (good) ***interesting- look at me***
+/prvt/manu/mirlin/01mar/7/17.24/jupiter/cal_wd.jcf553564 coadded FFT (bad)
+/prvt/manu/mirlin/01mar/7/17.93/jupiter/cal_wd.jcf077098 coadd ff fft (good)
+/prvt/manu/mirlin/01mar/7/17.93/jupiter/cal_wd.jcf275296 coadd ff fft (good)
+/prvt/manu/mirlin/01mar/7/17.93/jupiter/cal_wd.jcf565576 coadd ff fft (good)
+/prvt/manu/mirlin/01mar/7/18.67/jupiter/cal_wd.jcf099120.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/7/18.67/jupiter/cal_wd.jcf297318.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/7/18.67/jupiter/cal_wd.jcf577588.gz coadd ff wd fft (not very good)
+/prvt/manu/mirlin/01mar/7/20.82/jupiter/cal_wd.jcf121142.gz coadd ff fft
+/prvt/manu/mirlin/01mar/7/20.82/jupiter/cal_wd.jcf319340.gz coadd ff fft
+/prvt/manu/mirlin/01mar/7/20.82/jupiter/jc589600.gz coadd (bad)
+/prvt/manu/mirlin/01mar/7/24.20/jupiter/cal_wdjcf143164.gz coadd ff fft
+/prvt/manu/mirlin/01mar/7/24.20/jupiter/cal_wdjcf341362.gz coadd ff fft
+/prvt/manu/mirlin/01mar/7/24.20/jupiter/jc601612.gz coadd (bad)
+
+/prvt/manu/mirlin/01mar/8/7.85/jupiter/cal_wd.jcf191212.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/01mar/8/7.85/jupiter/cal_wd.jcf451472.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/01mar/8/8.57/jupiter/cal_wdjcf169189.gz coadd ff fft
+/prvt/manu/mirlin/01mar/8/8.57/jupiter/cal_wdjcf427443.gz coadd ff fft
+/prvt/manu/mirlin/01mar/8/10.74/jupiter/cal_wd.jcf147168.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/8/10.74/jupiter/cal_wd.jcf405426.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/8/13.20/jupiter/cal_wd.jcf125146.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/8/13.20/jupiter/cal_wd.jcf383404.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/8/17.24/jupiter/cal_wd.jcf003014 coadded FFT (bad)
+/prvt/manu/mirlin/01mar/8/17.24/jupiter/cal_wd.jcf015036 coadded FFT (good)
+/prvt/manu/mirlin/01mar/8/17.24/jupiter/cal_wd.jcf273294 coadded FFT (good)
+/prvt/manu/mirlin/01mar/8/17.93/jupiter/cal_wd.jcf037058 coadd ff fft (good)
+/prvt/manu/mirlin/01mar/8/17.93/jupiter/cal_wd.jcf295316 coadd ff fft (good)
+/prvt/manu/mirlin/01mar/8/18.67/jupiter/cal_wd.jcf059080.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/8/18.67/jupiter/cal_wd.jcf317338.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/8/20.82/jupiter/cal_wd.jcf081102.gz coadd ff wd fft (not very good)
+/prvt/manu/mirlin/01mar/8/20.82/jupiter/cal_wd.jcf339360.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/8/24.20/jupiter/cal_wd.jcf103124.gz coadd ff wd fft
+/prvt/manu/mirlin/01mar/8/24.20/jupiter/cal_wd.jcf361382.gz coadd ff wd fft
+
+
+/prvt/manu/mirlin/01may/2/7.85/jupiter/cal_wd.jcf181201.gz coadd ff fft (bad!)
+/prvt/manu/mirlin/01may/2/7.85/jupiter/cal_wd.jcf437457.gz coadd ff fft (bad!)
+/prvt/manu/mirlin/01may/2/7.85/jupiter/cal_wd.jcf597605.gz coadd ff fft (bad!)
+/prvt/manu/mirlin/01may/2/8.57/jupiter/cal_wdjcf159179.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/8.57/jupiter/cal_wdjcf415435.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/8.57/jupiter/cal_wdjcf609617.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/10.74/jupiter/cal_wdjcf137157.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/10.74/jupiter/cal_wdjcf393413.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/13.20/jupiter/cal_wdjcf115135.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/13.20/jupiter/cal_wdjcf371391.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/13.20/jupiter/cal_wdjcf573593.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/17.24/jupiter/cal_wdjcf005025.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/17.24/jupiter/cal_wdjcf261283.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/17.24/jupiter/cal_wdjcf463483.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/17.93/jupiter/cal_wd.jcf027048.gz coadd ff fft (good)
+/prvt/manu/mirlin/01may/2/17.93/jupiter/cal_wd.jcf283304.gz coadd ff fft (good)
+/prvt/manu/mirlin/01may/2/17.93/jupiter/cal_wd.jcf485506.gz coadd ff fft (good)
+/prvt/manu/mirlin/01may/2/18.67/jupiter/cal_wdjcf049070.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/18.67/jupiter/cal_wdjcf305325.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/18.67/jupiter/cal_wdjcf507527.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/20.82/jupiter/cal_wdjcf071091.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/20.82/jupiter/cal_wdjcf327347.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/20.82/jupiter/cal_wdjcf529549.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/24.20/jupiter/cal_wdjcf093113.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/24.20/jupiter/cal_wdjcf349369.gz coadd ff fft
+/prvt/manu/mirlin/01may/2/24.20/jupiter/cal_wdjcf551571.gz coadd ff fft
+
+/prvt/manu/mirlin/01may/3/7.85/jupiter/cal_wd.jcf179199.gz coadd ff fft (bad!)
+/prvt/manu/mirlin/01may/3/7.85/jupiter/cal_wd.jcf401409.gz coadd ff fft (bad!)
+/prvt/manu/mirlin/01may/3/8.57/jupiter/cal_wdjcf157177.gz coadd ff fft
+/prvt/manu/mirlin/01may/3/8.57/jupiter/cal_wdjcf413421.gz coadd ff fft
+/prvt/manu/mirlin/01may/3/10.74/jupiter/cal_wdjcf135155.gz coadd ff fft
+/prvt/manu/mirlin/01may/3/10.74/jupiter/cal_wdjcf425433.gz coadd ff fft
+/prvt/manu/mirlin/01may/3/13.20/jupiter/cal_wdjcf113133.gz coadd ff fft
+/prvt/manu/mirlin/01may/3/13.20/jupiter/cal_wdjcf387395.gz coadd ff fft
+/prvt/manu/mirlin/01may/3/17.24/jupiter/cal_wdjcf003023.gz coadd ff fft
+/prvt/manu/mirlin/01may/3/17.24/jupiter/cal_wdjcf277297.gz coadd ff fft
+/prvt/manu/mirlin/01may/3/17.93/jupiter/cal_wd.jcf025046.gz coadd ff fft (good)
+/prvt/manu/mirlin/01may/3/17.93/jupiter/cal_wd.jcf299320.gz coadd ff fft (good, satelite)
+/prvt/manu/mirlin/01may/3/18.67/jupiter/cal_wdjcf047067.gz coadd ff fft
+/prvt/manu/mirlin/01may/3/18.67/jupiter/cal_wdjcf321341.gz coadd ff fft
+/prvt/manu/mirlin/01may/3/20.82/jupiter/cal_wdjcf069089.gz coadd ff fft
+/prvt/manu/mirlin/01may/3/20.82/jupiter/cal_wdjcf343363.gz coadd ff fft
+/prvt/manu/mirlin/01may/3/24.20/jupiter/cal_wdjcf091111.gz coadd ff fft
+/prvt/manu/mirlin/01may/3/24.20/jupiter/cal_wdjcf365385.gz coadd ff fft
+/prvt/manu/mirlin/01may/3/24.20/jupiter/cal_wdjcf437445.gz coadd ff fft
+
+/prvt/manu/mirlin/01may/4/7.85/jupiter/cal_wd.jcf93113.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/01may/4/7.85/jupiter/cal_wd.jcf511531.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/01may/4/8.57/jupiter/cal_wdjcf129149.gz coadd ff fft
+/prvt/manu/mirlin/01may/4/8.57/jupiter/cal_wdjcf533553.gz coadd ff fft
+/prvt/manu/mirlin/01may/4/10.74/jupiter/cal_wdjcf151171.gz coadd ff fft
+/prvt/manu/mirlin/01may/4/10.74/jupiter/cal_wdjcf555575.gz coadd ff fft
+/prvt/manu/mirlin/01may/4/13.20/jupiter/cal_wdjcf117125.gz coadd ff fft
+/prvt/manu/mirlin/01may/4/13.20/jupiter/cal_wdjcf489509.gz coadd ff fft
+/prvt/manu/mirlin/01may/4/17.24/jupiter/cal_wdjcf005025.gz coadd ff fft
+/prvt/manu/mirlin/01may/4/17.24/jupiter/cal_wdjcf379399.gz coadd ff fft
+/prvt/manu/mirlin/01may/4/17.93/jupiter/cal_wd.jcf027048.gz coadd ff fft (good)
+/prvt/manu/mirlin/01may/4/17.93/jupiter/cal_wd.jcf401422.gz coadd ff fft (good)
+/prvt/manu/mirlin/01may/4/18.67/jupiter/cal_wdjcf049069.gz coadd ff fft (bad)
+/prvt/manu/mirlin/01may/4/18.67/jupiter/cal_wdjcf423443.gz coadd ff fft
+/prvt/manu/mirlin/01may/4/20.82/jupiter/cal_wdjcf071091.gz coadd ff fft (bad)
+/prvt/manu/mirlin/01may/4/20.82/jupiter/cal_wdjcf445465.gz coadd ff fft
+/prvt/manu/mirlin/01may/4/24.20/jupiter/cal_wdjcf467487.gz coadd ff fft
+
+/prvt/manu/mirlin/01oct/22/7.85/jupiter/cal_wd.jcf365381.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/01oct/22/7.85/jupiter/cal_wd.jcf731739.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/01oct/22/17.93/jupiter/cal_wd.jcf385408.gz coadd ff fft (good)
+/prvt/manu/mirlin/01oct/22/17.93/jupiter/cal_wd.jcf741752.gz coadd ff fft (good)
+
+/prvt/manu/mirlin/01oct/23/7.85/jupiter/cal_wd.jcf077085.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/01oct/23/7.85/jupiter/cal_wd.jcf335343.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/01oct/23/17.93/jupiter/cal_wd.jcf065073.gz coadd ff fft (good)
+/prvt/manu/mirlin/01oct/23/17.93/jupiter/cal_wd.jcf323331.gz coadd ff fft (good)
+
+/prvt/manu/mirlin/01oct/24/7.85/jupiter/cal_wd.jcf457469.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/01oct/24/17.93/jupiter/cal_wd.jcf447455.gz coadd ff fft (not very good)
+
+un-preprocessed
+/prvt/manu/oscir/01dec/2/raw
+/prvt/manu/oscir/01dec/4/raw
+/prvt/manu/oscir/01dec/6/raw
+/prvt/manu/oscir/01dec/7/raw
+/prvt/manu/oscir/01dec/8/raw
+/prvt/manu/oscir/01dec/9/raw
+
+/prvt/manu/mirlin/02feb/7/7.85/jupiter/cal_wd.jcf099110.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/02feb/7/7.85/jupiter/cal_wd.jcf557568.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/02feb/7/7.85/saturn/cal_scf321334.gz coadd ff fft *no wd->too much noise*
+/prvt/manu/mirlin/02feb/7/8.57/jupiter/cal_wd.jcf087098.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/7/8.57/jupiter/cal_wd.jcf547555.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/7/8.57/saturn/ (bad)
+/prvt/manu/mirlin/02feb/7/10.74/jupiter/cal_wd.jcf075086.gz coadd ff fft (ok)
+/prvt/manu/mirlin/02feb/7/10.74/jupiter/cal_wd.jcf529540.gz coadd ff fft (ok)
+/prvt/manu/mirlin/02feb/7/10.74/saturn/ bad
+/prvt/manu/mirlin/02feb/7/12.20/saturn/cscomb281289.gz; wd.cscomb281289.gz coadded FFT
+/prvt/manu/mirlin/02feb/7/12.20/saturn/cal_wd.scf279290.gz 
+/prvt/manu/mirlin/02feb/7/12.20/saturn/cal_wd.scf439450.gz coadded ff FFT
+/prvt/manu/mirlin/02feb/7/12.20/titan/
+/prvt/manu/mirlin/02feb/7/13.20/jupiter/cal_wd.jcf063074.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/7/13.20/jupiter/cal_wd.jcf517528.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/7/17.24/jupiter/cal_wd.jcf003014.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/7/17.24/jupiter/cal_wd.jcf457468.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/7/17.24/saturn/wd.scf171182.gz
+/prvt/manu/mirlin/02feb/7/17.24/saturn/wd.scf343354.gz
+/prvt/manu/mirlin/02feb/7/17.24/titan/
+/prvt/manu/mirlin/02feb/7/17.93/jupiter/cal_wd.jcf015026.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/7/17.93/jupiter/cal_wd.jcf469480.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/7/17.93/saturn/cal_wd.scf207218.gz coadd ff fft
+/prvt/manu/mirlin/02feb/7/17.93/saturn/cal_wd.scf379390.gz coadd ff fft
+/prvt/manu/mirlin/02feb/7/17.93/titan/
+/prvt/manu/mirlin/02feb/7/18.67/jupiter/cal_wd.jcf027038.gz coadd ff fft (ok)
+/prvt/manu/mirlin/02feb/7/18.67/jupiter/cal_wd.jcf481492.gz coadd ff fft (ok)
+/prvt/manu/mirlin/02feb/7/18.67/saturn/wd.scf219230.gz coadd ff FFT
+/prvt/manu/mirlin/02feb/7/18.67/saturn/cal_wd.scf391402.gz coadd ff FFT
+/prvt/manu/mirlin/02feb/7/18.67/titan/
+/prvt/manu/mirlin/02feb/7/20.82/jupiter/cal_wd.jcf039050.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/7/20.82/jupiter/cal_wd.jcf493504.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/7/20.82/saturn/cal_wd.scf255266_test.gz coadd ff FFT
+/prvt/manu/mirlin/02feb/7/20.82/saturn/cal_wd.scf427438_test.gz coadd ff FFT
+/prvt/manu/mirlin/02feb/7/20.82/titan/
+/prvt/manu/mirlin/02feb/7/24.20/jupiter/cal_wd.jcf051062.gz coadd ff fft (ok)
+/prvt/manu/mirlin/02feb/7/24.20/jupiter/cal_wd.jcf505516.gz coadd ff fft (ok)
+/prvt/manu/mirlin/02feb/7/24.20/saturn/cal_wd.scf267278.gz
+
+/prvt/manu/mirlin/02feb/8/7.85/jupiter/cal_wd.jcf345353.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/02feb/8/7.85/jupiter/cal_wd.jcf601609.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/02feb/8/7.85/saturn/cal_wd.scf137148.gz coadd ff fft
+/prvt/manu/mirlin/02feb/8/7.85/saturn/cal_wd.scf491502.gz coadd ff fft
+/prvt/manu/mirlin/02feb/8/7.85/titan/
+/prvt/manu/mirlin/02feb/8/8.57/jupiter/cal_wd.jcf331342.gz coadd ff fft (ok)
+/prvt/manu/mirlin/02feb/8/8.57/jupiter/cal_wd.jcf587598.gz coadd ff fft (ok)
+/prvt/manu/mirlin/02feb/8/8.57/saturn/ (bad)
+/prvt/manu/mirlin/02feb/8/10.74/jupiter/cal_wd.jcf331342.gz coadd ff fft (ok)
+/prvt/manu/mirlin/02feb/8/10.74/jupiter/cal_wd.jcf575586.gz coadd ff fft (ok)
+/prvt/manu/mirlin/02feb/8/10.74/saturn/sc161172.gz coadded (BAD)
+/prvt/manu/mirlin/02feb/8/12.20/saturn/calatau113122.gz coadded ff scal FFT
+/prvt/manu/mirlin/02feb/8/12.20/saturn/cal_wd.scf111122.gz
+/prvt/manu/mirlin/02feb/8/12.20/saturn/cal_wd.scf467478.gz coadd fft
+/prvt/manu/mirlin/02feb/8/12.20/titan/
+/prvt/manu/mirlin/02feb/8/13.20/jupiter/cal_wd.jcf307318.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/8/13.20/jupiter/cal_wd.jcf563574.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/8/17.24/jupiter/cal_wd.jcf247258.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/8/17.24/jupiter/cal_wd.jcf503514.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/8/17.24/saturn/wd.scf005014.gz coadded ff fft
+/prvt/manu/mirlin/02feb/8/17.24/saturn/wd.scf357368.gz coadded ff fft
+/prvt/manu/mirlin/02feb/8/17.24/titan/
+/prvt/manu/mirlin/02feb/8/17.93/jupiter/cal_wd.jcf259270.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/8/17.93/jupiter/cal_wd.jcf515526.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/8/17.93/saturn/cal_wd.scf039050.gz coadd ff fft
+/prvt/manu/mirlin/02feb/8/17.93/saturn/cal_wd.scf393406.gz coadd ff fft
+/prvt/manu/mirlin/02feb/8/17.93/titan/
+/prvt/manu/mirlin/02feb/8/18.67/jupiter/cal_wd.jcf271282.gz coadd ff fft
+/prvt/manu/mirlin/02feb/8/18.67/jupiter/cal_wd.jcf527538.gz coadd ff fft
+/prvt/manu/mirlin/02feb/8/18.67/saturn/cal_wd.scf051062.gz coadd ff fft
+/prvt/manu/mirlin/02feb/8/18.67/saturn/cal_wd.scf407418.gz coadd ff fft
+/prvt/manu/mirlin/02feb/8/18.67/titan/
+/prvt/manu/mirlin/02feb/8/20.82/jupiter/cal_wd.jcf283294.gz coadd ff fft
+/prvt/manu/mirlin/02feb/8/20.82/jupiter/cal_wd.jcf539550.gz coadd ff fft
+/prvt/manu/mirlin/02feb/8/20.82/saturn/cal_wd.scf087098.gz coadd ff fft
+/prvt/manu/mirlin/02feb/8/20.82/saturn/cal_wd.scf443454_test.gz coadd ff fft
+/prvt/manu/mirlin/02feb/8/20.82/titan/
+/prvt/manu/mirlin/02feb/8/24.20/jupiter/cal_wd.jcf295306.gz coadd ff fft
+/prvt/manu/mirlin/02feb/8/24.20/jupiter/cal_wd.jcf551562.gz coadd ff fft
+/prvt/manu/mirlin/02feb/8/24.20/saturn/cal_wd.scf099110.gz
+/prvt/manu/mirlin/02feb/8/24.20/saturn/cal_wd.scf455466.gz
+
+/prvt/manu/mirlin/02feb/9/7.85/jupiter/cal_wd.jcf101109.gz coadd ff fft
+/prvt/manu/mirlin/02feb/9/8.57/jupiter/cal_wd.jcf087098.gz coadd ff fft
+/prvt/manu/mirlin/02feb/9/10.74/jupiter/cal_wd.jcf075086.gz coadd ff fft
+/prvt/manu/mirlin/02feb/9/13.20/jupiter/cal_wd.jcf063074.gz coadd ff fft
+/prvt/manu/mirlin/02feb/9/17.24/jupiter/cal_wd.jcf003014.gz coadd ff fft
+/prvt/manu/mirlin/02feb/9/17.24/saturn/wd.scf111122.gz coadd ff fft
+/prvt/manu/mirlin/02feb/9/17.24/titan/
+/prvt/manu/mirlin/02feb/9/17.93/jupiter/cal_wd.jcf015026.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/9/17.93/saturn/cal_wd.scf147158.gz coadd ff fft
+/prvt/manu/mirlin/02feb/9/17.93/titan/
+/prvt/manu/mirlin/02feb/9/18.67/jupiter/cal_wd.jcf027038.gz coadd ff fft
+/prvt/manu/mirlin/02feb/9/18.67/saturn/cal_wd.scf159170.gz coadded ff
+/prvt/manu/mirlin/02feb/9/18.67/titan/
+/prvt/manu/mirlin/02feb/9/20.82/jupiter/cal_wd.jcf039050.gz coadd ff fft
+/prvt/manu/mirlin/02feb/9/20.82/saturn/junk149157.gz coadded ff
+/prvt/manu/mirlin/02feb/9/20.82/saturn/junk197205.gz coadded ff
+/prvt/manu/mirlin/02feb/9/20.82/saturn/junk209217.gz coadded ff
+/prvt/manu/mirlin/02feb/9/20.82/saturn/junk221223.gz coadded ff
+/prvt/manu/mirlin/02feb/9/20.82/saturn/junk233237.gz coadded ff
+/prvt/manu/mirlin/02feb/9/20.82/saturn/cal_wd.scf195230.gz 
+/prvt/manu/mirlin/02feb/9/20.82/titan/
+/prvt/manu/mirlin/02feb/9/24.20/jupiter/cal_wd.jcf051062.gz coadded FFT
+/prvt/manu/mirlin/02feb/9/24.20/saturn/cal_wd.scf231242.gz 
+/prvt/manu/mirlin/02feb/9/24.20/saturn/cs233239a.gz coadded bad
+
+
+/prvt/manu/mirlin/02feb/10/7.85/jupiter/cal_wd.jcf161169.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/02feb/10/7.85/saturn/cal_wd.scf147158.gz coadd ff fft
+/prvt/manu/mirlin/02feb/10/8.57/jupiter/
+/prvt/manu/mirlin/02feb/10/10.74/jupiter/
+/prvt/manu/mirlin/02feb/10/12.20/saturn/calatau123132.gz coadded scal FFT
+/prvt/manu/mirlin/02feb/10/12.20/saturn/cal_wd.scf121132.gz 
+/prvt/manu/mirlin/02feb/10/12.20/saturn/cal_wd.scf435446.gz
+/prvt/manu/mirlin/02feb/10/12.20/titan/
+/prvt/manu/mirlin/02feb/10/13.20/jupiter/cal_wd.jcf231242.gz coadded FFT
+/prvt/manu/mirlin/02feb/10/17.24/jupiter/junk171182.gz coadded FFT x/sat?
+/prvt/manu/mirlin/02feb/10/17.24/saturn/calsc007016.gz coadded scal FFT
+/prvt/manu/mirlin/02feb/10/17.24/saturn/wd.scf005016.gz
+/prvt/manu/mirlin/02feb/10/17.24/saturn/wd.scf349362.gz
+/prvt/manu/mirlin/02feb/10/17.24/titan/
+/prvt/manu/mirlin/02feb/10/17.93/jupiter/cal_wd.jcf183194.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/10/17.93/saturn/cal_wd.scf041052.gz coadd ff fft
+/prvt/manu/mirlin/02feb/10/17.93/saturn/scf375386.gz coadd ff fft bad
+/prvt/manu/mirlin/02feb/10/17.93/titan/
+/prvt/manu/mirlin/02feb/10/18.67/jupiter/cal_wd.jcf195206.gz coadd ff fft
+/prvt/manu/mirlin/02feb/10/18.67/saturn/cal_wd.scf053064.gz coadd ff fft
+/prvt/manu/mirlin/02feb/10/18.67/saturn/cal_wd.scf387398.gz coadded FFT
+/prvt/manu/mirlin/02feb/10/18.67/titan/
+/prvt/manu/mirlin/02feb/10/20.82/jupiter/cal_wd.jcf207218.gz coadded FFT
+/prvt/manu/mirlin/02feb/10/20.82/saturn/calatau099108.gz coadded scal FFT
+/prvt/manu/mirlin/02feb/10/20.82/saturn/cal_wd.scf091108.gz
+/prvt/manu/mirlin/02feb/10/20.82/saturn/junk413421.gz coadded ff (bad)
+/prvt/manu/mirlin/02feb/10/20.82/titan/
+/prvt/manu/mirlin/02feb/10/24.20/jupiter/cal_wd.jcf219230.gz coadded FFT
+/prvt/manu/mirlin/02feb/10/24.20/saturn/calatau111119.gz coadded scal
+/prvt/manu/mirlin/02feb/10/24.20/saturn/cal_wd.scf109120.gz 
+/prvt/manu/mirlin/02feb/10/24.20/saturn/cal_wd.scf423434.gz (not very good)
+
+/prvt/manu/mirlin/02feb/11/7.85/jupiter/cal_wd.jcf259267.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/02feb/11/7.85/saturn/cal_wd.scf147158_2.gz
+/prvt/manu/mirlin/02feb/11/7.85/saturn/cal_scf147158.gz coadd ff fft *no wd*
+/prvt/manu/mirlin/02feb/11/8.57/jupiter/cal_wd.jcf245256.gz coadd ff fft
+/prvt/manu/mirlin/02feb/11/10.74/jupiter/cal_wd.jcf233244.gz coadd ff fft
+/prvt/manu/mirlin/02feb/11/12.20/saturn/cal_wd.scf001012.gz coadded ff FFT
+/prvt/manu/mirlin/02feb/11/12.20/titan/
+/prvt/manu/mirlin/02feb/11/13.20/jupiter/cal_wd.jcf221232.gz coadd ff fft
+/prvt/manu/mirlin/02feb/11/17.24/jupiter/cal_wd.jcf161172.gz coadd ff fft
+/prvt/manu/mirlin/02feb/11/17.24/saturn/wd.scf063074.gz coadded FFT
+/prvt/manu/mirlin/02feb/11/17.24/titan/
+/prvt/manu/mirlin/02feb/11/17.93/jupiter/cal_wd.jcf173184.gz coadd ff fft (good)
+/prvt/manu/mirlin/02feb/11/17.93/saturn/cal_wd.scf087098.gz coadd ff fft
+/prvt/manu/mirlin/02feb/11/17.93/titan/
+/prvt/manu/mirlin/02feb/11/18.67/jupiter/cal_wd.jcf185196.gz coadd ff fft
+/prvt/manu/mirlin/02feb/11/18.67/saturn/cal_wd.scf135146.gz
+/prvt/manu/mirlin/02feb/11/18.67/titan/
+/prvt/manu/mirlin/02feb/11/20.82/jupiter/cal_wd.jcf197208.gz coadd ff fft
+/prvt/manu/mirlin/02feb/11/20.82/saturn/cal_wd.scf039050.gz
+/prvt/manu/mirlin/02feb/11/20.82/titan/
+/prvt/manu/mirlin/02feb/11/24.20/jupiter/cal_wd.jcf209220.gz coadd ff fft
+/prvt/manu/mirlin/02feb/11/24.20/saturn/cal_wd.scf051062.gz 
+
+/prvt/manu/mirlin/02feb/12/18.67/jupiter/cal_wd.jcf017032.gz coadd ff fft
+/prvt/manu/mirlin/02feb/12/20.82/saturn/cal_wd.scf001012.gz
+/prvt/manu/mirlin/02feb/12/20.82/titan/
+
+/prvt/manu/mirlin/02feb/13/10.74/jupiter/cal_wd.jcf125138.gz coadd ff fft
+/prvt/manu/mirlin/02feb/13/12.20/saturn/
+/prvt/manu/mirlin/02feb/13/12.20/titan/
+/prvt/manu/mirlin/02feb/13/13.20/jupiter/cal_wd.jcf117124.gz coadd ff fft
+/prvt/manu/mirlin/02feb/13/17.24/jupiter/cal_wd.jcf111116.gz coadd ff fft
+/prvt/manu/mirlin/02feb/13/17.93/jupiter/ bad
+/prvt/manu/mirlin/02feb/13/17.93/saturn/ bad
+/prvt/manu/mirlin/02feb/13/18.67/jupiter/cal_wd.jcf017032.gz coadd ff fft
+/prvt/manu/mirlin/02feb/13/20.82/saturn/sc069080.gz coadd fft (BAD)
+/prvt/manu/mirlin/02feb/13/20.82/titan/
+
+
+
+/prvt/manu/mirlin/03feb/23/7.85/saturn/ bad
+/prvt/manu/mirlin/03feb/23/12.20/saturn/cal_wd.scf125132.gz coadd ff fft
+/prvt/manu/mirlin/03feb/23/12.20/titan/
+/prvt/manu/mirlin/03feb/23/17.24/saturn/wd.scf003014.gz
+/prvt/manu/mirlin/03feb/23/17.24/titan/
+/prvt/manu/mirlin/03feb/23/17.93/saturn/cal_wd.scf059068.gz coadd ff fft
+/prvt/manu/mirlin/03feb/23/17.93/titan/
+/prvt/manu/mirlin/03feb/23/18.67/saturn/cal_wd.scf069080.gz coadd ff fft
+/prvt/manu/mirlin/03feb/23/18.67/titan/
+/prvt/manu/mirlin/03feb/23/20.82/saturn/cal_wd.scf081092.gz coadd ff fft
+/prvt/manu/mirlin/03feb/23/20.82/titan/
+/prvt/manu/mirlin/03feb/23/24.20/saturn/cal_wd.scf133144.gz
+
+/prvt/manu/mirlin/03feb/24/7.85/jupiter/cal_wd.jcf303311.gz coadd ff FFT
+/prvt/manu/mirlin/03feb/24/7.85/saturn/cal_wd.scf145155.gz coadd ff fft
+/prvt/manu/mirlin/03feb/24/8.57/jupiter/cal_wd.jcf291299.gz coadd ff fft
+/prvt/manu/mirlin/03feb/24/10.74/jupiter/cal_wd.jcf313324.gz coadd ff fft
+/prvt/manu/mirlin/03feb/24/12.20/saturn/sc123130.gz;pcal_123130.gz coadd ff
+/prvt/manu/mirlin/03feb/24/12.20/saturn/cal_wd.scf121132.gz
+/prvt/manu/mirlin/03feb/24/12.20/saturn/cal_wd.scf361372.gz
+/prvt/manu/mirlin/03feb/24/12.20/titan/
+/prvt/manu/mirlin/03feb/24/13.20/jupiter/cal_wd.jcf277288.gz coadd ff fft
+/prvt/manu/mirlin/03feb/24/17.24/jupiter/cal_wd.jcf219227.gz coadd ff fft
+/prvt/manu/mirlin/03feb/24/17.24/saturn/wd.scf003014.gz coadd ff fft
+/prvt/manu/mirlin/03feb/24/17.24/titan/
+/prvt/manu/mirlin/03feb/24/17.93/jupiter/cal_wd.jcf229240.gz coadd ff fft
+/prvt/manu/mirlin/03feb/24/17.93/saturn/cal_wd.scf015026.gz coadd ff fft
+/prvt/manu/mirlin/03feb/24/17.93/titan/
+/prvt/manu/mirlin/03feb/24/18.67/jupiter/cal_wd.jcf243251.gz coadd ff fft
+/prvt/manu/mirlin/03feb/24/18.67/saturn/cal_wd.scf073084.gz
+/prvt/manu/mirlin/03feb/24/18.67/titan/
+/prvt/manu/mirlin/03feb/24/20.82/jupiter/cal_wd.jcf253264.gz coadd ff fft
+/prvt/manu/mirlin/03feb/24/20.82/saturn/cal087096.gz;cal_atau_087096.gz coadd ff cal(alpha tau)
+/prvt/manu/mirlin/03feb/24/20.82/saturn/cal327336.gz;cal_atau_327336.gz coadd ff cal(alpha tau)
+/prvt/manu/mirlin/03feb/24/20.82/saturn/cal_wd.scf085096.gz
+/prvt/manu/mirlin/03feb/24/20.82/saturn/cal_wd.scf325336.gz
+/prvt/manu/mirlin/03feb/24/20.82/titan/
+/prvt/manu/mirlin/03feb/24/24.20/jupiter/cal_wd.jcf265276.gz coadd ff fft
+/prvt/manu/mirlin/03feb/24/24.20/saturn/cal_wd.scf109120.gz
+
+/prvt/manu/mirlin/03feb/25/7.85/jupiter/cal_wd.jcf281289.gz coadd ff fft
+/prvt/manu/mirlin/03feb/25/7.85/saturn/cal_wd.scf419434.gz coadd ff fft
+/prvt/manu/mirlin/03feb/25/8.57/jupiter/cal_wd.jcf269277.gz coadd ff fft
+/prvt/manu/mirlin/03feb/25/10.74/jupiter/cal_wd.jcf257261.gz coadd ff fft
+/prvt/manu/mirlin/03feb/25/12.20/saturn/cal_wd.scf147158.gz coadd ff fft
+/prvt/manu/mirlin/03feb/25/12.20/saturn/cal_wd.scf399408.gz coadd ff fft
+/prvt/manu/mirlin/03feb/25/12.20/titan/
+/prvt/manu/mirlin/03feb/25/13.20/jupiter/cal_wd.jcf243254.gz coadd ff fft
+/prvt/manu/mirlin/03feb/25/17.24/jupiter/cal_wd.jcf231242.gz coadd ff fft
+/prvt/manu/mirlin/03feb/25/17.24/saturn/wd.scf291302.gz coadd ff fft
+/prvt/manu/mirlin/03feb/25/17.24/titan/
+/prvt/manu/mirlin/03feb/25/17.93/jupiter/cal_wd.jcf219230.gz coadd ff fft
+/prvt/manu/mirlin/03feb/25/17.93/saturn/cal_wd.scf305314.gz coadd ff fft
+/prvt/manu/mirlin/03feb/25/17.93/titan/
+/prvt/manu/mirlin/03feb/25/18.67/jupiter/cal_wd.jcf207218.gz coadd ff fft
+/prvt/manu/mirlin/03feb/25/18.67/saturn/cala_tau317326.gz coadd ff? cal(alpha tau)
+/prvt/manu/mirlin/03feb/25/18.67/saturn/cal_wd.scf315326.gz
+/prvt/manu/mirlin/03feb/25/18.67/titan/
+/prvt/manu/mirlin/03feb/25/20.82/jupiter/cal_wd.jcf195206.gz coadd ff fft
+/prvt/manu/mirlin/03feb/25/20.82/saturn/cal_wd.scf135146.gz
+/prvt/manu/mirlin/03feb/25/20.82/saturn/cal_wd.scf375386.gz
+/prvt/manu/mirlin/03feb/25/20.82/titan/
+/prvt/manu/mirlin/03feb/25/24.20/jupiter/cal_wd.jcf183194.gz coadd ff fft
+/prvt/manu/mirlin/03feb/25/24.20/saturn/cal_wd.scf387398.gz
+
+/prvt/manu/mirlin/03feb/26/7.85/jupiter/cal_wd.jcf127135.gz coadd ff fft
+/prvt/manu/mirlin/03feb/26/12.20/saturn/cal_wd.scf017026.gz coadd ff fft
+/prvt/manu/mirlin/03feb/26/12.20/saturn/cal_wd.scf227230.gz coadd ff fft
+/prvt/manu/mirlin/03feb/26/12.20/titan/
+/prvt/manu/mirlin/03feb/26/13.20/jupiter/cal_wd.jcf113124.gz coadd ff fft
+/prvt/manu/mirlin/03feb/26/17.24/jupiter/cal_wd.jcf103111.gz coadd ff fft
+/prvt/manu/mirlin/03feb/26/17.24/saturn/wd.scf199210.gz coadd ff fft
+/prvt/manu/mirlin/03feb/26/17.24/titan/
+/prvt/manu/mirlin/03feb/26/17.93/jupiter/cal_wd.jcf091099.gz coadd ff fft
+/prvt/manu/mirlin/03feb/26/18.67/jupiter/cal_wd.jcf077088.gz coadd ff fft
+/prvt/manu/mirlin/03feb/26/18.67/saturn/cal_wd.scf187198.gz coadd ff fft
+/prvt/manu/mirlin/03feb/26/18.67/titan/
+/prvt/manu/mirlin/03feb/26/20.82/jupiter/cal_wd.jcf065076.gz coadd ff fft
+/prvt/manu/mirlin/03feb/26/20.82/saturn/cal_wd.scf005016.gz 
+/prvt/manu/mirlin/03feb/26/20.82/saturn/cal_wd.scf149162.gz
+/prvt/manu/mirlin/03feb/26/20.82/titan/
+/prvt/manu/mirlin/03feb/26/24.20/jupiter/cal_wd.jcf053064.gz coadd ff fft
+/prvt/manu/mirlin/03feb/26/24.20/saturn/cal_wd.scf137148.gz
+
+/prvt/manu/mirlin/03feb/27/7.85/jupiter/cal_wd.jcf487495.gz coadd ff fft
+/prvt/manu/mirlin/03feb/27/7.85/saturn/cal_wd.scf215387.gz coadd ff fft
+/prvt/manu/mirlin/03feb/27/8.57/jupiter/cal_wd.jcf475483.gz coadd ff
+/prvt/manu/mirlin/03feb/27/10.74/jupiter/
+/prvt/manu/mirlin/03feb/27/12.20/saturn/cal_wd.scf187202.gz coadd
+/prvt/manu/mirlin/03feb/27/12.20/saturn/cal_wd.scf359370.gz coadd
+/prvt/manu/mirlin/03feb/27/12.20/titan/
+/prvt/manu/mirlin/03feb/27/13.20/jupiter/cal_wd.jcf451459.gz coadd
+/prvt/manu/mirlin/03feb/27/17.24/jupiter/cal_wd.jcf439447.gz coadd
+/prvt/manu/mirlin/03feb/27/17.24/saturn/wd.scf175186.gz coadd ff fft
+/prvt/manu/mirlin/03feb/27/17.24/saturn/wd.scf347358.gz coadd ff fft
+/prvt/manu/mirlin/03feb/27/17.24/titan/
+/prvt/manu/mirlin/03feb/27/17.93/jupiter/cal_wd.jcf427435.gz coadd ff fft
+/prvt/manu/mirlin/03feb/27/17.93/saturn/wd.scf125148.gz coadd ff fft *problem w/ fit limb->no cmap*
+/prvt/manu/mirlin/03feb/27/17.93/saturn/cal_wd.scf335346.gz
+/prvt/manu/mirlin/03feb/27/17.93/titan/
+/prvt/manu/mirlin/03feb/27/18.67/jupiter/cal_wd.jcf415423.gz coadd
+/prvt/manu/mirlin/03feb/27/18.67/saturn/cala_tau091099.gz coadd ff? cal(alpha tau)
+/prvt/manu/mirlin/03feb/27/18.67/saturn/cal_wd.scf089100.gz
+/prvt/manu/mirlin/03feb/27/18.67/saturn/sc323334.gz coadd (BAD)
+/prvt/manu/mirlin/03feb/27/18.67/titan/
+/prvt/manu/mirlin/03feb/27/20.82/jupiter/cal_wd.jcf277411.gz coadd
+/prvt/manu/mirlin/03feb/27/20.82/saturn/wd.scf079088.gz (bad)
+/prvt/manu/mirlin/03feb/27/20.82/saturn/cal_wd.scf227250.gz
+/prvt/manu/mirlin/03feb/27/20.82/saturn/cal301310.gz coadd ff cal(alpha tau)
+/prvt/manu/mirlin/03feb/27/20.82/titan/
+/prvt/manu/mirlin/03feb/27/24.20/jupiter/cal_wd.jcf263274.gz coadd
+/prvt/manu/mirlin/03feb/27/24.20/saturn/cal_wd.scf065076.gz 
+/prvt/manu/mirlin/03feb/27/24.20/saturn/cal_wd.scf287298.gz
+
+/prvt/manu/mirlin/03feb/28/7.85/jupiter/cal_wd.jcf177185.gz coadd ff fft
+/prvt/manu/mirlin/03feb/28/7.85/jupiter/cal_wd.jcf465473.gz coadd ff fft
+/prvt/manu/mirlin/03feb/28/7.85/jupiter/wd.junk549554.gz coadd wd   ***run too short***
+/prvt/manu/mirlin/03feb/28/8.57/jupiter/cal_wd.jcf165173.gz coadd ff
+/prvt/manu/mirlin/03feb/28/8.57/jupiter/cal_wd.jcf453461.gz coadd ff
+/prvt/manu/mirlin/03feb/28/8.57/jupiter/cal_wd.jcf529540.gz coadd ff
+/prvt/manu/mirlin/03feb/28/8.57/saturn/
+/prvt/manu/mirlin/03feb/28/10.74/jupiter/
+/prvt/manu/mirlin/03feb/28/10.74/saturn/
+/prvt/manu/mirlin/03feb/28/12.20/saturn/sc301310.gz coadd
+/prvt/manu/mirlin/03feb/28/12.20/saturn/sc521528.gz coadd
+/prvt/manu/mirlin/03feb/28/12.20/titan/
+/prvt/manu/mirlin/03feb/28/13.20/jupiter/cal_wd.jcf427438.gz 
+/prvt/manu/mirlin/03feb/28/13.20/jupiter/cal_wd.jcf139150.gz
+/prvt/manu/mirlin/03feb/28/17.24/jupiter/cal_wd.jcf127138.gz coadd ff fft
+/prvt/manu/mirlin/03feb/28/17.24/jupiter/cal_wd.jcf415426.gz coadd ff fft
+/prvt/manu/mirlin/03feb/28/17.24/saturn/cal_wd.scf287298.gz coadd
+/prvt/manu/mirlin/03feb/28/17.24/titan/
+/prvt/manu/mirlin/03feb/28/17.93/jupiter/cal_wd.jcf117125.gz coadd ff fft
+/prvt/manu/mirlin/03feb/28/17.93/jupiter/cal_wd.jcf555562.gz coadd ff fft
+/prvt/manu/mirlin/03feb/28/17.93/jupiter:w/cal_wd.jcf405413.gz coadd ff fft
+/prvt/manu/mirlin/03feb/28/17.93/saturn/cal_wd.scf251262.gz coadd ff fft
+/prvt/manu/mirlin/03feb/28/17.93/titan/
+/prvt/manu/mirlin/03feb/28/18.67/jupiter/cal_wd.jcf103114.gz coadd ff fft
+/prvt/manu/mirlin/03feb/28/18.67/jupiter/cal_wd.jcf563570.gz coadd ff fft
+/prvt/manu/mirlin/03feb/28/18.67/jupiter:w/cal_wd.jcf391402.gz coadd ff fft
+/prvt/manu/mirlin/03feb/28/18.67/saturn/cala_tau241249.gz coadd ff? cal(alpha tau)
+/prvt/manu/mirlin/03feb/28/18.67/titan/
+/prvt/manu/mirlin/03feb/28/20.82/jupiter/cal_wd.jcf091102.gz coadd ff fft
+/prvt/manu/mirlin/03feb/28/20.82/jupiter/cal_wd.jcf571588.gz coadd ff fft
+/prvt/manu/mirlin/03feb/28/20.82/jupiter:w/cal_wd.jcf379390.gz coadd ff fft
+/prvt/manu/mirlin/03feb/28/20.82/saturn/cal_wd.scf199214.gz coadd ff fft
+/prvt/manu/mirlin/03feb/28/20.82/saturn/cal477490.gz
+/prvt/manu/mirlin/03feb/28/20.82/titan/
+/prvt/manu/mirlin/03feb/28/24.20/jupiter/cal_wd.jcf079090.gz coadd
+/prvt/manu/mirlin/03feb/28/24.20/jupiter:w/cal_wd.jcf363378.gz coadd ff fft
+/prvt/manu/mirlin/03feb/28/24.20/saturn/cal_wd.scf187198.gz
+
+/prvt/manu/mirlin/03mar/1/7.85/jupiter/cal_wd.jcf169177.gz coadd ff fft
+/prvt/manu/mirlin/03mar/1/7.85/saturn/cal_wd.scf155165.gz coadd ff fft (not very good)
+/prvt/manu/mirlin/03mar/1/8.57/jupiter/cal_wd.jcf179190.gz coadd FFT (not very good)
+/prvt/manu/mirlin/03mar/1/10.74/jupiter/cal_wd.jcf191202.gz coadd FFT (not very good)
+/prvt/manu/mirlin/03mar/1/12.20/saturn/cal_wd.scf131142.gz coadd ff fft
+/prvt/manu/mirlin/03mar/1/12.20/saturn/cal_wd.scf337348.gz coadd ff fft
+/prvt/manu/mirlin/03mar/1/12.20/titan/
+/prvt/manu/mirlin/03mar/1/13.20/jupiter/cal_wd.jcf204214.gz coadd FFT (good)
+/prvt/manu/mirlin/03mar/1/17.24/jupiter/cal_wd.jcf215226.gz coadd FFT (good)
+/prvt/manu/mirlin/03mar/1/17.24/saturn/wd.scf119130.gz coadd ff fft
+/prvt/manu/mirlin/03mar/1/17.24/saturn/wd.scf385396.gz coadd ff fft
+/prvt/manu/mirlin/03mar/1/17.24/titan/
+/prvt/manu/mirlin/03mar/1/17.93/jupiter/cal_wd.jcf229237.gz coadd ff fft
+/prvt/manu/mirlin/03mar/1/17.93/saturn/cal_wd.scf083093.gz coadd ff fft
+/prvt/manu/mirlin/03mar/1/17.93/saturn/cal_wd.scf373383.gz coadd ff fft
+/prvt/manu/mirlin/03mar/1/17.93/titan/
+/prvt/manu/mirlin/03mar/1/18.67/jupiter/cal_wd.jcf239250.gz coadd FFT (good)
+/prvt/manu/mirlin/03mar/1/18.67/saturn/cal_wd.scf071082.gz coadd ff fft
+/prvt/manu/mirlin/03mar/1/18.67/saturn/cal_wd.scf349360.gz coadd ff fft
+/prvt/manu/mirlin/03mar/1/18.67/titan/
+/prvt/manu/mirlin/03mar/1/20.82/jupiter/cal_wd.jcf251262.gz coadd FFT (good)
+/prvt/manu/mirlin/03mar/1/20.82/saturn/cal_wd.scf027042.gz coadd ff fft
+/prvt/manu/mirlin/03mar/1/20.82/saturn/cal_wd.scf289300.gz coadd ff fft
+/prvt/manu/mirlin/03mar/1/20.82/titan/
+/prvt/manu/mirlin/03mar/1/24.20/jupiter/cal_wd.jcf263274.gz coadd FFT (good)
+/prvt/manu/mirlin/03mar/1/24.20/saturn/cal_wd.scf003014.gz coadd ff fft
+/prvt/manu/mirlin/03mar/1/24.20/saturn/cal_wd.scf277288.gz coadd ff fft
+
+/prvt/manu/mirsi/03oct/28/0.00/saturn/   <---determine any missing wavelengths
+/prvt/manu/mirsi/03oct/28/7.85/saturn/		(bad)
+/prvt/manu/mirsi/03oct/28/11.60/saturn/
+/prvt/manu/mirsi/03oct/28/12.20/saturn/wd.sc083091.gz coadd wd mirsi depattern?
+/prvt/manu/mirsi/03oct/28/12.20/saturn/wd.sc186189.gz coadd wd mirsi depattern?
+/prvt/manu/mirsi/03oct/28/12.20/titan/
+/prvt/manu/mirsi/03oct/28/17.20/saturn/wd.sc049060.gz coadd wd mirsi depattern?
+/prvt/manu/mirsi/03oct/28/17.20/saturn/wd.sc153157.gz coadd wd mirsi depattern?
+/prvt/manu/mirsi/03oct/28/17.20/titan/
+/prvt/manu/mirsi/03oct/28/17.90/saturn/cal_wd.sc062065.gz coadd fft cal
+/prvt/manu/mirsi/03oct/28/17.90/saturn/cal_wd.sc159162.gz coadd fft cal
+/prvt/manu/mirsi/03oct/28/17.90/titan/
+/prvt/manu/mirsi/03oct/28/18.40/saturn/wd.sc069074.gz coadd wd mirsi depattern?
+/prvt/manu/mirsi/03oct/28/18.40/saturn/wd.sc164167.gz coadd wd mirsi depattern?
+/prvt/manu/mirsi/03oct/28/18.40/titan/
+/prvt/manu/mirsi/03oct/28/20.80/saturn
+/prvt/manu/mirsi/03oct/28/24.80/saturn/wd.sc078081.gz coadd wd mirsi depattern?
+/prvt/manu/mirsi/03oct/28/24.80/saturn/wd.sc174178.gz coadd wd mirsi depattern?
+
+/prvt/manu/mirsi/03oct/29/0.00/jupiter/ <--- determine any missing wavelengths
+/prvt/manu/mirsi/03oct/29/0.00/saturn/  <--- determine any missing wavelengths
+/prvt/manu/mirsi/03oct/29/7.85/jupiter/
+/prvt/manu/mirsi/03oct/29/7.85/saturn/		(bad)	
+/prvt/manu/mirsi/03oct/29/8.57/jupiter/
+/prvt/manu/mirsi/03oct/29/12.20/saturn/wd.sc058061.gz coadd wd mirsi depattern?
+/prvt/manu/mirsi/03oct/29/12.20/saturn/wd.sc119121.gz coadd wd mirsi depattern?
+/prvt/manu/mirsi/03oct/29/12.20/titan/
+/prvt/manu/mirsi/03oct/29/17.20/jupiter/
+/prvt/manu/mirsi/03oct/29/17.20/saturn/wd.sc018021.gz coadd wd mirsi depattern?
+/prvt/manu/mirsi/03oct/29/17.20/saturn/wd.sc093096.gz coadd wd mirsi depattern?
+/prvt/manu/mirsi/03oct/29/17.20/titan/
+/prvt/manu/mirsi/03oct/29/17.90/saturn/cal_wd.sc023026.gz coadd fft cal
+/prvt/manu/mirsi/03oct/29/17.90/saturn/cal_wd.sc098101.gz coadd fft cal
+/prvt/manu/mirsi/03oct/29/17.90/titan/
+/prvt/manu/mirsi/03oct/29/18.40/saturn/wd.sc028031.gz coadd wd mirsi depattern?
+/prvt/manu/mirsi/03oct/29/18.40/saturn/wd.sc103106.gz coadd wd mirsi depattern?
+/prvt/manu/mirsi/03oct/29/18.40/titan/
+/prvt/manu/mirsi/03oct/29/24.80/saturn/wd.sc074080.gz coadd wd mirsi depattern?
+/prvt/manu/mirsi/03oct/29/24.80/saturn/wd.sc107111.gz coadd wd mirsi depattern?
+
+/prvt/manu/mirsi/03dec/15/7.70/jupiter/wd.jcf160166.gz coadd ff fft
+/prvt/manu/mirsi/03dec/15/7.70/saturn/cal_sc085091.gz coadd fft cal
+/prvt/manu/mirsi/03dec/15/7.70/titan/
+/prvt/manu/mirsi/03dec/15/12.20/saturn/sc044050.gz coadd mirsi depattern?
+/prvt/manu/mirsi/03dec/15/12.20/titan/
+/prvt/manu/mirsi/03dec/15/17.20/jupiter/wd.jcf119124.gz coadd ff fft
+/prvt/manu/mirsi/03dec/15/17.20/saturn/wd.sat014019.gz coadd wd mirsi depattern?
+/prvt/manu/mirsi/03dec/15/17.20/titan/
+/prvt/manu/mirsi/03dec/15/17.90/jupiter/wd.jcf154159.gz coadd ff fft
+/prvt/manu/mirsi/03dec/15/17.90/saturn/cal_wd.sc020025.gz coadd fft cal
+/prvt/manu/mirsi/03dec/15/17.90/titan/
+/prvt/manu/mirsi/03dec/15/18.40/jupiter/wd.jcf167172.gz coadd ff fft
+/prvt/manu/mirsi/03dec/15/18.40/saturn/sc027032.gz coadd
+/prvt/manu/mirsi/03dec/15/18.40/saturn/sc179186.gz coadd mirsi depattern?
+/prvt/manu/mirsi/03dec/15/18.40/titan/
+/prvt/manu/mirsi/03dec/15/24.80/jupiter/wd.jcf173178.gz coadd ff fft
+/prvt/manu/mirsi/03dec/15/24.80/saturn/
+/prvt/manu/mirsi/03dec/15/24.80/titan/
+
+/prvt/manu/mirsi/03dec/16/7.70/titan/
+/prvt/manu/mirsi/03dec/16/12.20/saturn/sc036042.gz coadd mirsi depattern?
+/prvt/manu/mirsi/03dec/16/12.20/titan/
+/prvt/manu/mirsi/03dec/16/17.20/jupiter/wd.jcf119124.gz coadd ff fft
+/prvt/manu/mirsi/03dec/16/17.20/saturn/sc012017.gz coadd mirsi depattern?
+/prvt/manu/mirsi/03dec/16/17.20/titan/
+/prvt/manu/mirsi/03dec/16/17.90/jupiter/wd.jcf125130.gz coadd ff fft
+/prvt/manu/mirsi/03dec/16/17.90/saturn/cal_wd.sc018023.gz coadd fft cal
+/prvt/manu/mirsi/03dec/16/18.40/jupiter/wd.jcff131139.gz coadd ff fft
+/prvt/manu/mirsi/03dec/16/18.40/saturn/sc024029.gz coadd
+/prvt/manu/mirsi/03dec/16/18.40/titan/
+/prvt/manu/mirsi/03dec/16/24.80/saturn/
+
+/prvt/manu/mirsi/03dec/17/0.00/saturn/sat037038.gz;sat039041.gz coadd  <--- determine any missing wavelengths
+/prvt/manu/mirsi/03dec/17/7.70/jupiter/wd.jcf121132.gz coadd ff fft
+/prvt/manu/mirsi/03dec/17/7.70/saturn/cal_sc114115.gz		(noisy)
+/prvt/manu/mirsi/03dec/17/7.70/titan/
+/prvt/manu/mirsi/03dec/17/12.20/saturn/sc083089.gz coadd mirsi depattern?
+/prvt/manu/mirsi/03dec/17/12.20/titan/
+/prvt/manu/mirsi/03dec/17/17.20/jupiter/wd.jcf151162.gz coadd ff fft
+/prvt/manu/mirsi/03dec/17/17.20/saturn/sc059064.gz coadd mirsi depattern?
+/prvt/manu/mirsi/03dec/17/17.20/titan/
+/prvt/manu/mirsi/03dec/17/17.90/jupiter/wd.jcf145150.gz coadd ff fft
+/prvt/manu/mirsi/03dec/17/17.90/saturn/cal_wd.sc065070.gz coadd fft cal
+/prvt/manu/mirsi/03dec/17/17.90/titan/
+/prvt/manu/mirsi/03dec/17/18.40/jupiter/wd.jcf139144.gz coadd ff fft
+/prvt/manu/mirsi/03dec/17/18.40/saturn/sc065070.gz coadd mirsi depattern?
+/prvt/manu/mirsi/03dec/17/18.40/titan/
+/prvt/manu/mirsi/03dec/17/24.80/jupiter/wd.jcf133138.gz coadd ff fft
+/prvt/manu/mirsi/03dec/17/24.80/saturn/
+
+/prvt/manu/mirsi/03dec/18/0.00/saturn/ <--- determine any missing wavelengths
+/prvt/manu/mirsi/03dec/18/7.70/jupiter/wd.jcf152157.gz coadd ff fft
+/prvt/manu/mirsi/03dec/18/7.70/saturn/cal_wd.sc100111.gz coadd fft cal
+/prvt/manu/mirsi/03dec/18/11.60/saturn/sc009013.gz coadd
+/prvt/manu/mirsi/03dec/18/12.20/jupiter/wd.jcf158171.gz coadd ff fft
+/prvt/manu/mirsi/03dec/18/12.20/saturn/sc061067.gz coadd mirsi depattern?
+/prvt/manu/mirsi/03dec/18/12.20/titan/
+/prvt/manu/mirsi/03dec/18/17.20/jupiter/wd.jcf134139.gz coadd ff fft
+/prvt/manu/mirsi/03dec/18/17.20/saturn/sc085090.gz coadd mirsi depattern?
+/prvt/manu/mirsi/03dec/18/17.20/titan/
+/prvt/manu/mirsi/03dec/18/17.90/jupiter/wd.jcf140145.gz coadd ff fft
+/prvt/manu/mirsi/03dec/18/17.90/saturn/cal_wd.sc077083.gz coadd fft cal
+/prvt/manu/mirsi/03dec/18/18.40/jupiter/wd.jcf126133.gz coadd ff fft <--redone nice w/ BA!
+/prvt/manu/mirsi/03dec/18/18.40/saturn/sc091096.gz coadd
+/prvt/manu/mirsi/03dec/18/18.40/saturn/sc114119.gz coadd
+/prvt/manu/mirsi/03dec/18/18.40/titan/
+/prvt/manu/mirsi/03dec/18/24.80/jupiter/wd.jcf146151.gz coadd ff fft
+/prvt/manu/mirsi/03dec/18/24.80/saturn/
+
+/prvt/manu/mirsi/04feb/8/0.00/jupiter/  <--- determine any missing wavelengths
+/prvt/manu/mirsi/04feb/8/7.70/jupiter/
+/prvt/manu/mirsi/04feb/8/11.60/saturn/
+/prvt/manu/mirsi/04feb/8/12.20/jupiter/
+/prvt/manu/mirsi/04feb/8/12.20/saturn/sc039044.gz coadded FFT
+/prvt/manu/mirsi/04feb/8/12.20/titan/
+/prvt/manu/mirsi/04feb/8/17.20/jupiter/jc082099.gz; wd.jc082099.gz coadded FFT
+/prvt/manu/mirsi/04feb/8/17.90/jupiter/
+/prvt/manu/mirsi/04feb/8/18.40/jupiter/
+/prvt/manu/mirsi/04feb/8/18.40/titan/
+/prvt/manu/mirsi/04feb/8/24.80/jupiter/
+
+/prvt/manu/mirsi/04feb/9/7.70/saturn/cal_wd.sc100105.gz coadd fft cal
+/prvt/manu/mirsi/04feb/9/12.20/saturnsc020041.gz coadded FFT
+/prvt/manu/mirsi/04feb/9/12.20/saturn/junk028034.gz coadded
+/prvt/manu/mirsi/04feb/9/12.20/saturn/junk035041.gz coadded
+/prvt/manu/mirsi/04feb/9/17.20/saturn/sc072085.gz coadded FFT
+/prvt/manu/mirsi/04feb/9/18.40/saturn/sc042059.gz coadded FFT
+/prvt/manu/mirsi/04feb/9/24.80/saturn/sc094099.gz coadded FFT
+
+/prvt/manu/mirsi/04mar/26/0.00/jupiter/  <--- determine any missing wavelengths
+/prvt/manu/mirsi/04mar/26/7.70/jupiter/
+/prvt/manu/mirsi/04mar/26/11.60/saturn/
+/prvt/manu/mirsi/04mar/26/12.20/jupiter/
+/prvt/manu/mirsi/04mar/26/17.20/jupiter/
+/prvt/manu/mirsi/04mar/26/17.20/saturn/
+/prvt/manu/mirsi/04mar/26/17.90/jupiter/
+/prvt/manu/mirsi/04mar/26/18.40/jupiter/
+/prvt/manu/mirsi/04mar/26/18.40/saturn/
+/prvt/manu/mirsi/04mar/26/18.40/titan/
+/prvt/manu/mirsi/04mar/26/20.70/jupiter/
+/prvt/manu/mirsi/04mar/26/20.70/saturn/
+/prvt/manu/mirsi/04mar/26/24.80/jupiter/
+/prvt/manu/mirsi/04mar/26/24.80/saturn/
+
+/prvt/hokulele/mirsi/04oct/27
+/prvt/hokulele/mirsi/04oct/28
+/prvt/hokulele/mirsi/04oct/29
+/prvt/hokulele/mirsi/04oct/30
+/prvt/hokulele/mirsi/04oct/31
+
+/prvt/hokulele/mirsi/04dec/15/7.70/saturn/cal_scf306315.gz
+/prvt/hokulele/mirsi/04dec/16/7.70/saturn/cal_scf290296.gz
+/prvt/hokulele/mirsi/04dec/16/7.70/saturn/cal_scf365370.gz
+/prvt/hokulele/mirsi/04dec/17/7.70/saturn/cal_scf066071.gz
+/prvt/hokulele/mirsi/04dec/17/7.70/saturn/cal_scf168173.gz
+/prvt/hokulele/mirsi/04dec/18/7.70/saturn/cal_scf042048.gz
+
+/prvt/hokulele/mirsi/04dec/15/12.20/saturn/cal_scf369374.gz
+/prvt/hokulele/mirsi/04dec/16/12.20/saturn/cal_scf225231.gz
+/prvt/hokulele/mirsi/04dec/16/12.20/saturn/cal_scf329334.gz
+/prvt/hokulele/mirsi/04dec/17/12.20/saturn/cal_scf024029.gz
+/prvt/hokulele/mirsi/04dec/17/12.20/saturn/cal_scf113118.gz
+/prvt/hokulele/mirsi/04dec/18/12.20/saturn/cal_scf017023.gz
+
+/prvt/hokulele/mirsi/04dec/15/17.20/saturn/cal_scf275282.gz
+/prvt/hokulele/mirsi/04dec/16/17.20/saturn/cal_scf243248.gz
+/prvt/hokulele/mirsi/04dec/16/17.20/saturn/cal_scf371376.gz
+/prvt/hokulele/mirsi/04dec/17/17.20/saturn/cal_scf054059.gz
+/prvt/hokulele/mirsi/04dec/17/17.20/saturn/cal_scf150155.gz
+/prvt/hokulele/mirsi/04dec/18/17.20/saturn/cal_scf056061.gz
+
+/prvt/hokulele/mirsi/04dec/15/17.90/saturn/cal_scf283289.gz
+/prvt/hokulele/mirsi/04dec/16/17.90/saturn/cal_scf276282.gz
+/prvt/hokulele/mirsi/04dec/16/17.90/saturn/cal_scf359364.gz
+/prvt/hokulele/mirsi/04dec/17/17.90/saturn/cal_scf048053.gz
+/prvt/hokulele/mirsi/04dec/17/17.90/saturn/cal_scf137149.gz
+/prvt/hokulele/mirsi/04dec/18/17.90/saturn/cal_scf050055.gz
+
+
+/prvt/hokulele/mirsi/04dec/15/18.40/saturn/cal_scf222227.gz
+/prvt/hokulele/mirsi/04dec/16/18.40/saturn/cal_scf237242.gz
+/prvt/hokulele/mirsi/04dec/16/18.40/saturn/cal_scf341346.gz
+/prvt/hokulele/mirsi/04dec/17/18.40/saturn/cal_scf030035.gz
+/prvt/hokulele/mirsi/04dec/17/18.40/saturn/cal_scf119124.gz
+/prvt/hokulele/mirsi/04dec/18/18.40/saturn/cal_scf024029.gz
+
+/prvt/hokulele/mirsi/04dec/15/20.70/saturn/cal_scf256263.gz 
+		?mistaken filter?  -should be 7.70
+
+/prvt/hokulele/mirsi/04dec/15/24.80/saturn/cal_scf290296.gz
+/prvt/hokulele/mirsi/04dec/16/24.80/saturn/cal_scf283289.gz
+/prvt/hokulele/mirsi/04dec/16/24.80/saturn/cal_scf377382.gz
+/prvt/hokulele/mirsi/04dec/17/24.80/saturn/cal_scf060065.gz
+/prvt/hokulele/mirsi/04dec/17/24.80/saturn/cal_scf162167.gz
+/prvt/hokulele/mirsi/04dec/18/24.80/saturn/cal_scf062067.gz
+
+/prvt/hokulele/mirsi/05jan/29/17.20/saturn/cal_scf018034.gz
+
+/prvt/hokulele/mirsi/05jan/31/4.90/saturn/scf051056.gz 
+	-needs a better flat
+/prvt/hokulele/mirsi/05jan/05feb/1/4.90/saturn/sc025030.gz
+
+/prvt/hokulele/mirsi/05jan/30/7.70/saturn/cal_scf132137.gz
+/prvt/hokulele/mirsi/05jan/30/7.85/saturn/cal_scf143147.gz
+/prvt/hokulele/mirsi/05jan/30/12.20/saturn/cal_scf212217.gz
+/prvt/hokulele/mirsi/05jan/30/17.20/saturn/cal_scf153158.gz
+/prvt/hokulele/mirsi/05jan/30/17.90/saturn/cal_scf159164.gz
+/prvt/hokulele/mirsi/05jan/30/18.40/saturn/cal_scf224230.gz
+/prvt/hokulele/mirsi/05jan/30/20.83/saturn/cal_scf178183.gz
+/prvt/hokulele/mirsi/05jan/30/24.80/saturn/cal_scf169174.gz
+
+/prvt/hokulele/mirsi/05jan/30/17.20/jupiter/cal_jcf310315.gz
+/prvt/hokulele/mirsi/05jan/30/17.90/jupiter/cal_jcf304309.gz
+/prvt/hokulele/mirsi/05jan/30/20.70/jupiter/cal_jcf287290.gz (has stripes)
+/prvt/hokulele/mirsi/05jan/30/20.83/jupiter/cal_jcf291293.gz  <-- has BA
+
+/prvt/hokulele/mirsi/05jan/31/7.70/saturn/cal_scf057062.gz
+/prvt/hokulele/mirsi/05jan/31/7.70/saturn/cal_scf225230.gz
+
+/prvt/hokulele/mirsi/05jan/31/7.85/saturn/cal_scf065070.gz
+/prvt/hokulele/mirsi/05jan/31/12.20/saturn/cal_scf158163.gz
+/prvt/hokulele/mirsi/05jan/31/12.20/saturn/cal_scf218223.gz
+/prvt/hokulele/mirsi/05jan/31/17.20/saturn/cal_scf080085.gz
+/prvt/hokulele/mirsi/05jan/31/17.90/saturn/cal_scf089095.gz
+/prvt/hokulele/mirsi/05jan/31/17.90/saturn/cal_scf231237.gz
+/prvt/hokulele/mirsi/05jan/31/18.40/saturn/cal_scf121126.gz
+/prvt/hokulele/mirsi/05jan/31/18.40/saturn/cal_scf170178.gz
+/prvt/hokulele/mirsi/05jan/31/20.83/saturn/cal_scf096101.gz
+/prvt/hokulele/mirsi/05jan/31/24.80/saturn/cal_scf071076.gz
+/prvt/hokulele/mirsi/05jan/31/24.80/saturn/cal_scf238243.gz
+
+/prvt/hokulele/mirsi/05jan/31/17.20/jupiter/cal_jcf302307.gz (ghosts in c's)
+/prvt/hokulele/mirsi/05jan/31/17.90/jupiter/cal_jcf278283.gz (")   has GRS
+/prvt/hokulele/mirsi/05jan/31/20.83/jupiter/cal_jcf291295.gz (ghosts in some c's)
+
+/prvt/hokulele/mirsi/05jan/05feb/1/7.70/saturn/cal_scf032037.gz
+/prvt/hokulele/mirsi/05jan/05feb/1/12.20/saturn/cal_scf087092.gz
+/prvt/hokulele/mirsi/05jan/05feb/1/17.20/saturn/cal_scf053058.gz
+/prvt/hokulele/mirsi/05jan/05feb/1/17.90/saturn/cal_scf041048.gz
+/prvt/hokulele/mirsi/05jan/05feb/1/18.40/saturn/cal_scf060065.gz
+/prvt/hokulele/mirsi/05jan/05feb/1/20.83/saturn/cal_scf099104.gz
+/prvt/hokulele/mirsi/05jan/05feb/1/24.80/saturn/cal_scf108113.gz
+
+/prvt/hokulele/mirsi/05jan/05feb/1/17.90/jupiter/cal_jcf133140.gz
+
+/prvt/hokulele/mirsi/05feb/
+/prvt/hokulele/mirsi/05feb/24/4.90/saturn/scf192197.gz
+/prvt/hokulele/mirsi/05feb/24/7.70/saturn/cal_scf184189.gz
+/prvt/hokulele/mirsi/05feb/24/12.20/saturn/cal_scf155160.gz
+/prvt/hokulele/mirsi/05feb/24/17.20/saturn/cal_scf177182.gz
+/prvt/hokulele/mirsi/05feb/24/17.90/saturn/cal_scf171179.gz
+/prvt/hokulele/mirsi/05feb/24/18.40/saturn/cal_scf065076.gz  <don't use
+/prvt/hokulele/mirsi/05feb/24/20.83/saturn/cal_scf105110.gz
+/prvt/hokulele/mirsi/05feb/24/24.80/saturn/cal_scf161169.gz
+
+/prvt/hokulele/mirsi/05feb/25/4.90/saturn/scf150155.gz
+/prvt/hokulele/mirsi/05feb/25/7.70/saturn/cal_scf144149.gz
+/prvt/hokulele/mirsi/05feb/25/12.20/saturn/cal_scf097102.gz
+/prvt/hokulele/mirsi/05feb/25/17.20/saturn/cal_scf034040.gz
+/prvt/hokulele/mirsi/05feb/25/17.90/saturn/cal_scf135140.gz
+/prvt/hokulele/mirsi/05feb/25/20.83/saturn/cal_scf077082.gz
+/prvt/hokulele/mirsi/05feb/25/24.80/saturn/cal_scf122127.gz
+
+/prvt/hokulele/mirsi/05feb/26/4.90/saturn/scf114119.gz
+/prvt/hokulele/mirsi/05feb/26/7.70/saturn/cal_scf108113.gz
+/prvt/hokulele/mirsi/05feb/26/12.20/saturn/cal_scf084089.gz
+/prvt/hokulele/mirsi/05feb/26/17.20/saturn/cal_scf102107.gz
+/prvt/hokulele/mirsi/05feb/26/17.90/saturn/cal_scf096101.gz
+/prvt/hokulele/mirsi/05feb/26/20.83/saturn/cal_scf051056.gz
+/prvt/hokulele/mirsi/05feb/26/24.80/saturn/cal_scf090095.gz
+
+/prvt/hokulele/mirsi/05feb/27/12.20/saturn/cal_scf062067.gz
+/prvt/hokulele/mirsi/05feb/27/20.83/saturn/cal_scf032037.gz
+
+/prvt/hokulele/mirsi/05feb/28/17.20/saturn/cal_scf022033.gz
+/prvt/hokulele/mirsi/05feb/28/20.83/saturn/cal_scf083088.gz
+
+/prvt/hokulele/mirsi/05mar/1/
+
+/prvt/hokulele/mirsi/05may/2
+/prvt/hokulele/mirsi/05may/2/4.90/saturn/scf092097.gz
+/prvt/hokulele/mirsi/05may/2/7.70/saturn/cal_scf085090.gz
+/prvt/hokulele/mirsi/05may/2/12.20/saturn/cal_scf031036.gz
+/prvt/hokulele/mirsi/05may/2/17.20/saturn/cal_scf076081.gz
+/prvt/hokulele/mirsi/05may/2/17.90/saturn/cal_scf060067.gz
+/prvt/hokulele/mirsi/05may/2/18.40/saturn/cal_scf054059.gz
+/prvt/hokulele/mirsi/05may/2/20.83/saturn/cal_scf046052.gz
+/prvt/hokulele/mirsi/05may/2/24.80/saturn/cal_scf037045.gz
+
+/prvt/hokulele/mirsi/05may/3
+/prvt/hokulele/mirsi/05may/3/17.90/saturn/cal_scf051059.gz
+
+/prvt/hokulele/mirsi/05may/4
+/prvt/hokulele/mirsi/05may/4/12.20/saturn/cal_scf011013.gz
+
+/prvt/hokulele/mirsi/05may/5
+/prvt/hokulele/mirsi/05may/5/4.90/saturn/scf244249.gz
+/prvt/hokulele/mirsi/05may/5/7.70/saturn/cal_scf234242.gz
+/prvt/hokulele/mirsi/05may/5/17.20/saturn/cal_scf222227.gz
+/prvt/hokulele/mirsi/05may/5/17.90/saturn/cal_scf228233.gz
+/prvt/hokulele/mirsi/05may/5/18.40/saturn/cal_scf169174.gz
+/prvt/hokulele/mirsi/05may/5/20.83/saturn/cal_scf175181.gz
+/prvt/hokulele/mirsi/05may/5/24.80/saturn/cal_scf206213.gz
+
+/prvt/hokulele/mirsi/05may/5/17.90/jupiter/cal_jcf279283.gz  <- nice! (has BA)
+/prvt/hokulele/mirsi/05may/5/20.83/jupiter/cal_jcf288292.gz
+
+/prvt/hokulele/mirsi/05may/6
+/prvt/hokulele/mirsi/05may/6/4.90/saturn/scf164169.gz
+/prvt/hokulele/mirsi/05may/6/7.70/saturn/cal_scf170175.gz
+/prvt/hokulele/mirsi/05may/6/12.20/saturn/cal_scf176181.gz
+/prvt/hokulele/mirsi/05may/6/17.20/saturn/cal_scf140145.gz
+/prvt/hokulele/mirsi/05may/6/17.90/saturn/cal_scf132139.gz
+/prvt/hokulele/mirsi/05may/6/18.40/saturn/cal_scf146151.gz
+/prvt/hokulele/mirsi/05may/6/20.83/saturn/cal_scf152157.gz
+/prvt/hokulele/mirsi/05may/6/24.80/saturn/cal_scf158163.gz
+
+/prvt/hokulele/mirsi/05may/6/17.90/jupiter/cal_cfj198199.gz
+/prvt/hokulele/mirsi/05may/6/20.83/jupiter/cal_cfj200202.gz
+/prvt/hokulele/mirsi/05may/6/24.80/jupiter/cal_cfj204210.gz
+
+/prvt/hokulele/mirsi/05may/7
+/prvt/hokulele/mirsi/05may/7/4.90/saturn/scf022032.gz
+/prvt/hokulele/mirsi/05may/7/7.70/saturn/cal_scf034039.gz
+/prvt/hokulele/mirsi/05may/7/12.20/saturn/cal_scf040045.gz
+/prvt/hokulele/mirsi/05may/7/17.20/saturn/cal_scf071076.gz
+/prvt/hokulele/mirsi/05may/7/17.90/saturn/cal_scf060065.gz
+/prvt/hokulele/mirsi/05may/7/18.40/saturn/cal_scf059064.gz
+/prvt/hokulele/mirsi/05may/7/20.83/saturn/cal_scf053058.gz
+/prvt/hokulele/mirsi/05may/7/24.80/saturn/cal_scf047052.gz
+
+
+/prvt/wai/mirsi/05may/23
+/prvt/wai/mirsi/05may/23/4.90/jupiter/jcf176173.gz
+/prvt/wai/mirsi/05may/23/7.70/jupiter/cal_jcf234239.gz
+/prvt/wai/mirsi/05may/23/8.57/jupiter/cal_jcf243258.gz
+/prvt/wai/mirsi/05may/23/8.70/jupiter/jc_spect166168.gz
+/prvt/wai/mirsi/05may/23/8.70/jupiter/jc_spect169171.gz
+/prvt/wai/mirsi/05may/23/13.20/jupiter/cal_jcf241246.gz
+/prvt/wai/mirsi/05may/23/17.20/jupiter/cal_jcf185196.gz
+/prvt/wai/mirsi/05may/23/17.90/jupiter/cal_jcf197210.gz
+/prvt/wai/mirsi/05may/23/20.83/jupiter/cal_jcf220225.gz
+/prvt/wai/mirsi/05may/23/24.80/jupiter/cal_jcf227232.gz
+
+/prvt/wai/mirsi/05may/24
+/prvt/wai/mirsi/05may/24/7.70/jupiter/cal_jcf181186.gz
+/prvt/wai/mirsi/05may/24/7.70/jupiter/cal_jcf2352240.gz
+/prvt/wai/mirsi/05may/24/8.57/jupiter/cal_jcf262267.gz
+/prvt/wai/mirsi/05may/24/8.70/jupiter/cal_jcf242247.gz
+/prvt/wai/mirsi/05may/24/9.80/jupiter/
+/prvt/wai/mirsi/05may/24/13.20/jupiter/cal_jcf268273.gz
+/prvt/wai/mirsi/05may/24/17.20/jupiter/cal_jcf187198.gz
+/prvt/wai/mirsi/05may/24/17.90/jupiter/cal_jcf199204.gz    has Oval BA
+/prvt/wai/mirsi/05may/24/20.83/jupiter/cal_jcrf217228.gz
+/prvt/wai/mirsi/05may/24/24.80/jupiter/cal_jcf229234.gz
+
+/prvt/wai/mirsi/05may/25
+/prvt/wai/mirsi/05may/25/4.90/saturn/cal_scf00140024.gz
+/prvt/wai/mirsi/05may/25/7.70/saturn/cal_scf00260031.gz
+/prvt/wai/mirsi/05may/25/7.70/saturn/cal_scf00440049.gz
+/prvt/wai/mirsi/05may/25/8.57/saturn/				(no flats?)
+/prvt/wai/mirsi/05may/25/8.70/saturn/				( "    "  )
+/prvt/wai/mirsi/05may/25/12.20/saturn/cal_scf00380043.gz
+/prvt/wai/mirsi/05may/25/17.20/saturn/cal_scf00500056.gz
+/prvt/wai/mirsi/05may/25/17.20/saturn/cal_scf00920100.gz
+/prvt/wai/mirsi/05may/25/17.90/saturn/cal_scf00570062.gz
+/prvt/wai/mirsi/05may/25/17.90/saturn/cal_scf01010114.gz
+/prvt/wai/mirsi/05may/25/18.40/saturn/cal_scf00640069.gz
+/prvt/wai/mirsi/05may/25/20.83/saturn/cal_scf00710076.gz
+/prvt/wai/mirsi/05may/25/20.83/saturn/cal_scf01340138.gz
+/prvt/wai/mirsi/05may/25/24.80/saturn/cal_scf00780083.gz
+
+/prvt/hokulele/mirsi/05jun/11
+/prvt/hokulele/mirsi/05jun/12
+/prvt/hokulele/mirsi/05jun/13
+/prvt/hokulele/mirsi/05jun/14
+
+/prvt/wai/mirsi/05jun/14
+/prvt/wai/mirsi/05jun/14/12.20/jupiter/cal_jcf02740279.gz
+/prvt/wai/mirsi/05jun/14/17.90/jupiter/cal_jcf02660272.gz
+
+/prvt/wai/mirsi/05oct/19
+/prvt/wai/mirsi/05oct/19/17.20/saturn/cal_scf01140119.gz
+/prvt/wai/mirsi/05oct/19/17.90/saturn/cal_scf01030113.gz
+/prvt/wai/mirsi/05oct/19/18.40/saturn/cal_scf01220127.gz
+/prvt/wai/mirsi/05oct/19/20.83/saturn/cal_scf01280133.gz
+/prvt/wai/mirsi/05oct/19/24.80/saturn/cal_scf01340139.gz
+
+/prvt/wai/mirsi/05oct/22
+/prvt/wai/mirsi/05oct/22/17.20/saturn/cal_scf00410047.gz
+/prvt/wai/mirsi/05oct/22/17.90/saturn/cal_scf00350040.gz
+/prvt/wai/mirsi/05oct/22/18.40/saturn/cal_scf00280034.gz
+
+/prvt/wai/mirsi/05oct/23
+/prvt/wai/mirsi/05oct/23/17.20/saturn/				(Bad images!)
+/prvt/wai/mirsi/05oct/23/17.90/saturn/cal_scf00300032.gz
+/prvt/wai/mirsi/05oct/23/18.40/saturn/cal_scf00240029.gz
+
+/prvt/wai/mirsi/05nov/20
+/prvt/wai/mirsi/05nov/20/7.70/saturn/cal_scf00610066.gz
+/prvt/wai/mirsi/05nov/20/8.70/saturn/cal_scf00700075.gz
+/prvt/wai/mirsi/05nov/20/8.70/saturn/cal_scf01880190.gz
+/prvt/wai/mirsi/05nov/20/8.70/saturn/cal_scf02010206.gz
+/prvt/wai/mirsi/05nov/20/9.80/saturn/cal_scf00770082.gz
+/prvt/wai/mirsi/05nov/20/9.80/saturn/cal_scf02070209.gz
+/prvt/wai/mirsi/05nov/20/12.20/saturn/cal_scf00540059.gz
+/prvt/wai/mirsi/05nov/20/12.20/saturn/cal_scf01760181.gz
+/prvt/wai/mirsi/05nov/20/17.20/saturn/cal_scf00140024.gz
+/prvt/wai/mirsi/05nov/20/17.20/saturn/cal_scf01460151.gz
+/prvt/wai/mirsi/05nov/20/17.90/saturn/cal_scf00250036.gz
+/prvt/wai/mirsi/05nov/20/17.90/saturn/cal_scf01520157.gz
+/prvt/wai/mirsi/05nov/20/18.40/saturn/cal_scf00310036.gz
+/prvt/wai/mirsi/05nov/20/18.40/saturn/cal_scf01580163.gz
+/prvt/wai/mirsi/05nov/20/20.83/saturn/cal_scf00390044.gz
+/prvt/wai/mirsi/05nov/20/20.83/saturn/cal_scf01640169.gz
+/prvt/wai/mirsi/05nov/20/24.80/saturn/cal_scf00460051.gz
+/prvt/wai/mirsi/05nov/20/24.80/saturn/cal_scf01700175.gz
+
+
+/prvt/wai/mirsi/05nov/21
+/prvt/wai/mirsi/05nov/21/7.70/saturn/cal_scf00460052.gz
+/prvt/wai/mirsi/05nov/21/7.70/saturn/cal_scf01780183.gz
+/prvt/wai/mirsi/05nov/21/8.70/saturn/cal_scf00530060.gz
+/prvt/wai/mirsi/05nov/21/9.80/saturn/scf00650070.gz
+/prvt/wai/mirsi/05nov/21/9.80/saturn/scf01840189.gz
+/prvt/wai/mirsi/05nov/21/12.20/saturn/cal_scf00730077.gz
+/prvt/wai/mirsi/05nov/21/12.20/saturn/cal_scf01530158.gz
+/prvt/wai/mirsi/05nov/21/17.20/saturn/cal_scf00160020.gz
+/prvt/wai/mirsi/05nov/21/17.90/saturn/cal_scf00210026.gz
+/prvt/wai/mirsi/05nov/21/17.90/saturn/cal_scf01310143.gz
+/prvt/wai/mirsi/05nov/21/18.40/saturn/cal_scf00270032.gz
+/prvt/wai/mirsi/05nov/21/18.40/saturn/cal_scf01440149.gz
+/prvt/wai/mirsi/05nov/21/18.40/saturn/cal_scf01600165.gz
+/prvt/wai/mirsi/05nov/21/20.83/saturn/cal_scf00340039.gz
+/prvt/wai/mirsi/05nov/21/20.83/saturn/cal_scf01680171.gz
+/prvt/wai/mirsi/05nov/21/24.80/saturn/cal_scf00400045.gz
+/prvt/wai/mirsi/05nov/21/24.80/saturn/cal_scf01720177.gz
+
+
+/prvt/wai/mirsi/05dec/16
+/prvt/wai/mirsi/05dec/16/4.90/saturn/				(needs flat file)
+/prvt/wai/mirsi/05dec/16/7.70/saturn/cal_scf01270133.gz
+/prvt/wai/mirsi/05dec/16/8.70/saturn/cal_scf01360141.gz
+/prvt/wai/mirsi/05dec/16/9.80/saturn/scf01420147.gz
+/prvt/wai/mirsi/05dec/16/12.20/saturn/cal_scf01000105.gz
+/prvt/wai/mirsi/05dec/16/17.20/saturn/cal_scf01480153.gz
+/prvt/wai/mirsi/05dec/16/17.90/saturn/cal_scf00300035.gz
+/prvt/wai/mirsi/05dec/16/18.40/saturn/cal_scf00430055.gz
+/prvt/wai/mirsi/05dec/16/20.83/saturn/cal_scf00920097.gz
+/prvt/wai/mirsi/05dec/16/24.80/saturn/cal_scf00370042.gz
+
+/prvt/wai/mirsi/05dec/17
+/prvt/wai/mirsi/05dec/17/7.70/saturn/cal_scf00890094.gz
+/prvt/wai/mirsi/05dec/17/8.70/saturn/cal_scf00950100.gz
+/prvt/wai/mirsi/05dec/17/9.80/saturn/scf01010105.gz
+/prvt/wai/mirsi/05dec/17/12.20/saturn/cal_scf00830088.gz
+/prvt/wai/mirsi/05dec/17/17.20/saturn/cal_scf00140019.gz
+/prvt/wai/mirsi/05dec/17/17.90/saturn/cal_scf00200025.gz
+/prvt/wai/mirsi/05dec/17/18.40/saturn/cal_scf00320043.gz
+/prvt/wai/mirsi/05dec/17/20.83/saturn/cal_scf00560061.gz
+/prvt/wai/mirsi/05dec/17/24.80/saturn/cal_scf00260031.gz
+
+/prvt/wai/mirsi/06jan/29
+/prvt/wai/mirsi/06jan/29/4.90/saturn/cal_scf02070214.gz
+/prvt/wai/mirsi/06jan/29/7.70/saturn/cal_scf01100117.gz
+/prvt/wai/mirsi/06jan/29/7.70/saturn/cal_scf01830188.gz
+/prvt/wai/mirsi/06jan/29/8.70/saturn/cal_scf01180125.gz
+/prvt/wai/mirsi/06jan/29/9.80/saturn/cal_scf01260132.gz
+/prvt/wai/mirsi/06jan/29/9.80/saturn/cal_scf02000206.gz
+/prvt/wai/mirsi/06jan/29/12.20/saturn/cal_scf00620072.gz
+/prvt/wai/mirsi/06jan/29/12.20/saturn/cal_scf01710176.gz
+/prvt/wai/mirsi/06jan/29/17.20/saturn/cal_scf00240029.gz
+/prvt/wai/mirsi/06jan/29/17.20/saturn/cal_scf01390145.gz
+/prvt/wai/mirsi/06jan/29/17.20/saturn/cal_scf01530158.gz
+/prvt/wai/mirsi/06jan/29/17.90/saturn/cal_scf00300035.gz
+/prvt/wai/mirsi/06jan/29/17.90/saturn/cal_scf01460152.gz
+/prvt/wai/mirsi/06jan/29/18.40/saturn/cal_scf00360042.gz
+/prvt/wai/mirsi/06jan/29/18.40/saturn/cal_scf01590164.gz
+/prvt/wai/mirsi/06jan/29/20.83/saturn/cal_scf00570065.gz
+/prvt/wai/mirsi/06jan/29/20.83/saturn/cal_scf01650170.gz
+/prvt/wai/mirsi/06jan/29/24.80/saturn/cal_scf00500056.gz
+/prvt/wai/mirsi/06jan/29/24.80/saturn/cal_scf01770182.gz
+
+/prvt/wai/mirsi/06jan/29
+/prvt/wai/mirsi/06jan/29/4.90/jupiter/jcf03110320.gz
+/prvt/wai/mirsi/06jan/29/4.90/jupiter/jcf03950400.gz
+/prvt/wai/mirsi/06jan/29/4.90/jupiter/jcf04560470.gz
+/prvt/wai/mirsi/06jan/29/7.70/jupiter/cal_jcf03890394.gz
+/prvt/wai/mirsi/06jan/29/7.70/jupiter/cal_jcf04590464.gz
+/prvt/wai/mirsi/06jan/29/7.85/jupiter/cal_jcf03820388.gz
+/prvt/wai/mirsi/06jan/29/7.85/jupiter/cal_jcf04530458.gz
+/prvt/wai/mirsi/06jan/29/8.57/jupiter/cal_jcf03750381.gz
+/prvt/wai/mirsi/06jan/29/8.57/jupiter/cal_jcf04470452.gz
+/prvt/wai/mirsi/06jan/29/13.20/jupiter/cal_jcf03210332.gz
+/prvt/wai/mirsi/06jan/29/13.20/jupiter/cal_jcf04350440.gz
+/prvt/wai/mirsi/06jan/29/17.20/jupiter/cal_jcf03570362.gz
+/prvt/wai/mirsi/06jan/29/17.20/jupiter/cal_jcf04290434.gz
+/prvt/wai/mirsi/06jan/29/17.90/jupiter/cal_jcf03510356.gz
+/prvt/wai/mirsi/06jan/29/17.90/jupiter/cal_jcf04230428.gz
+/prvt/wai/mirsi/06jan/29/18.40/jupiter/cal_jcf03450350.gz
+/prvt/wai/mirsi/06jan/29/18.40/jupiter/cal_jcf04170422.gz
+/prvt/wai/mirsi/06jan/29/20.83/jupiter/cal_jcf03390344.gz
+/prvt/wai/mirsi/06jan/29/20.83/jupiter/cal_jcf04110416.gz
+/prvt/wai/mirsi/06jan/29/24.80/jupiter/cal_jcf03330338.gz
+/prvt/wai/mirsi/06jan/29/24.80/jupiter/cal_jcf04010410.gz
+
+/prvt/wai/mirsi/06jan/30
+/prvt/wai/mirsi/06jan/30/4.90/saturn/cal_scf00230028.gz
+/prvt/wai/mirsi/06jan/30/4.90/saturn/cal_scf01870192.gz
+/prvt/wai/mirsi/06jan/30/7.70/saturn/cal_scf00740079.gz
+/prvt/wai/mirsi/06jan/30/8.70/saturn/cal_scf00800085.gz
+/prvt/wai/mirsi/06jan/30/9.80/saturn/cal_scf00860091.gz
+/prvt/wai/mirsi/06jan/30/12.20/saturn/cal_scf00530058.gz
+/prvt/wai/mirsi/06jan/30/12.20/saturn/cal_scf00590064.gz
+/prvt/wai/mirsi/06jan/30/12.20/saturn/cal_scf02290234.gz
+/prvt/wai/mirsi/06jan/30/17.20/saturn/cal_scf00290034.gz
+/prvt/wai/mirsi/06jan/30/17.90/saturn/cal_scf00350040.gz
+/prvt/wai/mirsi/06jan/30/18.40/saturn/cal_scf00410046.gz
+/prvt/wai/mirsi/06jan/30/18.40/saturn/cal_scf02120216.gz
+/prvt/wai/mirsi/06jan/30/20.83/saturn/cal_scf00470052.gz
+/prvt/wai/mirsi/06jan/30/20.83/saturn/cal_scf02120216.gz
+/prvt/wai/mirsi/06jan/30/24.80/saturn/cal_scf00680073.gz
+/prvt/wai/mirsi/06jan/30/24.80/saturn/cal_scf02230228.gz
+
+/prvt/wai/mirsi/06jan/30
+/prvt/wai/mirsi/06jan/30/4.90/jupiter/jcf02930299.gz
+/prvt/wai/mirsi/06jan/30/4.90/jupiter/jcf03780383.gz
+/prvt/wai/mirsi/06jan/30/4.90/jupiter/jcf04830498.gz
+/prvt/wai/mirsi/06jan/30/7.70/jupiter/cal_jcf03720377.gz
+/prvt/wai/mirsi/06jan/30/7.70/jupiter/cal_jcf04770482.gz
+/prvt/wai/mirsi/06jan/30/7.85/jupiter/cal_jcf03660371.gz
+/prvt/wai/mirsi/06jan/30/7.85/jupiter/cal_jcf04710476.gz
+/prvt/wai/mirsi/06jan/30/8.57/jupiter/cal_jcf03600365.gz
+/prvt/wai/mirsi/06jan/30/8.57/jupiter/cal_jcf04650470.gz
+/prvt/wai/mirsi/06jan/30/8.70/jupiter/cal_jcf03540359.gz
+/prvt/wai/mirsi/06jan/30/8.70/jupiter/cal_jcf04590464.gz
+/prvt/wai/mirsi/06jan/30/9.80/jupiter/cal_jcf03480353.gz
+/prvt/wai/mirsi/06jan/30/9.80/jupiter/cal_jcf04530458.gz
+/prvt/wai/mirsi/06jan/30/13.20/jupiter/cal_jcf03360341.gz
+/prvt/wai/mirsi/06jan/30/13.20/jupiter/cal_jcf04220440.gz
+/prvt/wai/mirsi/06jan/30/13.20/jupiter/cal_jcf05220527.gz
+/prvt/wai/mirsi/06jan/30/17.20/jupiter/cal_jcf04990503.gz
+/prvt/wai/mirsi/06jan/30/17.20/jupiter/cal_jcf384395.gz
+/prvt/wai/mirsi/06jan/30/17.90/jupiter/cal_jcf03120317.gz
+/prvt/wai/mirsi/06jan/30/17.90/jupiter/cal_jcf03960401.gz   nice Oval BA
+/prvt/wai/mirsi/06jan/30/18.40/jupiter/cal_jcf03180323.gz
+/prvt/wai/mirsi/06jan/30/18.40/jupiter/cal_jcf04020407.gz
+/prvt/wai/mirsi/06jan/30/18.40/jupiter/cal_jcf04470452.gz
+/prvt/wai/mirsi/06jan/30/20.83/jupiter/cal_jcf03240329.gz
+/prvt/wai/mirsi/06jan/30/20.83/jupiter/cal_jcf05100515.gz
+/prvt/wai/mirsi/06jan/30/24.80/jupiter/cal_jcf03300335.gz
+/prvt/wai/mirsi/06jan/30/24.80/jupiter/cal_jcf05160521.gz
+/prvt/wai/mirsi/06jan/30/24.80/jupiter/cal_jcf416421.gz
+
+
+/prvt/wai/mirsi/06feb					(need flat files)
+
+/prvt/wai/mirsi/06feb/16
+/prvt/wai/mirsi/06feb/16/17.20/jupiter/cal_jcf04460457.gz
+
+
+
+/NO/ /prvt/wai/mirsi/06march!  :-(
+
+/prvt/wai/mirsi/06apr/14
+/prvt/wai/mirsi/06apr/14/7.70/saturn/cal_scf00740080.gz
+/prvt/wai/mirsi/06apr/14/8.70/saturn/			(poor)
+/prvt/wai/mirsi/06apr/14/9.80/saturn/	
+/prvt/wai/mirsi/06apr/14/12.20/saturn/cal_scf00700073.gz
+/prvt/wai/mirsi/06apr/14/17.20/saturn/cal_scf00270029.gz
+/prvt/wai/mirsi/06apr/14/17.90/saturn/cal_scf00300035.gz
+/prvt/wai/mirsi/06apr/14/18.40/saturn/cal_scf00360048.gz
+/prvt/wai/mirsi/06apr/14/20.83/saturn/cal_scf00490054.gz
+/prvt/wai/mirsi/06apr/14/24.80/saturn/cal_scf00550066.gz
+
+
+/prvt/wai/mirsi/06apr/15
+/prvt/wai/mirsi/06apr/15/4.90/saturn/
+/prvt/wai/mirsi/06apr/15/8.70/saturn/
+/prvt/wai/mirsi/06apr/15/9.80/saturn/cal_scf00700075.gz
+/prvt/wai/mirsi/06apr/15/12.20/saturn/cal_scf00770082.gz
+/prvt/wai/mirsi/06apr/15/17.20/saturn/cal_scf00840089.gz
+/prvt/wai/mirsi/06apr/15/17.90/saturn/cal_scf00900095.gz
+/prvt/wai/mirsi/06apr/15/18.40/saturn/cal_scf00970101.gz
+/prvt/wai/mirsi/06apr/15/20.83/saturn/cal_scf01020107.gz
+/prvt/wai/mirsi/06apr/15/24.80/saturn/cal_scf01080113.gz
+
+/prvt/wai/mirsi/06apr/16
+/prvt/wai/mirsi/06apr/16/7.70/saturn/cal_scf01500155_test.gz	(test?)
+/prvt/wai/mirsi/06apr/16/12.20/saturn/cal_scf00170024.gz
+/prvt/wai/mirsi/06apr/16/17.20/saturn/cal_scf01280133.gz
+/prvt/wai/mirsi/06apr/16/20.83/saturn/cal_scf01350140.gz
+/prvt/wai/mirsi/06apr/16/24.80/saturn/				(bad files)
+
+/prvt/wai/mirsi/06apr/16/4.90/jupiter/jcf02230224.gz
+/prvt/wai/mirsi/06apr/16/7.85/jupiter/cal_jcf02190222.gz
+/prvt/wai/mirsi/06apr/16/8.57/jupiter/cal_jcf02130218.gz
+/prvt/wai/mirsi/06apr/16/13.20jupiter/cal_jcf02000206.gz
+/prvt/wai/mirsi/06apr/16/17.20/jupiter/cal_jcf156175.gz         (done by you only glenn)
+/prvt/wai/mirsi/06apr/16/17.90/jupiter/cal_jcf01760187.gz
+/prvt/wai/mirsi/06apr/16/20.83/jupiter/cal_jcf01880193.gz  (has Oval BA)
+/prvt/wai/mirsi/06apr/16/24.80/jupiter/cal_jcf01940199.gz
+
+
+/prvt/iiwi/mirsi/06may/24
+/prvt/iiwi/mirsi/06may/24/4.90/saturn/cal_scf00190023.gz	(no sky files to subtract)
+/prvt/iiwi/mirsi/06may/24/7.70/saturn/cal_scf00630069.gz
+/prvt/iiwi/mirsi/06may/24/8.70/saturn/cal_scf00700075.gz
+/prvt/iiwi/mirsi/06may/24/9.80/saturn/cal_scf00760081.gz
+/prvt/iiwi/mirsi/06may/24/12.20/saturn/cal_scf00570062.gz
+/prvt/iiwi/mirsi/06may/24/17.20/saturn/cal_scf00240031.gz	(didn't use *.c files)
+/prvt/iiwi/mirsi/06may/24/17.90/saturn/cal_scf00320037.gz
+/prvt/iiwi/mirsi/06may/24/18.40/saturn/cal_scf00380043.gz
+/prvt/iiwi/mirsi/06may/24/20.83/saturn/cal_scf00440049.gz
+/prvt/iiwi/mirsi/06may/24/24.80/saturn/cal_scf00500056.gz
+
+
+/prvt/iiwi/mirsi/06may/25
+/prvt/iiwi/mirsi/06may/25/4.90/saturn/cal_scf00120019.gz
+/prvt/iiwi/mirsi/06may/25/7.70/saturn/cal_scf00500055.gz
+/prvt/iiwi/mirsi/06may/25/8.70/saturn/cal_scf00560061.gz
+/prvt/iiwi/mirsi/06may/25/9.80/saturn/cal_scf00620067.gz
+/prvt/iiwi/mirsi/06may/25/12.20/saturn/cal_scf00710076.gz
+/prvt/iiwi/mirsi/06may/25/17.20/saturn/cal_scf00200025.gz
+/prvt/iiwi/mirsi/06may/25/17.20/saturn/cal_scf01290136.gz
+/prvt/iiwi/mirsi/06may/25/17.90/saturn/cal_scf00260031.gz
+/prvt/iiwi/mirsi/06may/25/17.90/saturn/cal_scf01370142.gz
+/prvt/iiwi/mirsi/06may/25/18.40/saturn/cal_scf00320037.gz
+/prvt/iiwi/mirsi/06may/25/18.40/saturn/cal_scf01430148.gz
+/prvt/iiwi/mirsi/06may/25/20.83/saturn/cal_scf00380043.gz
+/prvt/iiwi/mirsi/06may/25/20.83/saturn/cal_scf01490154.gz
+/prvt/iiwi/mirsi/06may/25/24.80/saturn/cal_scf00440049.gz
+
+/prvt/iiwi/mirsi/06may/25
+/prvt/iiwi/mirsi/06may/25/17.20/jupiter/cal_jcf01580161.gz
+/prvt/iiwi/mirsi/06may/25/18.40/jupiter/cal_jcf01620163.gz
+/prvt/iiwi/mirsi/06may/25/20.83jupiter/cal_jcf01640166davegeo.gz
+
+/prvt/iiwi/mirsi/06may/26
+/prvt/iiwi/mirsi/06may/26/7.70/saturn/cal_scf01690174.gz
+/prvt/iiwi/mirsi/06may/26/8.70/saturn/cal_scf01750180.gz
+/prvt/iiwi/mirsi/06may/26/9.80/saturn/cal_scf01810186.gz
+/prvt/iiwi/mirsi/06may/26/12.20/saturn/cal_scf01620168.gz
+/prvt/iiwi/mirsi/06may/26/17.20/saturn/cal_scf01870192.gz
+/prvt/iiwi/mirsi/06may/26/17.90/saturn/cal_scf01930198.gz
+/prvt/iiwi/mirsi/06may/26/18.40/saturn/cal_scf01990204.gz
+/prvt/iiwi/mirsi/06may/26/20.83/saturn/cal_scf02050210.gz
+
+/prvt/iiwi/mirsi/06jun/20
+/prvt/iiwi/mirsi/06jun/20/4.90/saturn/cal_scf0040053.gz
+/prvt/iiwi/mirsi/06jun/20/7.70/saturn/cal_scf00920097.gz
+/prvt/iiwi/mirsi/06jun/20/8.70/saturn/			  (bad!)
+/prvt/iiwi/mirsi/06jun/20/9.80/saturn/cal_scf00860091.gz
+/prvt/iiwi/mirsi/06jun/20/12.20/saturn/cal_scf01040109.gz
+/prvt/iiwi/mirsi/06jun/20/17.20/saturn/cal_scf00550060.gz
+/prvt/iiwi/mirsi/06jun/20/17.90/saturn/cal_scf00610066.gz
+/prvt/iiwi/mirsi/06jun/20/18.40/saturn/cal_scf00670073.gz
+/prvt/iiwi/mirsi/06jun/20/20.83/saturn/cal_scf00740079.gz
+/prvt/iiwi/mirsi/06jun/20/24.80/saturn/cal_scf00800085.gz
+
+/prvt/iiwi/mirsi/06jun/20
+/prvt/iiwi/mirsi/06jun/20/4.90/jupiter/jcf01450158.gz
+/prvt/iiwi/mirsi/06jun/20/8.57/jupiter/cal_jcf01940196.gz    
+/prvt/iiwi/mirsi/06jun/20/13.20/jupiter/cal_cal_jcf01890190.gz
+/prvt/iiwi/mirsi/06jun/20/17.20/jupiter/cal_jcf01590164.gz
+/prvt/iiwi/mirsi/06jun/20/17.90/jupiter/cal_jcf01650170.gz  (nice Oval BA)
+/prvt/iiwi/mirsi/06jun/20/18.40/jupiter/cal_jcf01710176.gz
+/prvt/iiwi/mirsi/06jun/20/20.83/jupiter/cal_jcf01770182.gz
+/prvt/iiwi/mirsi/06jun/20/24.80/jupiter/cal_jcf01830188.gz
+
+/prvt/iiwi/mirsi/06jun/21
+/prvt/iiwi/mirsi/06jun/21/4.90/saturn/cal_scf00980103.gz	
+/prvt/iiwi/mirsi/06jun/21/7.70/saturn/cal_scf01040109.gz
+/prvt/iiwi/mirsi/06jun/21/9.80/saturn/			   (bad!)
+/prvt/iiwi/mirsi/06jun/21/12.20/saturn/cal_scf01520157.gz
+/prvt/iiwi/mirsi/06jun/21/17.20/saturn/cal_scf01100115.gz
+/prvt/iiwi/mirsi/06jun/21/17.90/saturn/cal_scf01160121.gz
+/prvt/iiwi/mirsi/06jun/21/18.40/saturn/cal_scf01220127.gz
+/prvt/iiwi/mirsi/06jun/21/20.83/saturn/cal_scf01280133.gz
+/prvt/iiwi/mirsi/06jun/21/24.80/saturn/cal_scf01340139.gz
+
+/prvt/iiwi/mirsi/06jun/22
+/prvt/iiwi/mirsi/06jun/22/4.90/saturn/scf00150023.gz	   (no calibration)
+/prvt/iiwi/mirsi/06jun/22/7.70/saturn/cal_scf00690074.gz
+/prvt/iiwi/mirsi/06jun/22/8.70/saturn/cal_scf00630068.gz
+/prvt/iiwi/mirsi/06jun/22/9.80/saturn/cal_scf00570062.gz
+/prvt/iiwi/mirsi/06jun/22/12.20/saturn/cal_scf00750080.gz
+/prvt/iiwi/mirsi/06jun/22/17.20/saturn/cal_scf00240029.gz
+/prvt/iiwi/mirsi/06jun/22/17.90/saturn/cal_scf00300035.gz
+/prvt/iiwi/mirsi/06jun/22/18.40/saturn/cal_scf00360041.gz
+/prvt/iiwi/mirsi/06jun/22/20.83/saturn/cal_scf00480053.gz
+/prvt/iiwi/mirsi/06jun/22/20.83/saturn/cal_scf00810086.gz
+/prvt/iiwi/mirsi/06jun/22/24.80/saturn/cal_scf00420047.gz
+						
+/prvt/iiwi/mirsi/06jul/05
+/prvt/iiwi/mirsi/06jul/05/4.90/jupiter/jcf00030015.gz
+/prvt/iiwi/mirsi/06jul/05/8.57/jupiter/cal_jcf00360039.gz
+/prvt/iiwi/mirsi/06jul/05/17.90/jupiter/cal_jcf00170023.gz  (Oval BA)
+/prvt/iiwi/mirsi/06jul/05/18.40/jupiter/cal_jcf00240029.gz
+/prvt/iiwi/mirsi/06jul/05/20.83/jupiter/cal_jcf00300035.gz
+
+/prvt/iiwi/mirsi/06jul/08
+/prvt/iiwi/mirsi/06jul/08/4.90/jupiter/jcf00160028.gz
+/prvt/iiwi/mirsi/06jul/08/8.57/jupiter/cal_jcf00670069.gz
+/prvt/iiwi/mirsi/06jul/08/17.20/jupiter/cal_jcf00290046.gz
+/prvt/iiwi/mirsi/06jul/08/20.83/jupiter/cal_jcf00470059.gz
+/prvt/iiwi/mirsi/06jul/08/24.80/jupiter/cal_jcf00600066.gz
+
+/prvt/iiwi/mirsi/06jul/10
+/prvt/iiwi/mirsi/06jul/10/4.90/jupiter/jcf00280041.gz
+/prvt/iiwi/mirsi/06jul/10/7.85/jupiter/cal_jcf00710076.gz
+/prvt/iiwi/mirsi/06jul/10/8.57/jupiter/cal_jcf00510062.gz
+/prvt/iiwi/mirsi/06jul/10/17.90/jupiter/cal_jcf00420049.gz
+/prvt/iiwi/mirsi/06jul/10/20.83/jupiter/cal_jcf00770083.gz
+
+/prvt/iiwi/mirsi/06aug/1
+/prvt/iiwi/mirsi/06aug/1/4.90/jupiter/jcf00140021.gz
+/prvt/iiwi/mirsi/06aug/1/8.57/jupiter/cal_jcf00570063.gz
+/prvt/iiwi/mirsi/06aug/1/17.20/jupiter/cal_jcf00220032.gz
+/prvt/iiwi/mirsi/06aug/1/17.90/jupiter/cal_jcf00330038.gz
+/prvt/iiwi/mirsi/06aug/1/18.40/jupiter/cal_jcf00390044.gz
+/prvt/iiwi/mirsi/06aug/1/20.83/jupiter/cal_jcf00450050.gz
+/prvt/iiwi/mirsi/06aug/1/24.80/jupiter/cal_jcf00510056.gz
+
+/prvt/iiwi/mirsi/06aug/10
+/prvt/iiwi/mirsi/06aug/10/4.90/jupiter/jcf00840087.gz
+/prvt/iiwi/mirsi/06aug/10/7.70/jupiter/junkjcf01360137acorrelate.gz (junk!)
+/prvt/iiwi/mirsi/06aug/10/8.70/jupiter/cal_jcf01200129.gz  (Oval BA w/ white ring)
+/prvt/iiwi/mirsi/06aug/10/9.80/jupiter/cal_jcf0130013.gz
+/prvt/iiwi/mirsi/06aug/10/13.20/jupiter/cal_jcf01380147.gz
+/prvt/iiwi/mirsi/06aug/10/17.20/jupiter/cal_jcf00890100.gz
+/prvt/iiwi/mirsi/06aug/10/18.40/jupiter/cal_jcf01010106.gz
+/prvt/iiwi/mirsi/06aug/10/20.83/jupiter/cal_jcf01070112.gz
+/prvt/iiwi/mirsi/06aug/10/24.80/jupiter/cal_jcf01130118.gz
+
+/prvt/iiwi/mirsi/06aug/12
+
+/prvt/iiwi/mirsi/06aug/24
+
+This must be updated!
+
+At least these dates (which show Oval BA):
+/prvt/iiwi/mirsi/07apr/5
+/prvt/iiwi/mirsi/07may/29
+/prvt/iiwi/mirsi/07sep/8
+/prvt/iiwi/mirsi/07oct/4
+/prvt/iiwi/mirsi/07oct/5
+
+/prvt/cirs6/mirsi/2008jun16
+/prvt/cirs6/mirsi/2008jun17
+/prvt/cirs6/mirsi/2008jul10
+/prvt/cirs6/mirsi/2008jul11
+/prvt/cirs6/mirsi/2008aug7
+/prvt/cirs6/mirsi/2008aug8
+/prvt/cirs6/mirsi/2008oct23
+/prvt/cirs6/mirsi/2008oct24
+/prvt/cirs6/mirsi/2008nov4
+/prvt/cirs6/mirsi/2008nov5
+						
+/prvt/cirs6/mirsi/2009feb23
+/prvt/cirs6/mirsi/2009feb25
+/prvt/cirs6/mirsi/2009may2
+/prvt/cirs6/mirsi/2009may3
+/prvt/cirs6/mirsi/2009may28
+
+/prvt/cirs11/mirsi/2009jul20/
+/prvt/cirs11/mirsi/2009aug25/
+/prvt/cirs11/mirsi/2009aug26/
+/prvt/cirs11/mirsi/2009aug27/
+/prvt/cirs11/mirsi/2009dec20/
+/prvt/cirs11/mirsi/2009dec21/
+/prvt/cirs11/mirsi/2009dec22/
+/prvt/cirs11/mirsi/2009dec23/
+
+/prvt/cirs11/mirsi/2010jan9/
+/prvt/cirs11/mirsi/2010mar30/
+/prvt/cirs11/mirsi/2010mar31/
+/prvt/cirs11/mirsi/2010apr2/ 
+/prvt/cirs11/mirsi/2010jun23/
+/prvt/cirs11/mirsi/2010jun24/
+/prvt/cirs11/mirsi/2010jun25/
+/prvt/cirs11/mirsi/2010jun30/
+/prvt/cirs11/mirsi/2010jul1/
+/prvt/cirs11/mirsi/2010nov3/ 
+/prvt/cirs11/mirsi/2010nov5/ 
+/prvt/cirs11/mirsi/2010dec5/ 
+/prvt/cirs11/mirsi/2010dec6/ 
+
+/prvt/cirs11/mirsi/2011mar25/
+/prvt/cirs11/mirsi/2011mar26/
+/prvt/cirs11/mirsi/2011apr26/
+/prvt/cirs11/mirsi/2011apr27/
+/prvt/cirs11/mirsi/2011apr28/
+/prvt/cirs11/mirsi/2011may22/
+/prvt/cirs11/mirsi/2011may23/
+/prvt/cirs11/mirsi/2011jul24a
+/prvt/cirs11/mirsi/2011jul24b
+/prvt/cirs11/mirsi/2011jul25/
+/prvt/cirs11/mirsi/2011jul26/
+/prvt/cirs11/mirsi/2011jul27/
+/prvt/cirs11/mirsi/2011aug2/ 
+/prvt/cirs11/mirsi/2011aug29/
+/prvt/cirs11/mirsi/2011aug3/ 
+/prvt/cirs11/mirsi/2011aug30/
+/prvt/cirs11/mirsi/2011aug31/
+/prvt/cirs11/mirsi/2011aug31j
+/prvt/cirs11/mirsi/2011aug4/ 
+/prvt/cirs11/mirsi/2011aug5/ 
+/prvt/cirs11/mirsi/2011sep1j/
+/prvt/cirs11/mirsi/2011sep1s/
+
+Add 2012 and 2013.
+
+Add here or in a separate area data from IRSHELL and TEXES.
+
