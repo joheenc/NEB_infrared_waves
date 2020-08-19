@@ -1,0 +1,9 @@
+/prvt/cirs12/comics/2017jan14/17.65/jupiter/Cal_jcfF455457.cmap.gz
+/prvt/cirs12/comics/2017jan14/17.65/jupiter/Cal_jcfF749751.cmap.gz
+/prvt/cirs12/comics/2017jan14/17.65/jupiter/Cal_jcfF955957.cmap.gz
+/prvt/cirs12/comics/2017jan14/17.65/jupiter/cal_jcfF455457.cmap.gz
+/prvt/cirs12/comics/2017jan14/17.65/jupiter/cal_jcfF749751.cmap.gz
+/prvt/cirs12/comics/2017jan14/17.65/jupiter/cal_jcfF955957.cmap.gz
+/prvt/cirs12/comics/2017jan14/17.65/jupiter/jcfF455457.cmap.gz
+/prvt/cirs12/comics/2017jan14/17.65/jupiter/jcfF749751.cmap.gz
+/prvt/cirs12/comics/2017jan14/17.65/jupiter/jcfF955957.cmap.gz
